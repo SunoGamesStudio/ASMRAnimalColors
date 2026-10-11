@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <!-- Soft 3D Lighting & Shadows -->
+    <filter id="trunkGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="rgba(2,132,199,0.35)"/>
+    </filter>
+    <filter id="sprayGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="0" stdDeviation="6" flood-color="rgba(56,189,248,0.6)"/>
+    </filter>
+    
+    <!-- Elephant Skin Gradient -->
+    <linearGradient id="trunkSkin" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0284c7"/>
+      <stop offset="45%" stop-color="#38bdf8"/>
+      <stop offset="85%" stop-color="#7dd3fc"/>
+      <stop offset="100%" stop-color="#bae6fd"/>
+    </linearGradient>
+
+    <!-- Snout Rim Gradient -->
+    <linearGradient id="snoutPink" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f472b6"/>
+      <stop offset="70%" stop-color="#ec4899"/>
+      <stop offset="100%" stop-color="#be185d"/>
+    </linearGradient>
+
+    <!-- Water Stream Gradient -->
+    <linearGradient id="waterJet" x1="100%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.95"/>
+      <stop offset="50%" stop-color="#67e8f9" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.95"/>
+    </linearGradient>
+  </defs>
+
+  <!-- High-Pressure Water / Paint Spray Jet Erupting from Nozzle -->
+  <g filter="url(#sprayGlow)">
+    <!-- Main pressurized jet burst -->
+    <path d="M 232 112 C 190 85 140 68 82 58 C 72 56 68 68 76 74 C 122 106 172 138 214 152 Z" fill="url(#waterJet)"/>
+    
+    <!-- Secondary inner rainbow fluid arcs -->
+    <path d="M 226 116 C 185 96 142 84 94 76 C 86 74 84 84 92 88 C 132 112 176 136 212 146 Z" fill="#facc15" opacity="0.9"/>
+    <path d="M 220 120 C 182 106 148 98 106 94 C 98 93 96 102 104 105 C 140 122 178 138 208 144 Z" fill="#ef4444" opacity="0.85"/>
+    <path d="M 216 124 C 182 114 152 108 118 106 C 110 105 108 114 116 116 C 146 128 178 138 204 142 Z" fill="#a855f7" opacity="0.8"/>
+
+    <!-- High-velocity forward flying water/paint droplets -->
+    <circle cx="56" cy="52" r="14" fill="#38bdf8"/>
+    <circle cx="52" cy="48" r="4.5" fill="#ffffff"/>
+    
+    <circle cx="92" cy="42" r="10" fill="#facc15"/>
+    <circle cx="89" cy="39" r="3" fill="#ffffff"/>
+
+    <circle cx="42" cy="86" r="11" fill="#ef4444"/>
+    <circle cx="39" cy="83" r="3.5" fill="#ffffff"/>
+
+    <circle cx="118" cy="58" r="8" fill="#4ade80"/>
+    <circle cx="72" cy="112" r="9" fill="#a855f7"/>
+    <circle cx="138" cy="82" r="7" fill="#fb923c"/>
+    <circle cx="152" cy="52" r="6" fill="#38bdf8"/>
+    <circle cx="168" cy="98" r="8" fill="#f43f5e"/>
+    <circle cx="68" cy="32" r="5" fill="#e0f2fe"/>
+    <circle cx="32" cy="64" r="6" fill="#facc15"/>
+  </g>
+
+  <!-- Elephant Trunk Main Body -->
+  <g filter="url(#trunkGlow)">
+    <!-- Main curved trunk shape from base (bottom-right) curving up to nozzle (center-top) -->
+    <path d="M 388 448 C 340 448 290 412 248 356 C 206 300 188 238 202 176 C 208 148 222 126 238 112 C 248 103 260 114 256 124 C 244 154 238 190 252 236 C 274 306 332 376 424 404 C 438 408 444 426 432 436 C 418 446 404 448 388 448 Z" fill="url(#trunkSkin)" stroke="#0369a1" stroke-width="4"/>
+
+    <!-- Rainbow Bands wrapping around the trunk curves -->
+    <!-- Purple Ring -->
+    <path d="M 352 422 C 314 402 284 366 266 334 L 282 318 C 302 350 332 384 372 402 Z" fill="#9333ea" stroke="#7e22ce" stroke-width="2"/>
+    <!-- Blue Ring -->
+    <path d="M 312 376 C 280 348 256 312 244 280 L 258 266 C 272 296 296 330 330 358 Z" fill="#2563eb" stroke="#1d4ed8" stroke-width="2"/>
+    <!-- Green Ring -->
+    <path d="M 276 322 C 252 290 238 254 232 222 L 246 210 C 252 240 266 274 292 304 Z" fill="#22c55e" stroke="#15803d" stroke-width="2"/>
+    <!-- Yellow Ring -->
+    <path d="M 248 260 C 232 228 226 196 226 168 L 240 158 C 240 184 246 214 262 244 Z" fill="#facc15" stroke="#ca8a04" stroke-width="2"/>
+    <!-- Orange Ring -->
+    <path d="M 230 198 C 224 174 224 150 228 132 L 242 126 C 238 142 238 164 244 186 Z" fill="#f97316" stroke="#c2410c" stroke-width="2"/>
+    <!-- Red Ring near nozzle -->
+    <path d="M 226 148 C 226 136 228 124 234 116 L 246 114 C 242 122 240 132 240 142 Z" fill="#ef4444" stroke="#b91c1c" stroke-width="2"/>
+
+    <!-- Trunk skin highlight shine along upper ridge -->
+    <path d="M 390 412 C 320 380 270 318 250 248 C 238 206 242 168 252 136" fill="none" stroke="#ffffff" stroke-width="6" stroke-linecap="round" opacity="0.6"/>
+
+    <!-- Cute Pink Snout Rim / Nozzle Opening -->
+    <ellipse cx="236" cy="114" rx="22" ry="14" transform="rotate(-38 236 114)" fill="url(#snoutPink)" stroke="#9d174d" stroke-width="3"/>
+    <ellipse cx="236" cy="114" rx="16" ry="9" transform="rotate(-38 236 114)" fill="#831843"/>
+
+    <!-- Nostril holes inside snout -->
+    <ellipse cx="231" cy="110" rx="5" ry="3.5" transform="rotate(-38 231 110)" fill="#370718"/>
+    <ellipse cx="241" cy="118" rx="5" ry="3.5" transform="rotate(-38 241 118)" fill="#370718"/>
+
+    <!-- Glowing liquid drop in the nozzle -->
+    <circle cx="234" cy="112" r="5" fill="#38bdf8"/>
+    <circle cx="232" cy="110" r="1.8" fill="#ffffff"/>
+  </g>
+</svg>

@@ -1,0 +1,713 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+  
+  <!-- Official YouTube Playables SDK (MUST be loaded before any other script or game code) -->
+  <script src="https://www.youtube.com/game_api/v1"></script>
+
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <title>ASMR Animal Colors</title>
+  
+  <meta name="description" content="ASMR Animal Colors. Soothing anti-stress coloring, tactile Play-Doh clay, wool yarn embroidery, and relaxing meditative music for mindful creativity.">
+  <meta name="keywords" content="ASMR, ASMR Animal Colors, color asmr, zen art therapy, relaxing games, anti stress coloring, satisfying art, animal coloring, free draw canvas">
+
+  
+  <meta property="og:title" content="ASMR Animal Colors">
+  <meta property="og:description" content="ASMR Animal Colors - Soothing anti-stress coloring with tactile ASMR tools, Zen meditative music, and creative blank canvas.">
+  <meta property="og:type" content="game">
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600;700&family=Plus+Jakarta+Sans:wght@500;600;700;800&family=Quicksand:wght@600;700&display=swap" rel="stylesheet">
+  
+  <link rel="stylesheet" href="./style.css?v=40">
+
+  <!-- Suno Games Studio - Cryptographic License & Asset Vault Shield -->
+  <script>
+  (function(){
+    var h=window.location.hostname.toLowerCase();
+    var a=['sunogamesstudio.github.io','localhost','127.0.0.1'];
+    var ok=a.some(function(x){return h===x||h.endsWith('.'+x)||h.endsWith('youtube.com')||h.endsWith('google.com')||h.endsWith('googlevideo.com');});
+    if(!ok){window.stop();document.documentElement.innerHTML='<div style="background:#0f172a;color:#ef4444;height:100vh;display:flex;align-items:center;justify-content:center;font-family:sans-serif;text-align:center;"><h2>🚫 Unauthorized Domain Copy<br><small style="color:#94a3b8;font-size:14px;">Licensed exclusively to Suno Games Studio & YouTube Playables</small></h2></div>';throw new Error('SEC');}
+    document.addEventListener('contextmenu',function(e){e.preventDefault();});
+  })();
+  </script>
+
+</head>
+<body>
+  <div id="app">
+    
+    <section id="screen-splash" class="screen active">
+      
+      <div class="video-splash-stage" id="video-splash-stage">
+        <video id="splash-video" autoplay muted playsinline loop preload="auto" aria-label="Animated Elephant Splash">
+          <source src="assets/smaller.mp4" type="video/mp4">
+        </video>
+        
+        <canvas id="splash-sparkles-canvas" class="splash-sparkles-canvas"></canvas>
+        
+        <div class="splash-loading-mask" aria-hidden="true"></div>
+        
+        <div class="splash-video-footer visible">
+          <button id="btn-splash-play" class="splash-start-btn splash-play-glass" title="Play Game" aria-label="Play">
+            <span class="start-play-arrow">▶</span>
+            <span class="start-label">PLAY</span>
+          </button>
+        </div>
+      </div>
+    </section>
+
+    
+    <section id="screen-categories" class="screen">
+      <header class="top-bar categories-top-bar">
+        <div class="categories-brand-header">
+          <div class="categories-paw-icon" aria-hidden="true">
+            <svg viewBox="0 0 100 100" class="rainbow-paw-svg" width="46" height="46" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <defs>
+                <linearGradient id="rainbowPawGrad" x1="15%" y1="85%" x2="85%" y2="15%">
+                  <stop offset="0%" stop-color="#7d449e" />
+                  <stop offset="16%" stop-color="#7d449e" />
+                  <stop offset="16.1%" stop-color="#3c7ec4" />
+                  <stop offset="33%" stop-color="#3c7ec4" />
+                  <stop offset="33.1%" stop-color="#46a36f" />
+                  <stop offset="50%" stop-color="#46a36f" />
+                  <stop offset="50.1%" stop-color="#f2c94c" />
+                  <stop offset="66%" stop-color="#f2c94c" />
+                  <stop offset="66.1%" stop-color="#f2994a" />
+                  <stop offset="83%" stop-color="#f2994a" />
+                  <stop offset="83.1%" stop-color="#eb5757" />
+                  <stop offset="100%" stop-color="#eb5757" />
+                </linearGradient>
+              </defs>
+              
+              <ellipse cx="23" cy="38" rx="8" ry="11" transform="rotate(-25 23 38)" fill="#eb5757" stroke="#2b2d42" stroke-width="2.6"/>
+              <ellipse cx="41" cy="24" rx="8" ry="11.5" transform="rotate(-7 41 24)" fill="#f2994a" stroke="#2b2d42" stroke-width="2.6"/>
+              <ellipse cx="59" cy="24" rx="8" ry="11.5" transform="rotate(7 59 24)" fill="#7fa655" stroke="#2b2d42" stroke-width="2.6"/>
+              <ellipse cx="77" cy="38" rx="8" ry="11" transform="rotate(25 77 38)" fill="#4e88c7" stroke="#2b2d42" stroke-width="2.6"/>
+              
+              <path d="M 23 68 C 20 74, 16 80, 14 87 C 17 84, 20 78, 24 72 Z" fill="#eb5757"/>
+              <path d="M 27 71 C 24 78, 22 85, 20 92 C 24 88, 27 81, 30 75 Z" fill="#f2994a"/>
+              <path d="M 32 74 C 30 82, 28 89, 26 96 C 30 91, 34 84, 36 77 Z" fill="#f2c94c"/>
+              <circle cx="13" cy="93" r="1.8" fill="#3c7ec4"/>
+              <circle cx="19" cy="98" r="1.4" fill="#7d449e"/>
+              <circle cx="27" cy="99" r="1.2" fill="#eb5757"/>
+              
+              <path d="M 33 46 C 40 41, 46 45, 50 49 C 54 45, 60 41, 67 46 C 75 52, 75 64, 67 72 C 59 80, 41 80, 33 72 C 25 64, 25 52, 33 46 Z"
+                    fill="url(#rainbowPawGrad)" stroke="#2b2d42" stroke-width="2.8" stroke-linejoin="round"/>
+            </svg>
+          </div>
+          <div class="categories-brand-title">
+            <span class="brand-title-line brand-title-animal">ANIMAL</span>
+            <span class="brand-title-line brand-title-colors">
+              <span class="brand-letter" style="--l-color: #eb5757;">C</span><span class="brand-letter" style="--l-color: #f2994a;">O</span><span class="brand-letter" style="--l-color: #eab308;">L</span><span class="brand-letter" style="--l-color: #10b981;">O</span><span class="brand-letter" style="--l-color: #0284c7;">R</span><span class="brand-letter" style="--l-color: #7d449e;">S</span>
+            </span>
+          </div>
+        </div>
+        <div class="top-bar-actions">
+          <div class="coin-badge" title="Your Coins">
+            <span class="coin-icon"><img src="assets/icons/dollar.webp" alt="Coins" class="coin-dollar-img"/></span>
+            <span class="coin-count-val">60</span>
+          </div>
+          <button id="btn-categories-settings" class="categories-settings-btn" title="Settings">
+            <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round">
+              <circle cx="12" cy="12" r="3"/>
+              <path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z"/>
+            </svg>
+          </button>
+        </div>
+
+        
+        <div id="categories-options-dropdown" class="settings-modal-overlay hidden">
+          <div class="settings-modal-backdrop"></div>
+          <div class="settings-modal-sheet" role="dialog" aria-modal="true" aria-label="Settings">
+            <div class="settings-modal-header">
+              <h2 class="settings-modal-title">Settings</h2>
+              <button type="button" class="settings-modal-close" title="Close Settings" aria-label="Close">
+                <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
+                  <line x1="18" y1="6" x2="6" y2="18"/>
+                  <line x1="6" y1="6" x2="18" y2="18"/>
+                </svg>
+              </button>
+            </div>
+            <div class="settings-modal-body">
+              
+              <div class="settings-card-group">
+                <div class="settings-row theme-row">
+                  <div class="settings-row-left">
+                    <span class="settings-row-icon theme-icon-badge" aria-hidden="true">
+                      <img src="assets/icons/Theme.svg" alt="Theme" class="settings-icon-img" />
+                    </span>
+                    <span class="settings-row-label">Theme</span>
+                  </div>
+                  <div class="settings-row-right">
+                    <div class="theme-dots-list" role="radiogroup" aria-label="Theme Selection">
+                      <button type="button" class="theme-dot-btn active" data-theme="ivory" title="Ivory" aria-label="Ivory Theme" style="--dot-color: #FAF8F5;"></button>
+                      <button type="button" class="theme-dot-btn" data-theme="peach" title="Peach" aria-label="Peach Theme" style="--dot-color: #FFAE73;"></button>
+                      <button type="button" class="theme-dot-btn" data-theme="blue" title="Sky Blue" aria-label="Sky Blue Theme" style="--dot-color: #5DC6FA;"></button>
+                      <button type="button" class="theme-dot-btn" data-theme="pink" title="Candy Pink" aria-label="Candy Pink Theme" style="--dot-color: #FFAFD2;"></button>
+                      <button type="button" class="theme-dot-btn" data-theme="dark" title="Midnight Charcoal" aria-label="Dark Theme" style="--dot-color: #1e293b;"></button>
+                    </div>
+                    <span class="settings-chevron">›</span>
+                  </div>
+                </div>
+              </div>
+
+              
+              <div class="settings-card-group">
+                <div class="settings-row">
+                  <div class="settings-row-left">
+                    <span class="settings-row-icon music-icon-badge" aria-hidden="true">
+                      <img src="assets/icons/Music.svg" alt="Music" class="settings-icon-img" />
+                    </span>
+                    <span class="settings-row-label">Background Music</span>
+                  </div>
+                  <div class="settings-row-right">
+                    <label class="ios-toggle-switch" aria-label="Toggle Background Music">
+                      <input type="checkbox" id="toggle-categories-music" class="music-toggle-input" checked>
+                      <span class="ios-toggle-slider"></span>
+                    </label>
+                  </div>
+                </div>
+                <div class="music-segmented-picker" role="radiogroup" aria-label="Zen Music Track Selection">
+                  <button type="button" class="music-track-btn active" data-track="track_1" title="Track 1" aria-label="Track 1">
+                    <span class="track-active-dot" aria-hidden="true"></span>
+                    <span class="track-btn-text">Track 1</span>
+                  </button>
+                  <button type="button" class="music-track-btn" data-track="track_2" title="Track 2" aria-label="Track 2">
+                    <span class="track-active-dot" aria-hidden="true"></span>
+                    <span class="track-btn-text">Track 2</span>
+                  </button>
+                  <button type="button" class="music-track-btn" data-track="track_3" title="Track 3" aria-label="Track 3">
+                    <span class="track-active-dot" aria-hidden="true"></span>
+                    <span class="track-btn-text">Track 3</span>
+                  </button>
+                </div>
+              </div>
+
+              
+              <div class="settings-card-group">
+                <div class="settings-row">
+                  <div class="settings-row-left">
+                    <span class="settings-row-icon sounds-icon-badge" aria-hidden="true">
+                      <img src="assets/icons/Sounds.svg" alt="Sounds" class="settings-icon-img" />
+                    </span>
+                    <span class="settings-row-label">Sound Effects</span>
+                  </div>
+                  <div class="settings-row-right">
+                    <label class="ios-toggle-switch" aria-label="Toggle Sound Effects">
+                      <input type="checkbox" id="toggle-categories-sounds" class="sounds-toggle-input" checked>
+                      <span class="ios-toggle-slider"></span>
+                    </label>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </header>
+
+      <div class="categories-page-body">
+        <main id="categories-grid" class="categories-container-reference">
+          
+        </main>
+      </div>
+    </section>
+
+    
+    <section id="screen-gallery" class="screen">
+      <header class="top-bar">
+        <div class="nav-buttons-group">
+          <button id="btn-home-gallery" class="santa-icon-btn" title="Categories">
+            <img src="assets/icons/home.svg" alt="Categories" class="santa-icon-img"/>
+          </button>
+        </div>
+        <div id="gallery-title" class="screen-title">Farm Animals</div>
+        <div class="top-bar-actions">
+          <div class="coin-badge" title="Your Coins">
+            <span class="coin-icon"><img src="assets/icons/dollar.webp" alt="Coins" class="coin-dollar-img"/></span>
+            <span class="coin-count-val">60</span>
+          </div>
+          <div class="gallery-options-wrapper">
+            <button id="btn-gallery-settings" class="santa-icon-btn" title="Settings / Options">
+              <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round">
+                <circle cx="12" cy="12" r="3"/>
+                <path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z"/>
+              </svg>
+            </button>
+            
+            <div id="gallery-options-dropdown" class="settings-modal-overlay hidden">
+              <div class="settings-modal-backdrop"></div>
+              <div class="settings-modal-sheet" role="dialog" aria-modal="true" aria-label="Settings">
+                <div class="settings-modal-header">
+                  <h2 class="settings-modal-title">Settings</h2>
+                  <button type="button" class="settings-modal-close" title="Close Settings" aria-label="Close">
+                    <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
+                      <line x1="18" y1="6" x2="6" y2="18"/>
+                      <line x1="6" y1="6" x2="18" y2="18"/>
+                    </svg>
+                  </button>
+                </div>
+                <div class="settings-modal-body">
+                  
+                  <div class="settings-card-group">
+                    <div class="settings-row theme-row">
+                      <div class="settings-row-left">
+                        <span class="settings-row-icon theme-icon-badge" aria-hidden="true">
+                          <img src="assets/icons/Theme.svg" alt="Theme" class="settings-icon-img" />
+                        </span>
+                        <span class="settings-row-label">Theme</span>
+                      </div>
+                      <div class="settings-row-right">
+                        <div class="theme-dots-list" role="radiogroup" aria-label="Theme Selection">
+                          <button type="button" class="theme-dot-btn active" data-theme="ivory" title="Ivory" aria-label="Ivory Theme" style="--dot-color: #FAF8F5;"></button>
+                          <button type="button" class="theme-dot-btn" data-theme="peach" title="Peach" aria-label="Peach Theme" style="--dot-color: #FFAE73;"></button>
+                          <button type="button" class="theme-dot-btn" data-theme="blue" title="Sky Blue" aria-label="Sky Blue Theme" style="--dot-color: #5DC6FA;"></button>
+                          <button type="button" class="theme-dot-btn" data-theme="pink" title="Candy Pink" aria-label="Candy Pink Theme" style="--dot-color: #FFAFD2;"></button>
+                          <button type="button" class="theme-dot-btn" data-theme="dark" title="Midnight Charcoal" aria-label="Dark Theme" style="--dot-color: #1e293b;"></button>
+                        </div>
+                        <span class="settings-chevron">›</span>
+                      </div>
+                    </div>
+                  </div>
+
+                  
+                  <div class="settings-card-group">
+                    <div class="settings-row">
+                      <div class="settings-row-left">
+                        <span class="settings-row-icon music-icon-badge" aria-hidden="true">
+                          <img src="assets/icons/Music.svg" alt="Music" class="settings-icon-img" />
+                        </span>
+                        <span class="settings-row-label">Background Music</span>
+                      </div>
+                      <div class="settings-row-right">
+                        <label class="ios-toggle-switch" aria-label="Toggle Background Music">
+                          <input type="checkbox" id="toggle-gallery-music" class="music-toggle-input" checked>
+                          <span class="ios-toggle-slider"></span>
+                        </label>
+                      </div>
+                    </div>
+                    <div class="music-segmented-picker" role="radiogroup" aria-label="Zen Music Track Selection">
+                      <button type="button" class="music-track-btn active" data-track="track_1" title="Track 1" aria-label="Track 1">
+                        <span class="track-active-dot" aria-hidden="true"></span>
+                        <span class="track-btn-text">Track 1</span>
+                      </button>
+                      <button type="button" class="music-track-btn" data-track="track_2" title="Track 2" aria-label="Track 2">
+                        <span class="track-active-dot" aria-hidden="true"></span>
+                        <span class="track-btn-text">Track 2</span>
+                      </button>
+                      <button type="button" class="music-track-btn" data-track="track_3" title="Track 3" aria-label="Track 3">
+                        <span class="track-active-dot" aria-hidden="true"></span>
+                        <span class="track-btn-text">Track 3</span>
+                      </button>
+                    </div>
+                  </div>
+
+                  
+                  <div class="settings-card-group">
+                    <div class="settings-row">
+                      <div class="settings-row-left">
+                        <span class="settings-row-icon sounds-icon-badge" aria-hidden="true">
+                          <img src="assets/icons/Sounds.svg" alt="Sounds" class="settings-icon-img" />
+                        </span>
+                        <span class="settings-row-label">Sound Effects</span>
+                      </div>
+                      <div class="settings-row-right">
+                        <label class="ios-toggle-switch" aria-label="Toggle Sound Effects">
+                          <input type="checkbox" id="toggle-gallery-sounds" class="sounds-toggle-input" checked>
+                          <span class="ios-toggle-slider"></span>
+                        </label>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </header>
+      <main id="animal-grid" class="gallery-container">
+        
+      </main>
+    </section>
+
+    
+    <section id="screen-studio" class="screen">
+      
+      <header class="studio-top-bar-santa">
+        
+        <div class="studio-col-left">
+          <div class="studio-options-wrapper">
+            <button id="btn-studio-settings" class="santa-icon-btn" title="Settings / Options">
+              <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round">
+                <circle cx="12" cy="12" r="3"/>
+                <path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z"/>
+              </svg>
+            </button>
+            
+            <div id="studio-options-dropdown" class="settings-modal-overlay hidden">
+              <div class="settings-modal-backdrop"></div>
+              <div class="settings-modal-sheet" role="dialog" aria-modal="true" aria-label="Settings">
+                <div class="settings-modal-header">
+                  <h2 class="settings-modal-title">Settings</h2>
+                  <button type="button" class="settings-modal-close" title="Close Settings" aria-label="Close">
+                    <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
+                      <line x1="18" y1="6" x2="6" y2="18"/>
+                      <line x1="6" y1="6" x2="18" y2="18"/>
+                    </svg>
+                  </button>
+                </div>
+                <div class="settings-modal-body">
+                  
+                  <div class="settings-card-group">
+                    <div class="settings-row theme-row">
+                      <div class="settings-row-left">
+                        <span class="settings-row-icon theme-icon-badge" aria-hidden="true">
+                          <img src="assets/icons/Theme.svg" alt="Theme" class="settings-icon-img" />
+                        </span>
+                        <span class="settings-row-label">Theme</span>
+                      </div>
+                      <div class="settings-row-right">
+                        <div class="theme-dots-list" role="radiogroup" aria-label="Theme Selection">
+                          <button type="button" class="theme-dot-btn active" data-theme="ivory" title="Ivory" aria-label="Ivory Theme" style="--dot-color: #FAF8F5;"></button>
+                          <button type="button" class="theme-dot-btn" data-theme="peach" title="Peach" aria-label="Peach Theme" style="--dot-color: #FFAE73;"></button>
+                          <button type="button" class="theme-dot-btn" data-theme="blue" title="Sky Blue" aria-label="Sky Blue Theme" style="--dot-color: #5DC6FA;"></button>
+                          <button type="button" class="theme-dot-btn" data-theme="pink" title="Candy Pink" aria-label="Candy Pink Theme" style="--dot-color: #FFAFD2;"></button>
+                          <button type="button" class="theme-dot-btn" data-theme="dark" title="Midnight Charcoal" aria-label="Dark Theme" style="--dot-color: #1e293b;"></button>
+                        </div>
+                        <span class="settings-chevron">›</span>
+                      </div>
+                    </div>
+                  </div>
+
+                  
+                  <div class="settings-card-group">
+                    <div class="settings-row">
+                      <div class="settings-row-left">
+                        <span class="settings-row-icon music-icon-badge" aria-hidden="true">
+                          <img src="assets/icons/Music.svg" alt="Music" class="settings-icon-img" />
+                        </span>
+                        <span class="settings-row-label">Background Music</span>
+                      </div>
+                      <div class="settings-row-right">
+                        <label class="ios-toggle-switch" aria-label="Toggle Background Music">
+                          <input type="checkbox" id="toggle-studio-music" class="music-toggle-input" checked>
+                          <span class="ios-toggle-slider"></span>
+                        </label>
+                      </div>
+                    </div>
+                    <div class="music-segmented-picker" role="radiogroup" aria-label="Zen Music Track Selection">
+                      <button type="button" class="music-track-btn active" data-track="track_1" title="Track 1" aria-label="Track 1">
+                        <span class="track-active-dot" aria-hidden="true"></span>
+                        <span class="track-btn-text">Track 1</span>
+                      </button>
+                      <button type="button" class="music-track-btn" data-track="track_2" title="Track 2" aria-label="Track 2">
+                        <span class="track-active-dot" aria-hidden="true"></span>
+                        <span class="track-btn-text">Track 2</span>
+                      </button>
+                      <button type="button" class="music-track-btn" data-track="track_3" title="Track 3" aria-label="Track 3">
+                        <span class="track-active-dot" aria-hidden="true"></span>
+                        <span class="track-btn-text">Track 3</span>
+                      </button>
+                    </div>
+                  </div>
+
+                  
+                  <div class="settings-card-group">
+                    <div class="settings-row">
+                      <div class="settings-row-left">
+                        <span class="settings-row-icon sounds-icon-badge" aria-hidden="true">
+                          <img src="assets/icons/Sounds.svg" alt="Sounds" class="settings-icon-img" />
+                        </span>
+                        <span class="settings-row-label">Sound Effects</span>
+                      </div>
+                      <div class="settings-row-right">
+                        <label class="ios-toggle-switch" aria-label="Toggle Sound Effects">
+                          <input type="checkbox" id="toggle-studio-sounds" class="sounds-toggle-input" checked>
+                          <span class="ios-toggle-slider"></span>
+                        </label>
+                      </div>
+                    </div>
+                  </div>
+
+                  
+                  <div class="settings-card-group">
+                    <button type="button" id="btn-save-picture" class="settings-row settings-action-row">
+                      <div class="settings-row-left">
+                        <span class="settings-row-icon save-icon-badge" aria-hidden="true">
+                          <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="#007AFF" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round">
+                            <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/>
+                            <polyline points="7 10 12 15 17 10"/>
+                            <line x1="12" y1="15" x2="12" y2="3"/>
+                          </svg>
+                        </span>
+                        <span class="settings-row-label">Save Picture</span>
+                      </div>
+                      <div class="settings-row-right">
+                        <span class="settings-chevron">›</span>
+                      </div>
+                    </button>
+                  </div>
+
+                  
+                  <div class="settings-card-group">
+                    <button type="button" id="btn-clear-picture" class="settings-row settings-action-row clear-action-row">
+                      <div class="settings-row-left">
+                        <span class="settings-row-icon clear-icon-badge" aria-hidden="true">
+                          <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="#FF3B30" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+                            <path d="m7 21-4.3-4.3c-1-1-1-2.5 0-3.4l9.6-9.6c1-1 2.5-1 3.4 0l5.6 5.6c1 1 1 2.5 0 3.4L13 21"/>
+                            <path d="M22 21H7"/>
+                            <path d="m5 11 9 9"/>
+                          </svg>
+                        </span>
+                        <span class="settings-row-label" style="color: #FF3B30;">Clear Picture</span>
+                      </div>
+                      <div class="settings-row-right">
+                        <span class="settings-chevron" style="color: rgba(255, 59, 48, 0.5);">›</span>
+                      </div>
+                    </button>
+                  </div>
+
+                </div>
+              </div>
+            </div>
+          </div>
+          <button id="btn-studio-home" class="santa-icon-btn" title="Home">
+            <img src="assets/icons/home.svg" alt="Home" class="santa-icon-img"/>
+          </button>
+          <button id="btn-studio-gallery" class="santa-icon-btn" title="All Levels / Choose Animal">
+            <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round">
+              <rect x="3" y="3" width="7" height="7" rx="1.5"/>
+              <rect x="14" y="3" width="7" height="7" rx="1.5"/>
+              <rect x="14" y="14" width="7" height="7" rx="1.5"/>
+              <rect x="3" y="14" width="7" height="7" rx="1.5"/>
+            </svg>
+          </button>
+          <div class="coin-badge" id="studio-coin-badge" title="Your Coins">
+            <span class="coin-icon"><img src="assets/icons/dollar.webp" alt="Coins" class="coin-dollar-img"/></span>
+            <span class="coin-count-val">60</span>
+          </div>
+        </div>
+
+        
+        <div class="studio-col-right">
+          <button id="btn-skip-studio" class="santa-skip-btn" title="Skip to Next Animal (50)">
+            <span class="skip-icon-symbol">
+              <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
+                <polygon points="5 4 15 12 5 20 5 4" fill="currentColor"></polygon>
+                <line x1="19" y1="5" x2="19" y2="19"></line>
+              </svg>
+            </span>
+            <span class="skip-coin-badge">
+              <img src="assets/icons/dollar.webp" alt="Coins" class="skip-dollar-img"/>
+              <span class="skip-coin-text">50</span>
+            </span>
+          </button>
+        </div>
+      </header>
+
+      <main class="studio-main-area">
+        
+        <div class="studio-level-card-banner">
+          <div class="studio-level-info-col">
+            <div id="studio-level-headline" class="studio-level-badge-title">LEVEL 1</div>
+            <div id="studio-pill-name" class="studio-animal-badge-name">BEAR</div>
+          </div>
+          <div class="studio-animal-badge-avatar-wrap">
+            <img id="studio-pill-avatar" class="studio-animal-badge-avatar" src="" alt="avatar"/>
+          </div>
+        </div>
+
+        
+        <div id="canvas-container">
+          
+          <div id="studio-loader" class="studio-loader">Loading Artwork... 🎨</div>
+          <button id="btn-complete-tick" class="canvas-corner-tick-btn hidden" title="Finish &amp; Celebrate Artwork">
+            <span class="corner-tick-icon">
+              <svg viewBox="0 0 24 24" width="34" height="34" fill="none" stroke="#ffffff" stroke-width="3.8" stroke-linecap="round" stroke-linejoin="round">
+                <polyline points="20 6 9 17 4 12"/>
+              </svg>
+            </span>
+          </button>
+          
+          <button id="btn-corner-eraser" class="canvas-corner-eraser-btn" title="Eraser Tool">
+            <img src="assets/icons/Eraser_01.svg" alt="Eraser" class="corner-eraser-img"/>
+          </button>
+          
+          <button id="btn-undo" class="canvas-corner-undo-btn" title="Undo Last Stroke">
+            <img src="assets/icons/undo.svg" alt="Undo" class="corner-undo-img"/>
+          </button>
+        </div>
+
+        
+        <div class="studio-colors-bar">
+          <div id="primary-crayons-tray" class="primary-crayons-tray">
+            
+          </div>
+          <button id="btn-toggle-more-colors" class="bubbly-btn more-colors-toggle-btn" title="More Colors">
+            <img src="assets/icons/Selection.svg" alt="More Colors" class="selection-btn-img"/>
+          </button>
+        </div>
+      </main>
+
+      
+      <footer class="studio-controls-bar">
+        <div class="tools-tray">
+          <button class="tool-btn active" data-tool="crayon" title="Marker">
+            <span class="tool-icon">
+              <img src="assets/icons/marker.svg" alt="Marker" class="tool-btn-img"/>
+            </span>
+          </button>
+          <button class="tool-btn" data-tool="dough" title="Dough (Play-Doh ASMR)">
+            <span class="tool-icon">
+              <img src="assets/icons/dough.svg" alt="Dough" class="tool-btn-img"/>
+            </span>
+          </button>
+          <button class="tool-btn" data-tool="yarn" title="Yarn (Wool Thread ASMR)">
+            <span class="tool-icon">
+              <img src="assets/icons/thread.svg" alt="Yarn" class="tool-btn-img"/>
+            </span>
+          </button>
+          <button class="tool-btn" data-tool="sponge" title="Sponge (ASMR Texture)">
+            <span class="tool-icon">
+              <img src="assets/icons/sponge.webp" alt="Sponge" class="tool-btn-img"/>
+            </span>
+          </button>
+          <button class="tool-btn" data-tool="fill" title="Bucket Fill">
+            <span class="tool-icon">
+              <img src="assets/icons/Bucket.svg" alt="Bucket" class="tool-btn-img"/>
+            </span>
+          </button>
+          <button class="tool-btn" data-tool="splash" title="Elephant Rainbow Spray">
+            <span class="tool-icon">
+              <img src="assets/icons/elephant_rainbow_icon.svg" alt="Elephant Spray" class="tool-btn-img elephant-tool-btn-img"/>
+            </span>
+          </button>
+        </div>
+      </footer>
+
+      
+      <div id="more-colors-drawer" class="more-colors-drawer hidden">
+        <div class="more-colors-header">
+          <span>More Colors</span>
+          <button id="btn-close-more-colors" class="modal-close-btn-mini">✕</button>
+        </div>
+        <div id="secondary-crayons-tray" class="secondary-crayons-tray">
+          
+        </div>
+
+        
+        <div class="special-palette-section">
+          <div class="special-palette-header">
+            <span>✨ Special Neon &amp; Glitter Colors</span>
+          </div>
+          <div id="neon-crayons-container" class="neon-crayons-container">
+            
+          </div>
+        </div>
+      </div>
+    </section>
+
+    
+    <div id="modal-level-complete" class="modal-overlay">
+      <div class="modal-card modal-celebrate-card">
+        
+        <div class="completion-artwork-frame-wrapper">
+          <div class="completion-artwork-frame">
+            <img id="completion-artwork-img" class="completion-artwork-img" src="" alt="Your colored drawing"/>
+          </div>
+          <button id="btn-save-artwork" class="btn-save-artwork" title="Save Artwork to Gallery">
+            <span class="save-icon">💾</span>
+            <span class="save-text">Save Drawing</span>
+          </button>
+        </div>
+
+        
+        <div id="completion-reward-pill" class="completion-reward-pill hidden">
+          <img src="assets/icons/dollar.webp" alt="Coins" class="coin-dollar-img"/>
+          <span id="completion-reward-text">+20 Coins</span>
+        </div>
+
+        
+        <div class="modal-actions-row">
+          <button id="btn-replay-level" class="bubbly-btn btn-replay-action" title="Replay">
+            <span>🔄 Replay</span>
+          </button>
+          <button id="btn-next-level" class="play-button-big btn-next-simple" title="Next">
+            <span id="btn-next-animal-text">Next ➔</span>
+          </button>
+        </div>
+
+        
+        <button id="btn-modal-gallery" class="link-btn-subtle">Choose from Gallery</button>
+      </div>
+    </div>
+
+    
+    <div id="modal-confirm-clear" class="modal-overlay">
+      <div class="modal-card modal-confirm-card">
+        <div class="confirm-icon">🗑️</div>
+        <h2 class="modal-headline">Clear Picture?</h2>
+        <p class="modal-subtext">Are you sure you want to start over with this animal?</p>
+        <div class="modal-actions-stacked">
+          <button id="btn-confirm-clear-action" class="bubbly-btn danger-btn">Clear Everything</button>
+          <button id="btn-cancel-clear-action" class="bubbly-btn modal-sub-btn">Keep Coloring</button>
+        </div>
+      </div>
+    </div>
+
+    
+    <div id="modal-challenges" class="modal-overlay">
+      <div class="modal-card modal-challenges-card">
+        <div class="modal-header-row">
+          <h2 class="modal-headline">🎯 Safari Challenges</h2>
+          <button class="modal-close-btn btn-close-challenges">✕</button>
+        </div>
+        <p class="modal-subtext">Complete coloring milestones for golden coins!</p>
+        <div id="challenges-list" class="challenges-scroll-list">
+          
+        </div>
+      </div>
+    </div>
+
+    
+    <div id="modal-unlock-level" class="modal-overlay">
+      <div class="modal-card modal-unlock-card">
+        <div class="unlock-icon-big">🔒</div>
+        <h2 id="unlock-level-title" class="modal-headline">Unlock Animal?</h2>
+        
+        <div class="unlock-cost-badge">
+          <span>Cost:</span>
+          <span class="cost-val"><img src="assets/icons/dollar.webp" alt="Coins" class="coin-dollar-img"/> 50 Coins</span>
+        </div>
+
+        <div id="unlock-insufficient-notice" class="unlock-notice-box hidden">
+          Need 50 Coins to unlock! ⭐
+        </div>
+
+        <div class="modal-actions-stacked">
+          <button id="btn-confirm-unlock" class="play-button-big modal-btn-unlock">
+            <span>🔓</span>
+            <span>Unlock Now</span>
+          </button>
+          <button id="btn-cancel-unlock" class="bubbly-btn modal-sub-btn">Back to Selection</button>
+        </div>
+      </div>
+    </div>
+
+    
+    <canvas id="fireworks-canvas" class="fireworks-canvas hidden"></canvas>
+
+    
+    <div id="app-toast" class="app-toast hidden">
+      <span id="toast-icon" class="toast-icon">✨</span>
+      <span id="toast-text" class="toast-text">Picture saved!</span>
+    </div>
+
+  </div>
+
+  <script type="module" src="./js/app.js?v=40"></script>
+</body>
+</html>
