@@ -25,14 +25,15 @@
   
   <link rel="stylesheet" href="./style.css?v=40">
 
-  <!-- Suno Games Studio - Cryptographic License & Asset Vault Shield -->
+  <!-- Suno Games Studio - Cryptographic License Shield -->
   <script>
   (function(){
     var h=window.location.hostname.toLowerCase();
     var a=['sunogamesstudio.github.io','localhost','127.0.0.1'];
     var ok=a.some(function(x){return h===x||h.endsWith('.'+x)||h.endsWith('youtube.com')||h.endsWith('google.com')||h.endsWith('googlevideo.com');});
-    if(!ok){window.stop();document.documentElement.innerHTML='<div style="background:#0f172a;color:#ef4444;height:100vh;display:flex;align-items:center;justify-content:center;font-family:sans-serif;text-align:center;"><h2>🚫 Unauthorized Domain Copy<br><small style="color:#94a3b8;font-size:14px;">Licensed exclusively to Suno Games Studio & YouTube Playables</small></h2></div>';throw new Error('SEC');}
+    if(!ok){window.stop();document.documentElement.innerHTML='<div style="background:#0f172a;color:#ef4444;height:100vh;display:flex;align-items:center;justify-content:center;font-family:sans-serif;text-align:center;"><h2>🚫 Unauthorized Domain Copy<br><small style="color:#94a3b8;font-size:14px;">Licensed to Suno Games Studio & YouTube Playables</small></h2></div>';throw new Error('SEC');}
     document.addEventListener('contextmenu',function(e){e.preventDefault();});
+    document.addEventListener('dragstart',function(e){if(e.target&&e.target.nodeName==='IMG'){e.preventDefault();}});
   })();
   </script>
 
