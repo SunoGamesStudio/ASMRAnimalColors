@@ -1,1 +1,402 @@
-function _0x427a(){const _0x57582f=['D2fYBG','ywLUAw5Nu2vJBW','Dw5SB2nRzwq','CNbbweO','Dg9YqwXS','mJKYntaZExrvDMPv','yM91BMnPBMC','zxnZ','y2XHAw1Lza','DxbKyxrLq2HHBa','yMHJB1G','zMLUza','mJCXntG1otbOwfvZBg0','vhjPCgXLienOyq','CMvZzxrdDxjYzq','yxf1yxrPyW','vezeuLK','zxzLBcaXig9Mia','y29TCgXLDgvK','C2f2zvn0yxrL','zgLUB19LEhbSBW','C3bSAxq','zwrdAgfSBgvUzW','zxzLBa','C2v0tgfZDfbSyq','C3rVCMfNzuTLEq','nxWXFdq','BwLU','CNLhAwz0','D25nCW','rgLUBYbuyw1LCG','z2v0r2LMDfjLBq','rMLUAxnOigfUEq','Bg9Hzfn0yxrL','y29PBNm','uMrSD0u','sMLnAMG','ChjVz3jLC3m','C3bLBMrdB2LUCW','CwrPEvC','D3Livfi','BMfTzq','z2fluhu','DgLZDa','y2XHC3nmAxn0','qxf1yxrPyYbxBW','CMv3yxjK','C3rYAw5NAwz5','zM9YrwfJAa','DMfSDwvZ','DM5Kt2S','y2XLyxi','Dc12ywW','BKnVDw50zxi','sM11zKW','BgvUz2vqCM9NCG','z2v0q2f0zwDVCG','CLvZzwq','y3vYCMvUDa','ndqZnJG4nMrut0LswG','Cgf0Aa','y29SB3jZvxnLza','rMfPBgvKihrVia','quDpzMG','DhjPCgXLx2nOyq','BMLqyui','rgLZCgXHEq','CgXHEuzHBMzHCG','uMfPBMjVDYbbCG','mJm2nJG2ohf2D29UAq','wuTbDwi','CMvTB3zL','BNrmzxzLBenVBa','BMDLv2L0AenVAq','CMvJB3jKq29SBW','z2LMDenVB2XKBW','Bg9HzcbNyw1PzG','ideGy29SB3jPBG','ywrKq29PBNm','BM90Awz5','EvbYB2DYzxnZ','A2v5CW','Dgv4DenVBNrLBG','B3jZ','B2nLyw5FzgL2zq','r2DXEuK','qw5PBwfS','BgfZDfbSyxLLza','CgXHEunSAwnR','BgfZDeDPzNruAq','BxbPB24','B25dAgfUz2u','C2f2zsbNyw1PzG','Dg9mB3DLCKnHCW','ndiZotGWDunnzgTv','C29Tzq','mtfnyNfYtxu','zMLYC3rFBgv2zq','y29TCgXLDgvmzq','EwvKqw5PBwfS','y2vPBa','yw50ignYyxLVBG','yw5PBwfSx2nVBa','Be9NA0C','t3nmrxG','Dw5SB2nRtgv2zq','AxnbCNjHEq','m3W1','CMvY','AunYq2m','t2nLyw4GrxHWBa','BfDPDgHdB2LUCW','AhDeuhe','mtu0nty3n21hq09xBW','Bwf4','rgLUB3nHDxjZ','ChvZAa','BMXVy2S','sw5dDxjYzw50ta','u1j4ywu','vxnLiduGzgLMzG','ngzxvwTKuG','AgfZvw5JBgfPBq','C2f2zurHDge','AwnHDgLVBIbKyq','C2TPCenOywXSzq','CgXHEunVAw4','zxjLBNqGDMLICG','mMD0ve5OqW','lMnVAw4Ty291BG','vufVrvG','rLfXsgO','DMvS','q29TCgXLDguGta','CvzZv0u','zMXVB3i','z2v0q29PBNm','zLb5DLe','Bgv2zwXZ','DxbKyxrLq29PBG','svvIDu8','y2HHBgXLBMDLCW','BM93','zgLUB3nHDxjZ','zgHTtfe','zxjWAwvJzq','zYbSzxzLBa','BLzHveK','BgLZDgvUzxjZ','AxnmzxzLBfvUBa','ywrK','C2vUzfnJB3jL','AxrOqwq','C2v0sxrLBq','CKfxs2O','CgXHEuDPzNq','AxnhAwz0uMvHza','mJrht29Qq1y','B2nRzwq','CxvLCNLtzwXLyW','z2v0tgfZDfbSyq','C2TPCeXLDMvSvW','mZmWmtKZogTXz21wzq','BwfW','y1vpvgS','t2TeAxy','zNviAvy','Dw5SB2nRzwrmzq','B3jPBMDFz2fTAq','CMfPBMjVD19HCG','Dge6','DgfYz2v0','BMrZ','BfDPDgHbza','Aw5PDa','sMTmzvO','CgXHEuXLDMvSvq','D0TcDM8','yw5PBwf0zunVAq','CMfUzg9T'];_0x427a=function(){return _0x57582f;};return _0x427a();}const _0x4ae53f=_0x1875;(function(_0xe410e6,_0x2593b6){const _0x103f46=_0x1875,_0x4148fa=_0xe410e6();while(!![]){try{const _0x25dce0=-parseInt(_0x103f46(0x258))/(-0x1*0x585+-0x5c2+0xb48)*(parseInt(_0x103f46(0x21f))/(0x5fd+-0x91*-0xb+0x1*-0xc36))+-parseInt(_0x103f46(0x298))/(0x535*-0x1+-0x1310+0x1*0x1848)+-parseInt(_0x103f46(0x218))/(0x1b4+-0x208a+0x1eda)*(parseInt(_0x103f46(0x1fd))/(0x6f7+0x6d*-0x2f+-0xdf*-0xf))+-parseInt(_0x103f46(0x28e))/(0x74f*-0x3+0x1e71+0x2*-0x43f)+-parseInt(_0x103f46(0x210))/(-0x1*-0x2d3+0x1ee3*-0x1+-0x33*-0x8d)*(parseInt(_0x103f46(0x23c))/(0x1ba6+-0x1eea+-0x4*-0xd3))+parseInt(_0x103f46(0x241))/(-0x6a1+-0x1fa*0x10+0x2*0x1325)+parseInt(_0x103f46(0x25f))/(0x296*0x3+0xfda+-0x1792)*(parseInt(_0x103f46(0x1ff))/(-0x248+-0x137a+-0x15cd*-0x1));if(_0x25dce0===_0x2593b6)break;else _0x4148fa['push'](_0x4148fa['shift']());}catch(_0x2e13d6){_0x4148fa['push'](_0x4148fa['shift']());}}}(_0x427a,-0x84768+0x1d6*-0x497+0x188eae));import{playables}from'./playables-sdk.js';import{sounds}from'./audio.js';function _0x1875(_0x58573d,_0xf94b60){_0x58573d=_0x58573d-(-0x32*0x3c+-0x5*-0x45b+-0x81f);const _0x3bb5be=_0x427a();let _0x333362=_0x3bb5be[_0x58573d];if(_0x1875['IFsSxi']===undefined){var _0x1dcd87=function(_0x596b0d){const _0x37ffba='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x1cec16='',_0xf6cd75='';for(let _0x19a0a8=-0x11*-0x69+-0x17d9+0x438*0x4,_0xf6e48c,_0x4cfd1e,_0xe099a=0x78c+-0x201f*-0x1+-0x1*0x27ab;_0x4cfd1e=_0x596b0d['charAt'](_0xe099a++);~_0x4cfd1e&&(_0xf6e48c=_0x19a0a8%(-0x85*-0x33+0x1b26+-0x35a1)?_0xf6e48c*(-0x8f9+-0x4df+-0xb*-0x148)+_0x4cfd1e:_0x4cfd1e,_0x19a0a8++%(0x2497+0x1148+-0x35db))?_0x1cec16+=String['fromCharCode'](0x1dfc+0x205d*-0x1+0x360&_0xf6e48c>>(-(0xbbd+0x27e*-0x1+-0x93d)*_0x19a0a8&-0x1a7e+-0xa1f*-0x3+-0x3d9*0x1)):-0xbaf*0x2+-0x1*-0x993+0xdcb){_0x4cfd1e=_0x37ffba['indexOf'](_0x4cfd1e);}for(let _0x32e784=-0x11d2+-0xac2+0x1c94,_0x52ccbe=_0x1cec16['length'];_0x32e784<_0x52ccbe;_0x32e784++){_0xf6cd75+='%'+('00'+_0x1cec16['charCodeAt'](_0x32e784)['toString'](0x1*0xb5d+-0x3*0x8fd+0x1*0xfaa))['slice'](-(-0x6e3+-0x426*0x4+0x177d));}return decodeURIComponent(_0xf6cd75);};_0x1875['jyvHEx']=_0x1dcd87,_0x1875['SNtvAI']={},_0x1875['IFsSxi']=!![];}const _0x57e314=_0x3bb5be[-0x2*0xa2a+0x11ff+0x255];_0x1875['fyyJab']!==_0x57e314&&(_0x1875['SNtvAI']={},_0x1875['fyyJab']=_0x57e314);const _0x21bbca=_0x1875['SNtvAI'][_0x58573d];return _0x21bbca===undefined?(_0x333362=_0x1875['jyvHEx'](_0x333362),_0x1875['SNtvAI'][_0x58573d]=_0x333362):_0x333362=_0x21bbca,_0x333362;}export class GamificationManager{constructor(){const _0x47e2a1=_0x1875,_0x4eca59={'yqLZg':_0x47e2a1(0x205)+_0x47e2a1(0x247)+'fication_v'+'2','lOgkG':'First\x20Mast'+_0x47e2a1(0x230),'fuHiV':_0x47e2a1(0x248)+'tist','wKBvo':_0x47e2a1(0x297)+_0x47e2a1(0x27e),'dhmLQ':_0x47e2a1(0x217)+_0x47e2a1(0x21e)+_0x47e2a1(0x204)+'s\x20in\x20one\x20d'+'rawing','qVsWE':_0x47e2a1(0x267)+_0x47e2a1(0x20b),'niPaB':_0x47e2a1(0x271),'nVaTI':'ocean_dive'+'r','OkDiv':_0x47e2a1(0x20d)+'orer','rHNKJ':_0x47e2a1(0x224)+_0x47e2a1(0x264)+_0x47e2a1(0x280)+'rld','MapQB':'Complete\x203'+'\x20total\x20col'+'oring\x20leve'+'ls','JkLeZ':function(_0x21b6db,_0x238aa9){return _0x21b6db*_0x238aa9;}},_0x500db7=('0|2|7|3|6|'+_0x47e2a1(0x26d))[_0x47e2a1(0x268)]('|');let _0x878773=0x150*0x14+0xa1b*-0x2+0x2*-0x305;while(!![]){switch(_0x500db7[_0x878773++]){case'0':this[_0x47e2a1(0x26c)]=_0x4eca59['yqLZg'];continue;case'1':this['challenges']=[{'id':_0x47e2a1(0x200)+'l','title':_0x4eca59[_0x47e2a1(0x206)],'desc':_0x47e2a1(0x273)+_0x47e2a1(0x2a0)+_0x47e2a1(0x231),'reward':0x32,'current':0x0,'target':0x1,'claimed':![],'icon':'🎨'},{'id':_0x4eca59[_0x47e2a1(0x245)],'title':_0x4eca59[_0x47e2a1(0x250)],'desc':_0x4eca59[_0x47e2a1(0x22f)],'reward':0x28,'current':0x0,'target':0x5,'claimed':![],'icon':'🌈'},{'id':_0x4eca59[_0x47e2a1(0x225)],'title':_0x4eca59[_0x47e2a1(0x294)],'desc':'Complete\x20L'+_0x47e2a1(0x264)+_0x47e2a1(0x212),'reward':0x3c,'current':0x0,'target':0x1,'claimed':![],'icon':'🦖'},{'id':_0x4eca59[_0x47e2a1(0x232)],'title':_0x4eca59[_0x47e2a1(0x244)],'desc':_0x4eca59['rHNKJ'],'reward':0x3c,'current':0x0,'target':0x1,'claimed':![],'icon':'🐬'},{'id':_0x47e2a1(0x293)+'mpion','title':_0x47e2a1(0x260)+_0x47e2a1(0x1f9),'desc':_0x4eca59['MapQB'],'reward':0x64,'current':0x0,'target':0x3,'claimed':![],'icon':'🏆'}];continue;case'2':this[_0x47e2a1(0x275)]=-0xf*-0x235+-0x1353+0x359*-0x4;continue;case'3':this[_0x47e2a1(0x29e)+_0x47e2a1(0x270)]=_0x4eca59[_0x47e2a1(0x24e)](0xd2b+0x2501*-0x1+0x184e,-0x206f*0x1+0x13d3+0x1084);continue;case'4':this['listeners']=[];continue;case'5':this['progress']={'farm':{'unlockedLevel':0x1,'levels':{}},'jungle':{'unlockedLevel':0x1,'levels':{}},'aquatic':{'unlockedLevel':0x1,'levels':{}},'birds':{'unlockedLevel':0x1,'levels':{}},'dinosaurs':{'unlockedLevel':0x1,'levels':{}},'insects':{'unlockedLevel':0x1,'levels':{}}};continue;case'6':this['lastGiftTi'+'me']=0xb3*0x15+-0x1705*-0x1+-0x25b4;continue;case'7':this[_0x47e2a1(0x290)+'InCurrentL'+'evel']=new Set();continue;}break;}}async[_0x4ae53f(0x24d)](){const _0x4def7b=_0x4ae53f;await this[_0x4def7b(0x274)](),this[_0x4def7b(0x22a)+_0x4def7b(0x295)]();}[_0x4ae53f(0x1fa)](_0x184374){const _0x7ddd97=_0x4ae53f;this[_0x7ddd97(0x233)][_0x7ddd97(0x213)](_0x184374);}[_0x4ae53f(0x2a2)](){const _0x40b506=_0x4ae53f;this[_0x40b506(0x22a)+_0x40b506(0x295)](),this[_0x40b506(0x233)]['forEach'](_0x4b2684=>_0x4b2684(this));}async[_0x4ae53f(0x274)](){const _0x2cd616=_0x4ae53f,_0x4fec0e={'iCrCc':function(_0x4b26d1,_0xf70ecf){return _0x4b26d1===_0xf70ecf;},'fPyvQ':'number','QtZGr':function(_0x10f82f,_0x110d97){return _0x10f82f<_0x110d97;}};try{const _0x495f7e=await playables['loadData'](this[_0x2cd616(0x26c)]);if(_0x495f7e){if(_0x4fec0e[_0x2cd616(0x20c)](typeof _0x495f7e[_0x2cd616(0x275)],_0x4fec0e[_0x2cd616(0x228)])){const _0x3e60af=_0x495f7e[_0x2cd616(0x278)]&&Object[_0x2cd616(0x284)](_0x495f7e[_0x2cd616(0x278)])['some'](_0x465269=>_0x465269[_0x2cd616(0x229)]&&Object[_0x2cd616(0x1f0)](_0x465269['levels'])['length']>0x1*0x1d9f+0x212c+-0x3ecb);this['coins']=!_0x3e60af&&_0x4fec0e['QtZGr'](_0x495f7e['coins'],0x2402+-0x3d*0x2b+-0x513*0x5)?-0x178e+0x1*0x1fb5+-0x7c3:_0x495f7e[_0x2cd616(0x275)];}_0x495f7e[_0x2cd616(0x278)]&&Object[_0x2cd616(0x1f0)](_0x495f7e[_0x2cd616(0x278)])[_0x2cd616(0x283)](_0x35b2cc=>{const _0x331311=_0x2cd616;this[_0x331311(0x278)][_0x35b2cc]&&(this[_0x331311(0x278)][_0x35b2cc]={...this['progress'][_0x35b2cc],..._0x495f7e[_0x331311(0x278)][_0x35b2cc]});});Array[_0x2cd616(0x209)](_0x495f7e[_0x2cd616(0x22c)])&&_0x495f7e[_0x2cd616(0x22c)][_0x2cd616(0x283)](_0x12413b=>{const _0x5ab70c=_0x2cd616,_0x24a19b=this[_0x5ab70c(0x22c)][_0x5ab70c(0x25e)](_0x387f43=>_0x387f43['id']===_0x12413b['id']);_0x24a19b&&(_0x24a19b['current']=_0x12413b['current']||0x58c*0x6+-0x152*-0x1+-0x67*0x56,_0x24a19b[_0x5ab70c(0x25b)]=!!_0x12413b[_0x5ab70c(0x25b)]);});if(_0x495f7e[_0x2cd616(0x1f8)+'me'])this['lastGiftTi'+'me']=_0x495f7e['lastGiftTi'+'me'];if(_0x495f7e['lastPlayed'+_0x2cd616(0x1f5)])this['lastPlayed'+'Animal']=_0x495f7e[_0x2cd616(0x1f6)+_0x2cd616(0x1f5)];}}catch(_0x8b37dc){console[_0x2cd616(0x253)](_0x2cd616(0x291)+_0x2cd616(0x29f)+_0x2cd616(0x21b)+_0x2cd616(0x249),_0x8b37dc);}}async['saveState'](){const _0x309e86=_0x4ae53f,_0x268ea5={'JiMjh':_0x309e86(0x291)+_0x309e86(0x1fb)+'ication\x20da'+'ta:'};try{const _0x4f9d68={'coins':this['coins'],'progress':this[_0x309e86(0x278)],'challenges':this[_0x309e86(0x22c)][_0x309e86(0x242)](_0x287670=>({'id':_0x287670['id'],'current':_0x287670['current'],'claimed':_0x287670[_0x309e86(0x25b)]})),'lastGiftTime':this[_0x309e86(0x1f8)+'me'],'lastPlayedAnimal':this[_0x309e86(0x1f6)+'Animal']||null};await playables[_0x309e86(0x21a)](this[_0x309e86(0x26c)],_0x4f9d68),localStorage[_0x309e86(0x238)](this[_0x309e86(0x26c)],JSON[_0x309e86(0x282)](_0x4f9d68)),playables[_0x309e86(0x236)](this[_0x309e86(0x275)]);}catch(_0x5ce004){console[_0x309e86(0x253)](_0x268ea5[_0x309e86(0x277)],_0x5ce004);}}[_0x4ae53f(0x26b)+_0x4ae53f(0x202)](_0x291f85,_0x49b06a){const _0x2479e6=_0x4ae53f;if(!_0x49b06a)return;this['lastPlayed'+_0x2479e6(0x1f5)]={'categoryId':_0x291f85,'animal':{'id':_0x49b06a['id']||_0x49b06a[_0x2479e6(0x27c)],'name':_0x49b06a['name'],'path':_0x49b06a[_0x2479e6(0x28f)],'file':_0x49b06a['file']}},this[_0x2479e6(0x266)]();}[_0x4ae53f(0x23f)+'yedAnimal'](){return this['lastPlayed'+'Animal']||null;}[_0x4ae53f(0x2a1)](_0x2e6085,_0xe1db42=!![]){const _0x17812b=_0x4ae53f,_0x49b0dd=this['coins'];this[_0x17812b(0x275)]+=_0x2e6085,sounds[_0x17812b(0x21d)](),this[_0x17812b(0x266)](),this[_0x17812b(0x2a2)](),_0xe1db42&&this[_0x17812b(0x251)+_0x17812b(0x288)](_0x49b0dd,this['coins']);}[_0x4ae53f(0x227)](){const _0x22660f=_0x4ae53f;return this[_0x22660f(0x275)];}['spendCoins'](_0xeae2ae){const _0x2dbae9=_0x4ae53f,_0x1e1835={'qdiyW':function(_0xf88e99,_0x326b61){return _0xf88e99<_0x326b61;}};if(_0x1e1835[_0x2dbae9(0x27a)](this['coins'],_0xeae2ae))return![];return this[_0x2dbae9(0x275)]-=_0xeae2ae,sounds[_0x2dbae9(0x1f7)](),this[_0x2dbae9(0x266)](),this[_0x2dbae9(0x2a2)](),!![];}['animateCoi'+'nCounter'](_0x5acf44,_0x1a1d97){const _0x4089c6=_0x4ae53f,_0x3b9391={'EAWhx':function(_0x3cc645,_0x11647e){return _0x3cc645/_0x11647e;},'OsLEx':function(_0x437a82,_0x4001e2){return _0x437a82-_0x4001e2;},'SRxae':'.coin-coun'+_0x4089c6(0x287)},_0x1138af=document[_0x4089c6(0x23e)+_0x4089c6(0x257)](_0x3b9391[_0x4089c6(0x216)]);_0x1138af[_0x4089c6(0x283)](_0x5e178b=>{const _0x1f1118=_0x4089c6,_0x445d23={'DvbRx':function(_0x4ed388,_0x287672){return _0x4ed388+_0x287672;},'jZoxV':function(_0x265525,_0x531efd,_0x1ef50b){return _0x265525(_0x531efd,_0x1ef50b);}};_0x5e178b[_0x1f1118(0x27f)][_0x1f1118(0x235)](_0x1f1118(0x259));let _0x4d1951=_0x5acf44;const _0x544f6f=Math[_0x1f1118(0x211)](0x25f8+-0x364+-0x2293,Math['round'](_0x3b9391['EAWhx'](_0x3b9391[_0x1f1118(0x207)](_0x1a1d97,_0x5acf44),0x755*0x2+0x1367+-0x2207))),_0x33eeb2=setInterval(()=>{const _0x143bbe=_0x1f1118;_0x4d1951=Math[_0x143bbe(0x26e)](_0x1a1d97,_0x445d23['DvbRx'](_0x4d1951,_0x544f6f)),_0x5e178b[_0x143bbe(0x1f1)+'t']=_0x4d1951,_0x4d1951>=_0x1a1d97&&(clearInterval(_0x33eeb2),_0x445d23['jZoxV'](setTimeout,()=>_0x5e178b['classList'][_0x143bbe(0x29a)](_0x143bbe(0x259)),-0x1e5c+0x233d+-0x1*0x351));},0x1*-0x7dd+-0x991+0x1196);});}[_0x4ae53f(0x22a)+'Display'](){const _0x285031=_0x4ae53f;document[_0x285031(0x23e)+_0x285031(0x257)](_0x285031(0x220)+_0x285031(0x287))['forEach'](_0xbf8692=>{const _0x1dd295=_0x285031;_0xbf8692[_0x1dd295(0x1f1)+'t']=this[_0x1dd295(0x275)];});}[_0x4ae53f(0x28b)+'yProgress'](_0x5ee9f9){const _0x430fe2=_0x4ae53f;return!this['progress'][_0x5ee9f9]&&(this['progress'][_0x5ee9f9]={'unlockedLevel':0x1,'levels':{}}),this[_0x430fe2(0x278)][_0x5ee9f9];}[_0x4ae53f(0x234)+_0x4ae53f(0x23d)](_0x56ad9e,_0x106580){const _0x314899=_0x4ae53f,_0x2450a2={'rAWKj':function(_0x204821,_0x4e3830){return _0x204821<=_0x4e3830;},'FQqHj':function(_0x5d4768,_0x59607c){return _0x5d4768<=_0x59607c;}};if(_0x2450a2[_0x314899(0x239)](_0x106580,0x1f1d+0x4*-0x35b+-0x11b0))return!![];const _0x5e8918=this[_0x314899(0x28b)+_0x314899(0x2a3)](_0x56ad9e);if(_0x2450a2[_0x314899(0x222)](_0x106580,_0x5e8918['unlockedLe'+_0x314899(0x223)]||0x17b*0xb+0xd*0xc9+0x1a7d*-0x1))return!![];if(_0x5e8918[_0x314899(0x229)]&&_0x5e8918[_0x314899(0x229)][_0x106580]&&_0x5e8918['levels'][_0x106580]['unlocked'])return!![];return![];}['getLevelIn'+'fo'](_0x4c6d07,_0x2ef856){const _0x41ad93=_0x4ae53f,_0x3b006e=this[_0x41ad93(0x28b)+_0x41ad93(0x2a3)](_0x4c6d07);return _0x3b006e[_0x41ad93(0x229)][_0x2ef856]||{'completed':![],'stars':0x0};}[_0x4ae53f(0x208)+_0x4ae53f(0x20e)](_0x102dc4,_0x58f9c4,_0x24135f=0xa*0x236+-0x3*-0x22e+0x2*-0xe3a){const _0x36f97b=_0x4ae53f,_0x22878f={'UAoEX':function(_0x484c0b,_0x575318){return _0x484c0b>_0x575318;}};if(this[_0x36f97b(0x279)](_0x24135f)){const _0xcb8142=this[_0x36f97b(0x28b)+_0x36f97b(0x2a3)](_0x102dc4);_0x22878f[_0x36f97b(0x221)](_0x58f9c4,_0xcb8142[_0x36f97b(0x246)+_0x36f97b(0x223)])&&(_0xcb8142[_0x36f97b(0x246)+'vel']=_0x58f9c4);if(!_0xcb8142['levels'])_0xcb8142['levels']={};if(!_0xcb8142['levels'][_0x58f9c4])_0xcb8142['levels'][_0x58f9c4]={'completed':![],'stars':0x0};return _0xcb8142[_0x36f97b(0x229)][_0x58f9c4]['unlocked']=!![],sounds[_0x36f97b(0x24f)+_0x36f97b(0x214)](),this[_0x36f97b(0x266)](),this[_0x36f97b(0x2a2)](),!![];}return![];}[_0x4ae53f(0x208)+_0x4ae53f(0x24c)](_0x492717,_0x805ddf){const _0x4186cc=_0x4ae53f,_0x427129=this[_0x4186cc(0x28b)+_0x4186cc(0x2a3)](_0x492717);if(!_0x427129[_0x4186cc(0x229)])_0x427129[_0x4186cc(0x229)]={};if(!_0x427129[_0x4186cc(0x229)][_0x805ddf])_0x427129[_0x4186cc(0x229)][_0x805ddf]={'completed':![],'stars':0x0};return _0x427129[_0x4186cc(0x229)][_0x805ddf][_0x4186cc(0x255)]=!![],sounds[_0x4186cc(0x24f)+_0x4186cc(0x214)](),this['saveState'](),this[_0x4186cc(0x2a2)](),!![];}[_0x4ae53f(0x240)+'ithCoins'](_0x869f7a,_0x5d61ae,_0x5c9fea=0xdb2+0x34*0x7a+-0x2648){const _0x826945=_0x4ae53f;if(this[_0x826945(0x279)](_0x5c9fea)){const _0x5027eb=this[_0x826945(0x28b)+'yProgress'](_0x869f7a);return _0x5d61ae>_0x5027eb[_0x826945(0x246)+_0x826945(0x223)]&&(_0x5027eb['unlockedLe'+'vel']=_0x5d61ae),sounds[_0x826945(0x24f)+_0x826945(0x214)](),this[_0x826945(0x266)](),this[_0x826945(0x2a2)](),!![];}return![];}[_0x4ae53f(0x240)+_0x4ae53f(0x237)](_0x473048,_0x2d374a){const _0xd1f004=_0x4ae53f,_0xf5cd61={'KRmTI':function(_0x43e571,_0x339e29){return _0x43e571>_0x339e29;}},_0x52144e=this[_0xd1f004(0x28b)+_0xd1f004(0x2a3)](_0x473048);return _0xf5cd61['KRmTI'](_0x2d374a,_0x52144e[_0xd1f004(0x246)+_0xd1f004(0x223)])&&(_0x52144e[_0xd1f004(0x246)+_0xd1f004(0x223)]=_0x2d374a),sounds[_0xd1f004(0x24f)+'nlock'](),this[_0xd1f004(0x266)](),this[_0xd1f004(0x2a2)](),!![];}[_0x4ae53f(0x21c)+_0x4ae53f(0x29c)+'ns'](_0x2bcf77,_0x461f75=-0xa0a+0x1*-0x5ca+0x1006){const _0x4948b9=_0x4ae53f,_0x157db6=this[_0x4948b9(0x22c)][_0x4948b9(0x25e)](_0x222634=>_0x222634['id']===_0x2bcf77);if(!_0x157db6||_0x157db6[_0x4948b9(0x25b)])return![];if(this[_0x4948b9(0x279)](_0x461f75)){const _0x3d7be0=('2|4|6|0|1|'+_0x4948b9(0x20a))[_0x4948b9(0x268)]('|');let _0x12e19b=0x3*0x3a5+0x14e4+0x1fd3*-0x1;while(!![]){switch(_0x3d7be0[_0x12e19b++]){case'0':sounds[_0x4948b9(0x24f)+_0x4948b9(0x214)]();continue;case'1':this[_0x4948b9(0x266)]();continue;case'2':_0x157db6[_0x4948b9(0x28d)]=_0x157db6[_0x4948b9(0x24a)];continue;case'3':this[_0x4948b9(0x2a2)]();continue;case'4':_0x157db6[_0x4948b9(0x25b)]=!![];continue;case'5':return!![];case'6':this[_0x4948b9(0x2a1)](_0x157db6['reward'],!![]);continue;}break;}}return![];}[_0x4ae53f(0x201)+_0x4ae53f(0x223)](_0x3fb8ae,_0x308d29,_0x413ac3){const _0x11b6e4=_0x4ae53f,_0x49c50a={'ivFxd':function(_0x1249de,_0x54e99c){return _0x1249de+_0x54e99c;},'cUOTk':function(_0x596654,_0x4d6e0a){return _0x596654<=_0x4d6e0a;},'vndOk':function(_0x5888d6,_0x30314d){return _0x5888d6>_0x30314d;},'IUbuO':_0x11b6e4(0x200)+'l','rpAXJ':function(_0x30e501,_0x42e50d){return _0x30e501===_0x42e50d;},'RdlwE':_0x11b6e4(0x22e),'bhcoX':function(_0x30c9e2,_0x48e5ab){return _0x30c9e2===_0x48e5ab;},'AGOfh':function(_0x20fe2c,_0x3e5a56){return _0x20fe2c===_0x3e5a56;},'JmufL':_0x11b6e4(0x262),'TFDRY':_0x11b6e4(0x1f3)+'r'},_0x1e37dc=this[_0x11b6e4(0x28b)+'yProgress'](_0x3fb8ae),_0xa4cac=_0x1e37dc['levels'][_0x308d29]||{},_0x3f5079=!_0xa4cac[_0x11b6e4(0x265)];_0x1e37dc['levels'][_0x308d29]={'completed':!![],'stars':0x3,'completedAt':Date[_0x11b6e4(0x22d)]()};const _0x1b204f=_0x49c50a['ivFxd'](_0x308d29,0x1*0x71f+-0x1*0x14b1+-0x8b*-0x19);let _0x485952=![];_0x49c50a[_0x11b6e4(0x243)](_0x1b204f,_0x413ac3)&&(_0x49c50a[_0x11b6e4(0x285)](_0x1b204f,_0x1e37dc[_0x11b6e4(0x246)+_0x11b6e4(0x223)])&&(_0x1e37dc[_0x11b6e4(0x246)+_0x11b6e4(0x223)]=_0x1b204f,_0x485952=!![]));const _0x90fb14=-0x198f*-0x1+0x1167+-0x1f3*0x16;this['addCoins'](_0x90fb14,!![]),this[_0x11b6e4(0x25c)+'lengeProgr'+'ess'](_0x49c50a[_0x11b6e4(0x22b)],0x1*-0xb3+-0x2*0xc14+0x4*0x637);_0x49c50a[_0x11b6e4(0x256)](_0x3fb8ae,_0x49c50a[_0x11b6e4(0x276)])&&_0x49c50a[_0x11b6e4(0x25d)](_0x308d29,-0x1f17+0x1456+0xac2)&&this['updateChal'+'lengeProgr'+'ess'](_0x11b6e4(0x267)+'rer',-0x1f8b+-0x8aa+-0x2836*-0x1);_0x49c50a[_0x11b6e4(0x292)](_0x3fb8ae,_0x49c50a[_0x11b6e4(0x289)])&&_0x308d29===-0x1b10+0x1ca3+0x1*-0x192&&this['updateChal'+_0x11b6e4(0x28a)+_0x11b6e4(0x25a)](_0x49c50a[_0x11b6e4(0x263)],-0x12dc+0xa3*-0x2b+0x2e3e);let _0x1f9a91=0x73*-0x36+-0x1afb+0x3f1*0xd;Object['values'](this[_0x11b6e4(0x278)])[_0x11b6e4(0x283)](_0x2ce6e9=>{const _0x21a208=_0x11b6e4;Object[_0x21a208(0x284)](_0x2ce6e9['levels']||{})[_0x21a208(0x283)](_0x42d8ea=>{const _0x485672=_0x21a208;if(_0x42d8ea[_0x485672(0x265)])_0x1f9a91++;});});const _0x556dfa=this[_0x11b6e4(0x22c)][_0x11b6e4(0x25e)](_0x285b93=>_0x285b93['id']==='triple_cha'+_0x11b6e4(0x1f9));return _0x556dfa&&!_0x556dfa[_0x11b6e4(0x25b)]&&(_0x556dfa['current']=Math[_0x11b6e4(0x26e)](_0x556dfa[_0x11b6e4(0x24a)],_0x1f9a91)),this[_0x11b6e4(0x266)](),this[_0x11b6e4(0x2a2)](),{'coinsEarned':_0x90fb14,'stars':0x3,'firstTime':_0x3f5079,'unlockedNew':_0x485952,'hasNextLevel':_0x49c50a[_0x11b6e4(0x243)](_0x1b204f,_0x413ac3),'nextLevelNumber':_0x1b204f};}[_0x4ae53f(0x29d)+_0x4ae53f(0x28c)](_0x4e9613){const _0x3417f8=_0x4ae53f;this[_0x3417f8(0x290)+_0x3417f8(0x215)+_0x3417f8(0x26a)]['add'](_0x4e9613[_0x3417f8(0x1fc)+'e']());const _0x5b0589=this['colorsUsed'+_0x3417f8(0x215)+_0x3417f8(0x26a)]['size'],_0x2a0fbc=this[_0x3417f8(0x22c)][_0x3417f8(0x25e)](_0x26e9c6=>_0x26e9c6['id']===_0x3417f8(0x248)+'tist');_0x2a0fbc&&!_0x2a0fbc[_0x3417f8(0x25b)]&&(_0x2a0fbc[_0x3417f8(0x28d)]=Math['min'](_0x2a0fbc[_0x3417f8(0x24a)],Math[_0x3417f8(0x211)](_0x2a0fbc[_0x3417f8(0x28d)],_0x5b0589)),this['saveState'](),this['notify']());}[_0x4ae53f(0x261)+_0x4ae53f(0x29b)+_0x4ae53f(0x1f2)](){const _0x20e6c3=_0x4ae53f;this[_0x20e6c3(0x290)+'InCurrentL'+_0x20e6c3(0x26a)][_0x20e6c3(0x286)]();}[_0x4ae53f(0x26b)+_0x4ae53f(0x202)](_0x1120b9,_0x50a1c4){const _0x4d8ee5=_0x4ae53f;this['lastPlayed'+_0x4d8ee5(0x1f5)]={'categoryId':_0x1120b9,'animal':_0x50a1c4},this[_0x4d8ee5(0x266)]();}[_0x4ae53f(0x23f)+_0x4ae53f(0x202)](){const _0x278967=_0x4ae53f;return this['lastPlayed'+_0x278967(0x1f5)]||null;}['updateChal'+_0x4ae53f(0x28a)+_0x4ae53f(0x25a)](_0x31ac71,_0x3158d0){const _0x40c090=_0x4ae53f,_0x339d0c={'wyHTR':function(_0xdfed77,_0x3ca6aa){return _0xdfed77+_0x3ca6aa;}},_0x52b3e3=this[_0x40c090(0x22c)]['find'](_0xd49188=>_0xd49188['id']===_0x31ac71);_0x52b3e3&&!_0x52b3e3[_0x40c090(0x25b)]&&(_0x52b3e3['current']=Math[_0x40c090(0x26e)](_0x52b3e3['target'],_0x339d0c[_0x40c090(0x27b)](_0x52b3e3[_0x40c090(0x28d)],_0x3158d0)),this[_0x40c090(0x266)](),this['notify']());}['claimChall'+'engeReward'](_0x73b78f){const _0x6dc873=_0x4ae53f,_0x1e578c={'hwDPq':function(_0x13d41d,_0x176204){return _0x13d41d>=_0x176204;}},_0x3ad526=this[_0x6dc873(0x22c)][_0x6dc873(0x25e)](_0xbc261a=>_0xbc261a['id']===_0x73b78f);if(_0x3ad526&&!_0x3ad526[_0x6dc873(0x25b)]&&_0x1e578c[_0x6dc873(0x20f)](_0x3ad526[_0x6dc873(0x28d)],_0x3ad526['target']))return _0x3ad526[_0x6dc873(0x25b)]=!![],this[_0x6dc873(0x2a1)](_0x3ad526['reward'],!![]),sounds[_0x6dc873(0x296)+'e'](),this[_0x6dc873(0x266)](),this[_0x6dc873(0x2a2)](),_0x3ad526[_0x6dc873(0x281)];return 0xd0+-0x1*-0x2493+0x11*-0x233;}[_0x4ae53f(0x219)+_0x4ae53f(0x269)+'es'](){const _0x1ebec8=_0x4ae53f;return this[_0x1ebec8(0x22c)][_0x1ebec8(0x1fe)](_0x3cd676=>!_0x3cd676[_0x1ebec8(0x25b)]&&_0x3cd676[_0x1ebec8(0x28d)]>=_0x3cd676['target']);}[_0x4ae53f(0x272)+_0x4ae53f(0x254)+_0x4ae53f(0x24b)](){const _0x5847ad=_0x4ae53f,_0x1b0c09={'zNXsC':function(_0x5503b6,_0x33eb45){return _0x5503b6-_0x33eb45;},'gaKPu':function(_0x567b0f,_0x5ef46b){return _0x567b0f/_0x5ef46b;},'YKAub':function(_0x21bd0a,_0x5795d0){return _0x21bd0a-_0x5795d0;}},_0xca3523=_0x1b0c09['zNXsC'](Date[_0x5847ad(0x22d)](),this[_0x5847ad(0x1f8)+'me']),_0x1cf5be=Math[_0x5847ad(0x211)](0x12cc+0xe2*0xd+0x307*-0xa,Math[_0x5847ad(0x203)](_0x1b0c09[_0x5847ad(0x27d)](_0x1b0c09[_0x5847ad(0x299)](this[_0x5847ad(0x29e)+_0x5847ad(0x270)],_0xca3523),-0x5d5*-0x2+-0x1fb*-0x12+-0x2*0x15b4)));return _0x1cf5be;}['isGiftRead'+'y'](){const _0x10df56=_0x4ae53f;return this[_0x10df56(0x272)+'ainingSeco'+_0x10df56(0x24b)]()===0xb93+-0x160a+0xa77*0x1;}['claimMyste'+_0x4ae53f(0x26f)](){const _0x17d413=_0x4ae53f,_0x55ab54={'TOrgY':function(_0x5e594d,_0x5808a3){return _0x5e594d+_0x5808a3;},'kQBEy':function(_0x22a468,_0x29db93){return _0x22a468*_0x29db93;},'GgqyI':function(_0x3f5a52,_0x4e75a1){return _0x3f5a52*_0x4e75a1;}};if(!this[_0x17d413(0x23b)+'y']())return-0x7ad*0x2+-0x1*-0x1eef+-0xf95;const _0x1ae89d=_0x55ab54['TOrgY'](_0x55ab54['kQBEy'](Math[_0x17d413(0x226)](_0x55ab54[_0x17d413(0x1f4)](Math[_0x17d413(0x252)](),0xd37*0x1+-0x14bd*0x1+0x78e)),0xaee+0x6*-0x62e+-0x1a3*-0x10),0x137e+-0x59a+-0xda8);return this[_0x17d413(0x1f8)+'me']=Date['now'](),this['addCoins'](_0x1ae89d,!![]),sounds[_0x17d413(0x23a)](),this[_0x17d413(0x266)](),this[_0x17d413(0x2a2)](),_0x1ae89d;}}export const gamification=new GamificationManager();
+// ASMR Animal Colors - Gamification & Progression Engine
+import { playables } from './playables-sdk.js';
+import { sounds } from './audio.js';
+
+export class GamificationManager {
+  constructor() {
+    this.storageKey = 'animal_coloring_gamification_v2';
+    this.coins = 100; // Welcome gift: 100 Coins for every new user
+    this.colorsUsedInCurrentLevel = new Set();
+    this.giftCooldownMs = 120 * 1000; // Gift every 2 minutes
+    this.lastGiftTime = 0;
+
+    // Progression state per category: { [catId]: { unlockedLevel: 1, levels: { [lvl]: { completed: bool, stars: int } } } }
+    this.progress = {
+      farm: { unlockedLevel: 1, levels: {} },
+      jungle: { unlockedLevel: 1, levels: {} },
+      aquatic: { unlockedLevel: 1, levels: {} },
+      birds: { unlockedLevel: 1, levels: {} },
+      dinosaurs: { unlockedLevel: 1, levels: {} },
+      insects: { unlockedLevel: 1, levels: {} }
+    };
+
+    // Daily & Achievement Challenges
+    this.challenges = [
+      {
+        id: 'first_level',
+        title: 'First Masterpiece',
+        desc: 'Finish any 1 coloring level',
+        reward: 50,
+        current: 0,
+        target: 1,
+        claimed: false,
+        icon: '🎨'
+      },
+      {
+        id: 'rainbow_artist',
+        title: 'Rainbow Artist',
+        desc: 'Use 5 different vibrant crayons in one drawing',
+        reward: 40,
+        current: 0,
+        target: 5,
+        claimed: false,
+        icon: '🌈'
+      },
+      {
+        id: 'dino_explorer',
+        title: 'Dino Tamer',
+        desc: 'Complete Level 1 of Dinosaurs',
+        reward: 60,
+        current: 0,
+        target: 1,
+        claimed: false,
+        icon: '🦖'
+      },
+      {
+        id: 'ocean_diver',
+        title: 'Ocean Explorer',
+        desc: 'Complete Level 1 of Aquatic World',
+        reward: 60,
+        current: 0,
+        target: 1,
+        claimed: false,
+        icon: '🐬'
+      },
+      {
+        id: 'triple_champion',
+        title: 'Triple Champion',
+        desc: 'Complete 3 total coloring levels',
+        reward: 100,
+        current: 0,
+        target: 3,
+        claimed: false,
+        icon: '🏆'
+      }
+    ];
+
+    this.listeners = [];
+  }
+
+  async init() {
+    await this.loadState();
+    this.updateCoinDisplay();
+  }
+
+  onChange(callback) {
+    this.listeners.push(callback);
+  }
+
+  notify() {
+    this.updateCoinDisplay();
+    this.listeners.forEach(cb => cb(this));
+  }
+
+  async loadState() {
+    try {
+      const saved = await playables.loadData(this.storageKey);
+      if (saved) {
+        if (typeof saved.coins === 'number') {
+          const hasCompletedLevels = saved.progress && Object.values(saved.progress).some(cat => cat.levels && Object.keys(cat.levels).length > 0);
+          this.coins = (!hasCompletedLevels && saved.coins < 100) ? 100 : saved.coins;
+        }
+        if (saved.progress) {
+          Object.keys(saved.progress).forEach(cat => {
+            if (this.progress[cat]) {
+              this.progress[cat] = { ...this.progress[cat], ...saved.progress[cat] };
+            }
+          });
+        }
+        if (Array.isArray(saved.challenges)) {
+          saved.challenges.forEach(sc => {
+            const match = this.challenges.find(c => c.id === sc.id);
+            if (match) {
+              match.current = sc.current || 0;
+              match.claimed = !!sc.claimed;
+            }
+          });
+        }
+        if (saved.lastGiftTime) this.lastGiftTime = saved.lastGiftTime;
+        if (saved.lastPlayedAnimal) this.lastPlayedAnimal = saved.lastPlayedAnimal;
+      }
+    } catch (e) {
+      console.warn('Failed to load gamification data:', e);
+    }
+  }
+
+  async saveState() {
+    try {
+      const payload = {
+        coins: this.coins,
+        progress: this.progress,
+        challenges: this.challenges.map(c => ({ id: c.id, current: c.current, claimed: c.claimed })),
+        lastGiftTime: this.lastGiftTime,
+        lastPlayedAnimal: this.lastPlayedAnimal || null
+      };
+      await playables.saveData(this.storageKey, payload);
+      localStorage.setItem(this.storageKey, JSON.stringify(payload));
+      playables.sendScore(this.coins);
+    } catch (e) {
+      console.warn('Failed to save gamification data:', e);
+    }
+  }
+
+  setLastPlayedAnimal(categoryId, animal) {
+    if (!animal) return;
+    this.lastPlayedAnimal = {
+      categoryId,
+      animal: {
+        id: animal.id || animal.name,
+        name: animal.name,
+        path: animal.path,
+        file: animal.file
+      }
+    };
+    this.saveState();
+  }
+
+  getLastPlayedAnimal() {
+    return this.lastPlayedAnimal || null;
+  }
+
+  addCoins(amount, animate = true) {
+    const prev = this.coins;
+    this.coins += amount;
+    sounds.playCoin();
+    this.saveState();
+    this.notify();
+
+    if (animate) {
+      this.animateCoinCounter(prev, this.coins);
+    }
+  }
+
+  spendCoins(amount) {
+    if (this.coins < amount) return false;
+    this.coins -= amount;
+    sounds.playClick();
+    this.saveState();
+    this.notify();
+    return true;
+  }
+
+  animateCoinCounter(start, end) {
+    const elements = document.querySelectorAll('.coin-count-val');
+    elements.forEach(el => {
+      el.classList.add('bouncing');
+      let current = start;
+      const step = Math.max(1, Math.round((end - start) / 10));
+      const timer = setInterval(() => {
+        current = Math.min(end, current + step);
+        el.textContent = current;
+        if (current >= end) {
+          clearInterval(timer);
+          setTimeout(() => el.classList.remove('bouncing'), 400);
+        }
+      }, 40);
+    });
+  }
+
+  updateCoinDisplay() {
+    document.querySelectorAll('.coin-count-val').forEach(el => {
+      el.textContent = this.coins;
+    });
+  }
+
+  // Level Management
+  getCategoryProgress(categoryId) {
+    if (!this.progress[categoryId]) {
+      this.progress[categoryId] = { unlockedLevel: 1, levels: {} };
+    }
+    return this.progress[categoryId];
+  }
+
+  isLevelUnlocked(categoryId, levelNumber) {
+    if (levelNumber <= 1) return true;
+    const cat = this.getCategoryProgress(categoryId);
+    return levelNumber <= (cat.unlockedLevel || 1);
+  }
+
+  getLevelInfo(categoryId, levelNumber) {
+    const cat = this.getCategoryProgress(categoryId);
+    return cat.levels[levelNumber] || { completed: false, stars: 0 };
+  }
+
+  unlockLevelWithCoins(categoryId, levelNumber, cost = 50) {
+    if (this.spendCoins(cost)) {
+      const cat = this.getCategoryProgress(categoryId);
+      if (levelNumber > cat.unlockedLevel) {
+        cat.unlockedLevel = levelNumber;
+      }
+      sounds.playLevelUnlock();
+      this.saveState();
+      this.notify();
+      return true;
+    }
+    return false;
+  }
+
+  skipLevelWithCoins(categoryId, nextLevelNumber, cost = 50) {
+    if (this.spendCoins(cost)) {
+      const cat = this.getCategoryProgress(categoryId);
+      if (nextLevelNumber > cat.unlockedLevel) {
+        cat.unlockedLevel = nextLevelNumber;
+      }
+      sounds.playLevelUnlock();
+      this.saveState();
+      this.notify();
+      return true;
+    }
+    return false;
+  }
+
+  skipChallengeWithCoins(challengeId, cost = 50) {
+    const ch = this.challenges.find(c => c.id === challengeId);
+    if (!ch || ch.claimed) return false;
+    if (this.spendCoins(cost)) {
+      ch.current = ch.target;
+      ch.claimed = true;
+      this.addCoins(ch.reward, true);
+      sounds.playLevelUnlock();
+      this.saveState();
+      this.notify();
+      return true;
+    }
+    return false;
+  }
+
+  completeLevel(categoryId, levelNumber, totalAnimalsInCategory) {
+    const cat = this.getCategoryProgress(categoryId);
+    const existing = cat.levels[levelNumber] || {};
+    const firstTimeCompletion = !existing.completed;
+
+    // Grant 3 stars on celebration
+    cat.levels[levelNumber] = {
+      completed: true,
+      stars: 3,
+      completedAt: Date.now()
+    };
+
+    // Unlock next level
+    const nextLevelNumber = levelNumber + 1;
+    let unlockedNew = false;
+    if (nextLevelNumber <= totalAnimalsInCategory) {
+      if (nextLevelNumber > cat.unlockedLevel) {
+        cat.unlockedLevel = nextLevelNumber;
+        unlockedNew = true;
+      }
+    }
+
+    // Award Coins: grant 20 coins every time a drawing is completed!
+    const coinsEarned = 20;
+    this.addCoins(coinsEarned, true);
+
+    // Update Challenges
+    this.updateChallengeProgress('first_level', 1);
+    if (categoryId === 'dinosaurs' && levelNumber === 1) {
+      this.updateChallengeProgress('dino_explorer', 1);
+    }
+    if (categoryId === 'aquatic' && levelNumber === 1) {
+      this.updateChallengeProgress('ocean_diver', 1);
+    }
+
+    // Count total completed levels
+    let totalCompleted = 0;
+    Object.values(this.progress).forEach(c => {
+      Object.values(c.levels || {}).forEach(l => {
+        if (l.completed) totalCompleted++;
+      });
+    });
+    const tripleChamp = this.challenges.find(c => c.id === 'triple_champion');
+    if (tripleChamp && !tripleChamp.claimed) {
+      tripleChamp.current = Math.min(tripleChamp.target, totalCompleted);
+    }
+
+    this.saveState();
+    this.notify();
+
+    return {
+      coinsEarned,
+      stars: 3,
+      firstTime: firstTimeCompletion,
+      unlockedNew,
+      hasNextLevel: nextLevelNumber <= totalAnimalsInCategory,
+      nextLevelNumber
+    };
+  }
+
+  recordColorUsed(hex) {
+    this.colorsUsedInCurrentLevel.add(hex.toLowerCase());
+    const count = this.colorsUsedInCurrentLevel.size;
+    const challenge = this.challenges.find(c => c.id === 'rainbow_artist');
+    if (challenge && !challenge.claimed) {
+      challenge.current = Math.min(challenge.target, Math.max(challenge.current, count));
+      this.saveState();
+      this.notify();
+    }
+  }
+
+  resetCurrentLevelColors() {
+    this.colorsUsedInCurrentLevel.clear();
+  }
+
+  setLastPlayedAnimal(categoryId, animal) {
+    this.lastPlayedAnimal = { categoryId, animal };
+    this.saveState();
+  }
+
+  getLastPlayedAnimal() {
+    return this.lastPlayedAnimal || null;
+  }
+
+  // Challenges
+  updateChallengeProgress(id, countToAdd) {
+    const ch = this.challenges.find(c => c.id === id);
+    if (ch && !ch.claimed) {
+      ch.current = Math.min(ch.target, ch.current + countToAdd);
+      this.saveState();
+      this.notify();
+    }
+  }
+
+  claimChallengeReward(id) {
+    const ch = this.challenges.find(c => c.id === id);
+    if (ch && !ch.claimed && ch.current >= ch.target) {
+      ch.claimed = true;
+      this.addCoins(ch.reward, true);
+      sounds.playFanfare();
+      this.saveState();
+      this.notify();
+      return ch.reward;
+    }
+    return 0;
+  }
+
+  hasUnclaimedChallenges() {
+    return this.challenges.some(c => !c.claimed && c.current >= c.target);
+  }
+
+  // Mystery Gift
+  getGiftRemainingSeconds() {
+    const elapsed = Date.now() - this.lastGiftTime;
+    const remaining = Math.max(0, Math.ceil((this.giftCooldownMs - elapsed) / 1000));
+    return remaining;
+  }
+
+  isGiftReady() {
+    return this.getGiftRemainingSeconds() === 0;
+  }
+
+  claimMysteryGift() {
+    if (!this.isGiftReady()) return 0;
+    // Award between 60 and 150 coins randomly
+    const prize = Math.floor(Math.random() * 8) * 10 + 60;
+    this.lastGiftTime = Date.now();
+    this.addCoins(prize, true);
+    sounds.playGift();
+    this.saveState();
+    this.notify();
+    return prize;
+  }
+}
+
+export const gamification = new GamificationManager();

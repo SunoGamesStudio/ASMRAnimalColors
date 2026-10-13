@@ -1,1 +1,1423 @@
-const _0x221fb4=_0x2ece;function _0x5965(){const _0x3d0844=['vg91y2fU','AM91lNn2zW','EMvICMeUC3zN','BM9ZyxvYCY9eAq','yNLFvc1szxHFma','BM9ZyxvYCY9jzW','DwfRyxjPx21VBG','uhvW','C2fPBNrFyMvYBG','B29Zzq','mdeUC3zN','tw9VC2vFmdiUCW','u3vUC2v0ifj1CW','CM0VyMvHz2XLlG','yMXVyMzPC2G','qNv0DgvYy3vWia','Dwf0AwmVtwfUyq','rhjHz29U','CM0Vrg9UA2v5lG','CMLLDMvYx2zHCG','u3bYAw5NieXHBq','CM0VqNvUBNKUCW','qMvHAYbpCMfUzW','s2L3Av9cAxjKlG','qMX1zv9kyxKUCW','B29Zzs5ZDMC','ugvYC2LHBIbdyq','rgv2AwWUC3zN','BMDSzs9IAw50Dq','vND1AK0','sgvYy3vSzxmGqG','zf9JCMfUzs5ZDG','EwzPC2GUC3zN','DxnFmde','qw5PBwfSCY9cAq','r29SzgzPC2G','u3bYAw5NieDYzq','AY5ZDMC','Bw9VC2vFmdi','u2nHBgXVCcbtAa','B29ZDgvY','CMqUC3zN','ugvSAwnHBG','D25dsw8','yw50','u3vUBNKGq29Yyq','BguUC3zN','Dc5ZDMC','yw50lNn2zW','B3n0CMLJAa','ywrID0G','ugX1BwfNzsbszq','ugXHDhLWDxm','iZa1oty2oq','tg90DxmGugLUAW','CM0VDhv4zwrVxW','q3jHyIbszwq','v29VzhbLy2TLCG','CMrZl2jSDwvIAq','CM93BMvKx21VDa','uvbTEwK','uM9Hzhj1BM5LCG','EMvIDv9JywXMlG','Dwf0AwmVq2fWEq','twvNyxrOzxjPDq','vgfWCgLUzYbxBW','rg9NxY1Fug9Vza','CM9VlNn2zW','C2HLzxaUC3zN','tg92zwjPCMrZ','z3jLyxrFAg9YBG','v0PnD0e','u3DHBgXVDW','u2LIzxjPyw4Gsa','CMrZl2zHAxj5xW','vMLVBgv0ifb1CG','CM0VyMfZC2v0xW','swD1yw5Vzg9U','t2nLyw4Gqxf1yq','AwjKEu8','yxrSyxnFBw90Aa','qMvHDxrPzNvSia','AwnLCMf0B3bZxW','qM9Ozw1Pyw4GvW','CM0VEMvIDv9Jyq','B3nZlNn2zW','Dwf0AwmVqMXVyG','C2vJDhmVqw50lG','zMfPCNLFyNvN','AgvKz2vOB2DFma','iZe4mtGXyG','B290zwrFqM9VyG','ys5ZDMC','qw5NB3jHifjHyG','q2XVD24GrMLZAa','CMrZl0r1y2TZlG','tgfYz2v0B290Aa','B3DS','q3jVD25LzcbqAq','B2jPBI5ZDMC','yxvYlNn2zW','DgfZBwfUAwfUxW','DgfT','zwXMBhKUC3zN','qw1HEM9UieDYzq','C2vJDhmVqMvLlG','BNPlrKe','ugv0ienOAw5JAa','oteXmMPQDffIyW','C3bVDhrLzf9JDq','BMDSzs9VA2fWAq','AgvYlNn2zW','C2HVChbLCI5ZDG','CgfUz29SAw4','yw5Kys5ZDMC','ugXHDhLWDxmUCW','zf9Szw11CG','BMDSzs9czwf2zq','C2vJDhmVD29VBa','y3jVy29KAwXL','q29JA2f0AwvS','CNjLBa','uMvKifbHBMrH','B3rSlNn2zW','Ag9NxZaXlNn2zW','u3bPBM8GvMLVBa','i2q5nZCWnG','v2LUz3mGqxf1yq','zgLRx2rPAW','qMfZC2v0ieHVDq','zgLRx2rPAY5ZDG','ugfYywTLzxqUCW','BgLVBL8Wna','Bf9IDxr0zxjMBa','Ev9IDwCUC3zN','CNbPBgXHCI5ZDG','C2XVDgG','Bg9JAxjHChrVCG','BwvNyxrOzxjPDq','C2f1CNvZxZaXlG','yNv0DgvYzMX5zG','twfUDgeGuMf5','tgLSywmGuhvYCa','AgvUlNn2zW','z2HHCMLHBa','C3r5CMfJB3nHDq','BMDSzs9tA3vUAW','i2vHntGWyW','DMLJDw5HlNn2zW','u3vUieDVBgq','u2fMyxjPieXPBW','z28UC3zN','AwWUC3zN','zgfbtvy','yMfZC2v0x2HVDq','v29SzL8Wms5ZDG','zg9Nx3nOAwH0EG','s2f0EwrPza','B29UyMLSBa','uxvLDhPHBa','ywfIzKW','r29SzcbfEwvZ','D2HPDgvFy3jHBG','s1bhAMe','BezPC2GUC3zN','u3vUBNKGwwvSBa','uMrbwwy','uMfJy29VBI5ZDG','A29HBge','ie1HCMe','nufeyufevG','C3rYDxrOAw9TAq','uu9sweS','BNrPCW','q29YExrOB3nHDq','BL8Wms5ZDMC','uNnjC0W','tLvWrLa','u29MDcbqAw5R','rgLUBYbhCMvLBG','iZbMmtCYyq','iZfLmJK','Dwf0AwmVtgvHzG','Dwf0AwmVu2HYAq','qNvTyMXLyMvLlG','zsbbBMLTywXZ','yK9ryvm','vgLNzxjFmdiUCW','zf9IB29IEq','B3zPCMfWDg9Y','v2LZzsbpD2W','AwXLzf9RAxrL','u3rYDxrOAw8GuG','twr0zue','z29HDf8Wmq','CM0VrhvJA2XPBG','Cg9Yy3vWAw5L','CI5ZDMC','Aw5Nx3n0AwnRlG','zNbJyNa','qMfUyw5HifLLBa','u2vHAg9YC2u','CMfIyML0lNn2zW','Dw1FmdeUC3zN','BMDSzs9qyw5Kyq','BMfYD2HHBa','Bg9ZyxvYDxmUCW','x2n1yI5ZDMC','sgvKz2vOB2DFma','DgvLlNn2zW','BhvL','D29VzhbLy2TLCG','rNjLBMnOiej1Ba','mtq2nJmYmKn0zfbLtq','EMLLqNK','i2yWzMrMna','q2HHBwvSzw9UxW','B2THCgK','Dg9YAY5ZDMC','twfNCgLL','zxjMBhLgAxnOxW','CLL1sfi','u2XVDgG','BM9ZyxvYCY9bBG','vgfUifnUB3v0','qNvSBgrVzY5ZDG','qxjTywrPBgXVlG','u3rHz19czwv0Ba','rg9SCgHPBI5ZDG','rxvVCgXVy2vWAa','uMHIDvq','C2f1CNvZlNn2zW','C2HYAw1W','C2vJDhmVCgvHyW','C3DHBgXVDW','AgvKz2vOB2CUCW','tw9UA2v5iejYBW','vw1ICMvSBgfIAq','rgLRlurPAW','y2TLCNmUC3zN','C2vJDhmVC3bPza','v2HPDgvFq3jHBG','CM0VrgfSBwf0Aq','y29KAwXL','CIbmAw1L','yMvL','v2fYBsbcCM93BG','Bw9UDg9ZyxvYDq','twLSBgLWzwrLxW','yxvY','BxvUy2HRAw5FAW','r29YAwXSyv8Wmq','B3jZzs5ZDMC','C3bPzgvYx3nHzG','yNvMzMfSBW','u2LIzxjPyw5Fsa','BMDSzs9fBgvWAa','CM9SEv9WB2X5lG','CL9ZywzL','u3rYAxbLzcbAzq','i2vHyJmWoa','zwfNBgu','q3vJA29ViejPCG','qw1IzxiGrxLLCW','u3DLzxqGr2LYyq','uMv0CMLLDMvYxW','zgLKlNn2zW','CMrZl01Hy2f3xW','z3jHEs5ZDMC','BwfPyxnHDxjHlG','C18Wmq','sgTlDhG','sg9UzxKGqw1Izq','CMrZl1nLy3jLDa','ugfUz29SAw4UCW','AwvYlNn2zW','C2vJDhmVCM9SEq','se1hAhu','CM0Vr3vPBMvHxW','CMrZl2jVAgvTAq','u2vHAg9YC2uUCW','ywfYzhzHCMS','EMvIDv9JywXM','z2f6zwXSzq','A2fUz2fYB28UCW','zM94','y2HPBMnOAwXSyq','CMrZl1jHDMvUlG','D2f0zxjFyM9HDa','DxjYys5ZDMC','BM9ZyxvYCY9tCa','B2nLCM9Zx0jLzq','qMLYza','t0DNAKq','u3bPzgvYie1VBG','sNvUz2XLieDYzq','DgfWAxiUC3zN','EvLjswe','CeLzANu','qxf1yxrPyYbbBG','BMDSzs9nB29Zzq','qNv0DgvYzMX5rG','BMDSzs9AB3jPBa','thvUyv9nB3rOlG','wujqvKu','C2HPCMvFvgvYCG','ugfZDhvYzsbhCG','BwfYyxnHDxj1CW','BxvZx3j1BM5LCG','rMvUBMvJx0zVEa','CM0Vy2fTzwWUCW','C2vJDhmVz2XVDW','ugvUz3vPBI5ZDG','t3n0CMLJAc5ZDG','BMDSzs9gCNvPDa','uhjHEwLUzYbnyq','z2vVBG','B1bxuuO','u3LKC1m','zMvFmdeUC3zN','rgLUBW','tM9ZzsbqAw5R','BMDSzs9mzw11CG','u3DHBgXVDY1uyq','y3v0DgXLzMLZAa','z2LYywzMzq','tgXHBweUC3zN','zMfYBv9NB29Zzq','AgLOx1r6Ds5ZDG','q2HLzwSGuM9Zzq','u2T5ien5yw4','yxLLx2f5zq','iZm4yMrMoa','tgfUz3vYie1VBG','qMvHDMvYlNn2zW','yNv0DgvYzMX5','r2fSBgLTAw11CW','yMLZB24UC3zN','yMfYBMfJBgvFzW','qMXVC3nVBsbqDq','rM9Yzxn0ienHCa','q2HPBMnOAwXSyq','sMvSBhLMAxnO','z2vJA28','Axros3G','Dwf0AwmVrg9SCa','x1DOywXLlNn2zW','zxjVzgfJDhLSxW','qxLLluf5zs5ZDG','qNvSBgrVzW','CM9VC3rLCI5ZDG','ywnVCM5FC3f1Aq','DY5ZDMC','C2vJDhmVA2f0Eq','u3r5CMfJB3nHDq','rMX5Aw5NiezPCW','BgvMAxnOlNn2zW','CgLUzs5ZDMC','s2LUA2fQB3u','u3rLz29ZyxvYDq','uM95ywWGugvHyW','zuTnB0m','zxvYB3bLyw5FCG','yMfIEv9TB25Rzq','BgLUlNn2zW','C2HLzxa','BuD5rw0','t2fZAxmGvgvHBa','rgvLCcbnyxjPBG','r2vUDgXLie94','CM0VzNjLBMnOxW','r2f6zwXSzs5ZDG','DhLYyw5UB3nHDq','iZG0y2mXnG','C2LHBwvZzv9Jyq','uML2zxiGqMX1zq','CMrZl2DVDwXKAq','s29TB2rVx0rYyq','BMDSzs9sAw5Nlq','BMDSzs9myw5NDq','y2HPAhvHAhvHlG','yNvSBgrVzY5ZDG','v2f0zxiGu3rYAq','iZe1odaZza','y3jPy2TLDa','BgyUC3zN','qNv0DgvYzMX5lG','nZiZmtm0n3vIrurTua','zhvJA2XPBMC','y2fWDwnOAw5FBq','zxjMBhKUC3zN','yMvLx3DPBgq','B3qUC3zN','ANvUzv9IDwCUCW','u3bPA2uGwwvSBa','CM0VyMfUDgfTxW','Dg9YDg9PC2vFyG','AwvFmdeUC3zN','zwqTtMvJA19mAq','yw5FCM9IAw4UCW','rhjHz29UzMX5lG','zg9Nx3LVCMTPzq','BM9ZyxvYCY9uEq','CMrZl2DVBgrJCG','qMfIEv9cCMfJAa','CM0VqMfYBL9pDW','AwXSBY5ZDMC','rgfJAhnODw5K','BMDSzs9IzwfYxW','CMrZl0nHCMrPBG','Dwf0AwmVtgLVBG','BMDSzs9ZCxvPCG','rMfYBsbizw4','CMrZl0nHBMfYEq','C29Uz2jPCMq','sg9YBIbhB2XK','DgGUC3zN','Aw5Vy2HLAxj1CW','iZHInwnMnG','AwvFmde','y2H5y2vWAgfSBW','u3bVDhrLzcbdDq','u2fMyxjPifLLBa','vhLYyw5UB3nHDq','u2fMyxjPieDVBa','zg92zq','r29SzgnYzxn0','BwLSBgLWzwrLxW','BMDSzs9uAwDLCG','r0PbvNa','qxf1ysbtA3K','u3vNyxiGr2XPza','CM0Vtw91C2uUCW','q2fYzgLUywW','Dg9mB3DLCKnHCW','CMrZl1jVywrYDq','sg9YBMjPBgWUCW','t2nLyw4Gu3bSyq','l0XPB24UC3zN','u2fIzxj0B290Aa','i2vMzJzMzG','BMDSzs9WywnHlG','Dwf0AwmVC2vHBa','iZi3mJCYyq','q2HLzxrHAcbhBW','mtbJt2jtz0y','qwXIyxrYB3nZlG','yMLYza','zNjVz18Wmq','qMX1zs1gB290zq','zMvYCMv0lNn2zW','r2LYywzMzv8Wmq','C3f1AxjYzwXFzG','DxmUC3zN','y3jHyG','tgLVBMzPC2GUCW','t2nLyw4Gq3LHBG','D29SzL8Wmq','BNrPCY5ZDMC','uM9HCIbpCMfUzW','qMX1zsbnB3rTBW','s2fRyxbV','C2vJCMv0yxj5xW','AhvTBwLUz2jPCG','u3DVCMrMAxnO','q29JA2f0AwvSlG','i2y5nZmXnG','CNvZlNn2zW','Dwf0AwmVv2fSCG','ugLNzw9U','rfzPyu0','zgv2AwW','t21JreG','CMrZl0fSyMf0CG','r3jHBMqGrwXLCa','ChnVuey','BMDSzs9dAgLUyW','CM0Vu3f1AxjYzq','CMHPBM9JzxjVCW','C3rHz19Izwv0Ba','u2XVDYbmB3jPCW','u2LSA3DVCM0UCW','yw5NzwXMAxnOxW','tevotuO','yNjH','ChjVDg9JzxjHDa','BMqUC3zN','vhvYDgXLlNn2zW','D0rbuvO','AgfTC3rLCG','u2LSA2LLiejHBG','Dg91y2fU','BI5ZDMC','iZnIodjMnG','u3DHBgXVDY5ZDG','iZa2yJzKna','DMTMAuq','r2fYzgvUiejLzq','zgHvrvK','sMvSBhLMAxnOlG','r29Sza','qMXHy2TFugfUDa','ywXIyxrYB3nZ','Bw9UA2v5','Bg9IC3rLCL8Wmq','q2HPBxbHBNPLzq','qMvHz2XL','BMDSzs9cywrNzq','BeTbDLa','B3nWCMv5lNn2zW','u2nHCMXLDa','CMrZl2v1CM9Wzq','rMvHDgHLCIbcBa','Agv4','r3vPBMvHx1bPzW','A18Wms5ZDMC','Bw91C2u','q3jLC3qGtwLUDa','qMfIEsbsAgLUBW','Dwf0AwmVsMvSBa','CM0Vq29SBgLLlG','A2fUz2fYB28','r2XVD3DVCM0','zMfYBv9Ozw4','i2zMzMzMzG','x21HCMe','CNjrEwe','Cwrkzu0','A2v5','BLzeywS','BMDSzs90CMvLxW','u3DHBgXVD3rHAq','yLfTA0O','tgvHzNKGu2vHia','Ag9UzxLIzwu','vgfSBcbhAxjHzG','x3nHD2zPC2G','CM0VAgLNAgXHBG','rMvHDgHLCIbhCG','ug9TzxjHBMLHBG','rujIzhe','ugv0ywWGugLUAW','qMvHAYbmAw1L','BM9ZyxvYCY9Tyq','rg9UA2v5lNn2zW','twLNAhr5ieXPBW','z2vkAKS','vezquvm','y3vJA29Vx2jPCG','zc5ZDMC','qMfIEsbgyxDU','thvUysbnB3rO','u3DHBG','y2TLBG','q29JA2f0B28','CMrZl093Bc5ZDG','wM9YAwXSys5ZDG','Bf9ZB2fYAw5N','s29VA2fIDxjYyq','A3HICeO','B3jRC2HPCMvFva','AwuUC3zN','Dw1ICMvSBgfIAq','y29Yz2KUC3zN','qNvZAcbcCM93BG','DwzMAw4','DgX1CW','C3vWzxjIx2zHAq','DgX1CY5ZDMC','Dwf0AwmVu2vHta','Bg92zwjPCMrZ','v2f0zxiGqNvMzG','qNjVD24GqMvHCG','C2vJDhmVuMHPBG','CgvHy29JA19IDq','Cg9SyxjFyMvHCG','ywX1CY5ZDMC','q3v0DgXLzMLZAa','l093Bf8Wms53zq','y2HPy2S','u3rHCIbpCMfUzW','zwDVC2f1CNvZxW','ANvUzv9IDwC','y2HPBxbHBNPLzq','BMDSzs9WCM9IBW','u2fPBcbdEwfU','x1bHBNrOzxiUCW','BuHbBKC','ALjJEgq','mtK2ntq4nfLMze15DG','ug9SyxiGqMvHCG','C2T1BMTFmde','q3jPy2TLDa','C2vJDhmVrMLYzq','ywXWywnH','zwrTB250B3nHDq','Dwf0AwmVu2HHCG','tg92zwjPCMrZlG','A2L0DgvUlNn2zW','AxfJAwu','BMDSzs9lB2fSyq','u3vUBNKGsgvHza','qMvHAYbzzwXSBW','ANrgA1y','BM9ZyxvYCY9VDq','x0jLzxrSzs5ZDG','rM9HBa','twLJCM9JzxjHDa','yMfKz2vY','ugv0ieHLzgDLAa','Axr0zw4','BMDSzs9bCM1Hza','ugXHEwz1BcbdAa','BM9ZyxvYCY9rDq','vfvguNe','tw9UyxjJAf9cDq','z2f0AgvYAxvTlG','Dhv4zwrVx2nHDa','BM9ZyxvYCY9cyq','z2XVD3DVCM0','rg9UA2v5','ugLNzw9UlNn2zW','v0Xxwuy','rMfPCNKTv3jLBG','yMXHy2TFCgfUDa','BY5ZDMC','shvTBwLUz2jPCG','BxvSzq','tg9IC3rLCL8Wmq','Bf9czwv0BguUCW','yxrVC2f1CNvZlG','DgXLlNn2zW','Dwf0AwmVtMfYDW','q25pz0G','ugvHy29JAYbcDq','y2fTzwW','sg9UzxKGwwvSBa','B3nLlNn2zW','A2LUA2fQB3uUCW','otuYA1L3shnn','yuflzMq','qwXIyxrYB3nZ','t2XgzwK','BMDSzs9TyxjHlG','yMLYzhm','CM0Vu2fPBNrFqG','r29HDf8Wms5ZDG','Bg9WC2HLBgWUCW','B3jJyv93AgfSzq','t3jJyv9xAgfSzq','uhjHEwLUz19nyq','qMX1zsbxAgfSzq','r3jHC3nOB3bWzq','BwLJCM9JzxjHDa','vwfRyxjPie1VBG','t2n0B3b1CY5ZDG','CgLNzw9U','CMrZl0r1y2TFma','B28UC3zN','qxLLluf5zq','B3DSCW','Aw5Zzwn0CW','tgvVCgfYza','yw5FD2f4D2LUzW','BwvLCMTHDc5ZDG','iZiYyZu1zq','twfSBgfYzcbhCG','CM9Zzwf0zv9ZCa','ysbsyxK','u2HHCMS','CM0VCg90x2jLBa','Av9nB25RzxKUCW','Dwf0AwmVrNjVzW','ugfJAhLJzxbOyq','AwnkueO','C2XVD19SB3jPCW','qNjPz2H0ifLLBa','vK56ANu','vfzgshC','zxjVC2f1CG','vhDXwLa','wM9YAwXSyq','v2fSCNvZ','A29VA2fIDxjYyq','vgvYCMeGq290Da','AxPqA1m','sNvUz2XLiefUAq','q2HPCg11BMS','BgWUC3zN','AwD1yw5H','ugXHEwz1Bcbcyq','tgL0DgXLie9WBW','BMDSzs9Ryw5Nyq','zgLSzs5ZDMC','CM0VuMfIyML0lG','AwfUlNn2zW','AwfZyxvYys5ZDG','rhvJA2XPBMCUCW','C3zN','sg9VCg9L','ywDVDxrP','i2y1owuWyG','v29VBgX5x01HBq','x0jHDf8Wms5ZDG','sNvUz2XLie9Yyq','AwXLzcblAxrL','ugXLC2LVC2f1CG','qM1vvKS','uxvLDhPHBgnVyq','tMzKrxy','tg9IC3rLCI5ZDG','C3bPBM9ZyxvYDq','u3DHBI5ZDMC','t2nLyw4Gu2HYAq','BMDSzs9tBg90Aa','zwXLCgHHBNrFma','BMDSzs9IzwfYlG','r2HHCMLHBa','Dwf0AwmVq3v0Da','r2rOC2i','B3r0zxi','Bg93','CMrZl1n0B3jRlG','A2XPBMC','BgvHzL9PBNnLyW','EMLUB3nHDxj1CW','qMfIEv9eAw5VCW','u3rHCMzPC2G','iZe2ytm0yq','BxvZ','qxbHDg9ZyxvYDq','wMvICMeGrM9HBa','Ee5TrKK','ugXHDguGu3rLzW','BMDSzs9xB21Iyq','yMX1zwjPCMq','CgXL','tgvTDxiUC3zN','r2vJA28UC3zN','sgfTC3rLCI5ZDG','EwuUC3zN','qxHVBg90Bc5ZDG','uKjdugS','A2v5lNn2zW','rg9NxY1FrgfJAa','iZyWytvMyq','tgvVCgfYzc5ZDG','B3bVC3n1Bv8Wmq','zfbWqNa','qMfKz2vY','y1rovMK','Bw90Aa','q2fWEwjHCMe','y2TLBI5ZDMC','txvUy2HRAw4GqW','q29YywWGugLUAW','yNvTyMXLyMvL','AgfSlNn2zW','C2nHCMXLDf9PyG','BMDSzs9Wyw5Kyq','EKfysui','y2HPy2THzgvL','r29SzgzPC2GUCW','y2HPy2THzgvLlG','rgLWBg9KB2n1CW','AwDLCI5ZDMC','zhvJA3m','zgfTC2vSzMX5lG','u3vUifLLBgXVDW','Ag9YC2uUC3zN','CM0Vy2HPBMnOAq','yNvNlNn2zW','D2fSA2LUz19ZDa','qw5PBwfSCY9jBG','zuLkwNe','wwrTywC','ms5ZDMC','C2vJDhmVtwLSBa','z29SzgvUx2XPBW','ywLSBgLLlNn2zW','y3rQEgy','CM0Vr29HDf8Wmq','uhjVDg9JzxjHDa','twvNywXVzg9UlG','B2THCgKUC3zN','BMDSzs9izwrNzq','BMfTzq','u3vUCMLZzsbsBW','tgLVBMzPC2G','CMrZl0XVDMvIAq','C2vJDhmVzMfPCG','vhvYA2v5','C2HYAw1WxZaX','Aw5JBhvKzxm','ugLN','u2LSA3DVCM0','twfPyxnHDxjH','svj6BK8','yMfYBL9VD2W','zgvLCG','rgfPCNKGq293','zv9ZCg9VBMjPBa','q2fSzI5ZDMC','C2n1CW','vgfTyw5KDwe','BMDSzs9mzw9Wyq','u2vJCMv0yxj5xW','C2HVzwjPBgXFCW','y2fSzG','Dwf0AwmVq29UyW','Dw5Uzxi','y293','i2uWn2e1zG','u2vHifr1CNrSzq','CMrZl01Hz3bPzq','zMLZAf8Wms5ZDG','As5ZDMC','rg9KBW','twLNAhr5ifqTuG','BwfPyxnHDxjH','vhjLzsbgCM9N','yMX1zwjPCMqUCW','BgvFz29VC2uUCW','A2v0lNn2zW','rwfNBgu','z29SzgnYzxn0lG','DuD6EgO','t1POwNe','A2f0EwrPzc5ZDG','xZaXlNn2zW','qNv0DgvYzMX5ia','ugvHy29JAY5ZDG','shLLBMfFmdeUCW','EeT4Eui','Aejwwu0','ugLUAYbtAhjPBq','ywDVDxrPlNn2zW','AxnOlNn2zW','sg9UzxKGqMvL','B3bZ','Bg9IC3rLCG','ANHMwhq','BgfIAxjKlNn2zW','CM9V','u2HHz2D5ifLHAW','B2jPBG','CgvUz3vPBG','BMDSzs9ZCg90Da','yMfYys5ZDMC','yM9Ozw1Pyw5FDW','AgvYy3vSzxnFyG','qMvSDwDHifDOyq','tgL0DgXLiejLyq','Ag9YC2u','CMrZl0X5CMvIAq','ifbHAxi','u2vHz3vSBc5ZDG','y2HPCg11BMS','Dwf0AwmVtwfUDa','DxnFmdeUC3zN','qMfIEsbiAxbWBW','CM0Vyw5NB3jHxW','Dg9YAW','q2fUyxj5','B1vUEwS','yMfIEv9LBgvWAa','BgfTyI5ZDMC','Dw5RlNn2zW','B3bSB2nLCgHHBa','qxrSyw50AwnFua','EMvICMe','zxjUyxjKlNn2zW','ugXHDguGt3jHBG','twfNCgLLlNn2zW','CM9SEv9WB2X5','C2vHx3r1CNrSzq','AenjCLm','s2XrA1e','Dwf0AwmVu3DVCG','ChrLCM9Kywn0Eq','yNvUBNK','qw50lNn2zW','rMvHDgHLCIbhBW','v29VBgX5iejLyq','zM91ve0','CM9Hzhj1BM5LCG','i2zMzG','BMDSzs9gzw5Uzq','i2y0nZjInG','zs5ZDMC','DwnR','uMHPBM9JzxjVCW','CMHPBM8UC3zN','u3bHCNjVDW','CNbSzq','u21PBgLUzYbrDq','t3r0zxiUC3zN','rMLUie9Yyw5Nzq','z2vSzMLZAa','DhrLCMzSEq','z29SzgnYzxn0','C21PBgLUz19XDq','t3r0zxi','q2fTzwW','i2zLzMvMzq','BgXHBwe','DwnRlNn2zW','yMfIEv9YAgLUBW','BMDSzs9vywTHCG','l0rPBM9ZyxvYlG','BxvUzgKUC3zN','BM9ZyxvYCY9wzq','rg9KB19cAxjKlG','zg9SCgHPBG','tgvTDxi','zgvPBM9JAgvPCG','u3bPBMuGtgLTzq','CM9VC3rLCL8Wmq','yMLUDhvYB25NlG','CM0VugLNlNn2zW','rwfYifbPBMS','BgLVBL9JDwi','B3CUC3zN','y2f0lNn2zW','xZaX','CM9VC3rLCG','u3bPBM9ZyxvYDq','EwfRlNn2zW','CMrZl2nOAwnRyq','Ag9VCg9L','CgLN','tgfNB29UifrLyq','BMDSzs9nB25Rzq','qxjJDgLJiezVEa','zLnRDKi','zcbcB29IEq','zMfSy29U','tg9YAxmUC3zN','rg9NxY1Fu2HPAa','rM9Yzxn0iejYBW','Dwf0AwmVugvUzW','q3v0zsbgyxjTia','q29SBgfYifjLza','AxnxAgL0zq','C2vJDhmVu2HPzq','y29HDgLTDw5KAq','C2vJDhmVqMvLDa','CMrZl0jSDwvFsG','zgvwBuG','CM0VC2LHBwvZzq','CMrZl0nHCgvYyW','iZa4otfImG','Cg9TzxjHBMLHBG','EM9YAwXSyq','BMDSzs9KAwTFza','zMfPCNLFD3jLBG','AxnOxZaXlNn2zW','yNLFzhvJA2jPBa','B3jFmdeUC3zN','vwfRyxjPx01VBG','BL93zwv2AwWUCW','rMfYBsbhB29Zzq','i2zMzJHMnq','Dwf0AwmVt3r0zq','rMXHBwLUz28Gua','CM0Vy29Yz2KUCW','qwfYzhzHCMSUCW','B2XSEv9nyw1TBW','BgfUz3vY','vLLeq3O','u2T5ifDPBMC','rfD1CLq','C3bYAw5Nx2XHBq','y2fTyxjHC2f1CG','AwXS','rgvZzxj0ifnHBG','qxjTywrPBgXV','zMfPCNLFyNvNlG','zM9HBa','yML0','CM9UzY5ZDMC','iZeWyJK4mq','BM9ZyxvYCY9uCG','x2zVywWUC3zN','i2e4ntvMnW','qwnVCM4Gv2vLDG','yvnezNa','y29JA2f0AwvS','ugfUzgeUC3zN','sw5Zzwn0CW','BMDSzs9ZCgLKzq','CMrZl0r1y2SUCW','xZaYlNn2zW','zeTPtKS','twfUzgfYAw4Gra','BM9ZyxvYCY9Kzq','Df9PyMLZlNn2zW','rM94lNn2zW','twLNAhr5ieDVCG','v2fYBsbzzwXSBW','Bf8Wmq','q2fWzxjJywLSBa','CM0Vr29SzgvUxW','y2TFtgL6yxjKlG','BM9ZyxvYCY9eBW','sg9VCg9LlNn2zW','BMDSzs9qB2XHCG','rLrewLq','r29SzgvUx0XPBW','CL9IB2f0BwfUlG','C2HLDgXHBMrFCa','zxjMBhLMAxnO','AgLWCg8UC3zN','q2XVD25MAxnOlG','x1nHD2zPC2GUCW','DhrLBG','CgfYCM90','CMrZl1rVDwnHBG','rMjvD2W','yMX1zv93AgfSzq','rMX1zMz5ieDVBa','qw5PBwfSCY9kDq','Dwf0AwmVq2XVDW','u3bHCNjVDY5ZDG','sgLNAgXHBMqGqW','uM9ViefTyMvY','uM9Zzwf0zsbtCa','v2LUz3mGvMLVBa','y3jVy29KAwXLxW','CM0VCM9VC3rLCG','CM0Vq2HPy2SUCW','qNjHy2HPBYbcBa','BMDSzs9hB3jPBa','CNvZx2DLBNrSzq','yMX1zv9QyxK','q29HDgLTDw5KAq','u3rVCMS','zf9cB29IEs5ZDG','Agf3AW','CgvSAwnHBG','Df9XDwv0EMfS','q3jPy2TLDc5ZDG','C2vHBa','BM9ZyxvYCY9Iyq','qMX1zsbnB3jWAa','EgT5Efm','A2LUz19Wzw5NDq','C2vHAg9YC2u','u2T5iefXDwe','sMv3zwWGqMvLDa','BMDSzs9hB2XKzq','vwjlqLK','CMf2zw4','Dwf0AwmVqxHVBa','vhvYA2v5lNn2zW','rgvLCcbpy2vHBG','y2HPAhvHAhvH','BgvIzwuUC3zN','Aw1HBhm','BL9uyw1HCMLUlG','twfUzsbhB2XK','u29Uz2jPCMqUCW','tM9Yt28','C2LIzxjPyw5FAa','zwv0BguUC3zN','yw5L','AxnOxZaX','iZe0yJHHnG','rNj1AxrFqMf0xW','B3vYyw5VC2f1CG','B3n0zxi','q2f0zwDVCMLLCW','zwDVC2f1CNvZlG','CgXLC2LVC2f1CG','qMvSDwDHx1DOyq','y2TLCI5ZDMC','B3jFmde','B29KBguUC3zN','uNn0yLO','z2vUDgXLx294','q2f0zxjWAwXSyq','C3DHBgXVD3rHAq','rgvPBM9JAgvPCG','BM9ZyxvYCY9ZDa','Aw5FzhvJAY5ZDG','s2PjrvG','zgHrBM0','zwvU','z29SzgvUx3jLDa','qMvLDgXLlNn2zW','CgrhwKC','C2vJDhmVC25HAq','zMLZAc5ZDMC','BM9ZyxvYCY9pDG','CgvHy29JAW','Bc5ZDMC','zvfWBvq','tuH2D0G','CMrZl2HVyxr6Aq','BgvUz3rO','v2HPDguGuMfIyG','yMfUDgfTx2nOAq','CNvZ','DxnREs5ZDMC','tw91C2u','nJe1mte2n3zNvxrTtq','BgfYz2v0B290Aa','rMvYBIbhCMvLBG','CMrZl0nYB3CUCW','qwfYzhzHCMS','CMrZl1nOB2vIAq','C3rLz29ZyxvYDq','tMLNAhqGvMLVBa','qMfIEsbuAgvYAq','u3rHCMzPC2HFma','qw5PBwfSCY9eAq','BMf1DgLSDxnZAa','zw5NDwLUlNn2zW','x21VCNbOBY5ZDG','BMDSzs9xB2XMxW','yuvOy2S','ywX1CW','BhLYzwjPCMq','sgf3AW','Aw5JAc5ZDMC','CM0VC2HLzxaUCW','y2fYzgLUywW','ug9Yy3vWAw5LlG','CM0VqwXWywnHlG','CM0VA2L0DgvUlG','BMDSzs9dAgLWBq','C2fIzxj0B290Aa','z2fFv2HHBguUCW','i2zHy2mXnq','twfJyxDFugfYCG','y29Yz2K','zMzL','qNvUBNKUC3zN','zwrFBw90Bw90lG','y3jVD25Lzf9WAq','yMD4C3a','q2fYzgLUywWUCW','x01VDgGUC3zN','zg9Nx3bVB2rSzq','zgLWBg9KB2n1CW','sg9HDhPPBG','yMfIEv9KDwnRyG','BgrVzW','A29TB2rVx2rYyq','rMfYBq','y2SGtgL6yxjK','tgvHzIbjBNnLyW','r2f6zwXSzq','q3jHBMuUC3zN','mJC3ntjVzgHfDvy','C2HHCMS','BM9ZyxvYCY9tDa','yMfIEv9KzwvY','yMvHz2XL','zxjRyxq','q2HLzwSGugLUAW','BMDSzs9sywnJBW','iZG1ngqWzq','qMvLlNn2zW','u3rYzwfTiefXDq','qNjVD24GrNvY','v2fYBsbuyw4','qw5NzwXgAxnOlG','u25VDxqGuM9Zzq','y2HHBwvSzw9UxW','sezkzuu','ChjHAxjPzv9IAq','CMrZl0n1y2TVBW','zhvHlNn2zW','z2XVD3DVCM0UCW','CMrZl1bPz2vVBG','CMrZl1DVB2rWzq','Dwf0AwmVt2n0BW','zgfTC2vSzMX5','BMDSzs9dyw1LBa','qw5PBwfSCY9gyq','u2fUzcbhB2XK','q2fUzhKGugLUAW','C3vNyxjFz2XPza','sgfTC3rLCG','zhjHz29UzMX5','u2vHx090DgvYlG','CM0Vrg9NxY1Fua','yw56zwuUC3zN','v2HPDguGq3jHBG','ANvUz2XL','zurNtwC','iej1BM55','twfJyxCGugfYCG','BwfSCW','yvfnDvC','zMXHBwLUz29FyW','rwfNBguUC3zN','Aw4UC3zN','CMrZl0DYzwf0xW','z29U','rMLYzwzSEs5ZDG','qxrSyxmGtw90Aa','t2XPDMuGr3jLzq','Ag9UzxLFyMfKzW','sNvktxi','ChH6uMi','B3rVy2vYyxrVCa','rNjVz18Wms5ZDG','CMrZl1DOAxrLxW','C3rPBMDYyxK','BMDSzs9gCMLSBa','u2LHBwvZzsbdyq','D29TyMf0','yM9VBG','qNjPz2H0ifbPBG','AeDsD1O','B2XK','Cg9UEq','BMDSzs9byxjKDG','zY5ZDMC','z29Fq2HPy2SUCW','qMX1zv9xAgfSzq','vgfZBwfUAwfUia','BMDSzs9JB2X1zW','u2HHCMSUC3zN','ug9VzgXL','zxjJywLSBgLL','BMDSzs9Hz291Da','BwfW','BM9ZyxvYCY9qBa','DwXLC19czwv0Ba','Bg9ZyxvYDxm','BgeUC3zN','Bw90Ac5ZDMC','q290Dg9UDgfPBa','DhjLzv9Ryw5Nyq','AxvfrvO','s29HBge','CNLFD3jLBG','q3vJA29Vx0jPCG','qMLYzc5ZDMC','yMX1zv9TB3jWAa','B3bZxZaX','v2fYBsbpCMfUzW','q2HLC3rUDxq','uMLUzY1uywLSzq','v09fs2W','u2vHtgLVBI5ZDG','C3bHCNjVDW','yNjHy2HPB3nHDq','BMDSzs9qyw5NBW','tMfYD2HHBc5ZDG','uM9SEs1qB2X5','qw5NzwWGrMLZAa','vhjPy2vYyxrVCa','rgvZzxj0ienHBq','CM0VvhvYA2v5lG','BMDL','q2fTyxjHC2f1CG','y3jVDW','yxjT','zufttuW','C2vJDhmVuhjHEq','u2HLBgWGr3jLzq','DhjzDuO','CM0VBxvUy2HRAq','zgfSBwf0AwfU','AgLSBgfFmdeUCW','CM0VzMvYCMv0lG','u2HLDgXHBMqGua','AgfUDa','CM0VB3GUC3zN','z2fSBgLTAw11CW','CMrZl0HHD2SUCW','z2jPCMqUC3zN','CgfJys5ZDMC','uMvKieXVyNn0zq','uMvKx1bHBMrHlG','qu9Qshq','zf9WAwCUC3zN','r3vHBMfJBY5ZDG','zxjYAwvYlNn2zW','rgTzrxm','sNvUz2XLieXPBq','BM9ZyxvYCY9tyq','t3jJysbxAgfSzq','i2vMndq0na','i2zIotiZyW','uhrLCM9Kywn0Eq','Df9YzxHFmdi','zhvJAW','DY1uywLSzwrFsW','vMvSB2nPCMfWDa','DMvSB2nPCMfWDa','ugfYCM90lNn2zW','BM9ZyxvYCY9Nyq','uMv0CMLLDMvYlG','BMDSzs9szwrFua','yw5FzMLUy2GUCW','BgXHlNn2zW','y2XVD25MAxnO','CMrZl0zSyw1PBG','zxrVB3rOx1nHDW','C3bPzgvYlNn2zW','BxbFmdeUC3zN','y2HHBwvSzw9U','qMXVC3nVBsbqAq','uvnAs0C','zxn0lNn2zW','tgLSywmGr3jHEq','y2f0','v2fSCNvZlNn2zW','CMrZl1bLBgLJyq','CMrZl0nVy2THDa','C2vJDhmVD2fSAW','C3rHCMzPC2G','v2LUz3mGu2T5','CMrZl1n3ywXSBW','uhvN','u2vHz3vSBa','u2T5iejSDwu','zg9KB19IAxjK','iZeXmtGYnW','CNL0Ag9ZyxvYDq','BxvZlNn2zW','EwvUyq','CYaMieLUC2vJDa','tMf1DgLSDxntAa','uuXjCK0','uMHPBM8','DgLNzxjFmdi','twvHzg93ieDYzq','CMHPBM8','ugfYyxnHDxjVBa','CMrZl1bLywnVyW','BwfUzgfYAw5Fza','vhDPBIbpD2XZ','q2fTzwXFmdeUCW','C19szxHFmdiUCW','Dwf0AwmVqw5Nzq','C2n1CY5ZDMC','mI5ZDMC','zMLYzwzSEq','yMX1zv9MB290zq','thLYzwjPCMqUCW','D3jLBI5ZDMC','s3bOEgC','BMDSzs9dAgfTzq','qMX1zwjPCMq','y2f0zxjWAwXSyq','txbeDxq','wK5dAui','BgvHzNLFC2vHxW','zMuUC3zN','sfDbA0e','y0XVBwS','BgfKEwj1z19Zyq','r2LUz2vYienHDa','q2XHDYbmAw1L','uMLJAcbcCM93BG','CMrZl3jVC2vHDa','i2zInZe4nq','D1niB3O','B3nHDxi','Cxv4ywq','ugvUz3vPBG','sNvUzsbcDwC','x3bLDa','BxvSzs5ZDMC','CMrZl1n3yw4UCW','yxH3Aw5N','yxjTywrPBgXV','B3nWCMv5','Bf8Wms5ZDMC','CNv0AgLVBwLTDq','yMvHz2XLlNn2zW','uMfIyML0lNn2zW','zMX5lNn2zW','Dwf0AwmVu3rHCG','tMfYD2HHBa','BgfFmdeUC3zN','u2HPzwXKx0j1zW','ywLSBgLLxZaXlG','Afz2thu','tfH0v2W','CMfZyxvYB2XVCa','BMDSzs9gB3nZyq','BM9ZyxvYCY9HCa','BMDSzs9dAgLTCa','D29SzG','tgfRzsbbCxvH','C18Wms5ZDMC','q2HHBwvSzw9U','qMXVyMzPC2GUCW','CM0VC3bYAw5NxW','yMvYDg9VDgHFva','Dwf0AwmVu2nHBa','r29SzgvUifjLDa','wwvSBg93','BgXFu3rVCMSUCW','u3vUC2v0ie9Yyq','y293lNn2zW','t2n0BYbqAw5R','C2vJDhmVqNvTyG','Aw5Nx01HBNrPCW','BwfUDgfFCMf5xW','uhjVyM9Zy2LZia','C2vHBgLVBG','zg9Nx2rHy2HZAa','t3bVC3n1Bs5ZDG','CgfYyxnHDxjVBa','q29Uy2GGu2HLBa','rMfSy29UlNn2zW','BYbxB3jSza','i2y4zMfMyW','CMrZl3bHCNjVDa','iZi1nJnLyG','CM0VBg9Wx3jHyG','BwfUyxrLzq','CM0Vq2fSzI5ZDG','zM9ZC2e','ExjHy29ZyxvYDq','uM9ZEsbqAw5R','r2vJA28','BgLWzwrL','yMfIEv9ICMfJAa','v29VzgXHBMqGtq','iZaYodrJnW','tgLVBL9dDwiUCW','BgLVBL8WmW','AwnRlNn2zW','i2zMzMjLyG','y2GGq3jHyG','C3DHBG','BgvVBL8Wms5ZDG','u3vUyNvYC3qGrW','EwPHuw0','yu5Ay3a','AxjHChrVCI5ZDG','q2HPAhvHAhvH','ChjVyM9Zy2LZxW','yw50xZaZlNn2zW','yMvHCG','u3bPBNKGtg9ICW','AgLUlNn2zW','s0TYD0e','BMDSzs9tBg93xW','C2nHBgXVChnOzq','BMDSzs9hAxjHzG','yMLUDhvYB25N','BwfU','qMXHy2SGugfUDa','qwnVCM4Gu3f1Aq','swnLyMvYzYbcBa','A2f0EwrPza','u2f2yw5UywGGqG','CY5ZDMC','Cgf0ywDVBMLHBG','rg92zq','u3bPA3KGu3rLzW','Bg9Wx3jHyMjPDa','y2HPy2TLBI5ZDG','yI5ZDMC','BgvVCgfYza','AwnR','qw1IzxiGuNvZDa','uxvHy2TPBMCGra','tgfUz3vYlNn2zW','q29Yz2K','ugLNlNn2zW','yMX1zv9Wzw5NDq','whDeufG','BLLWrMO','B29UyMLSBc5ZDG','r3jLyxrFsg9YBG','zgvLCI5ZDMC','zg9FqMLYzc5ZDG','CMLVDxm','y29YExrOB3nHDq','C2vJDhmVBgfKEq','r3vPBMvHifbPzW','yMX1zv9JCM93BG','twvNywXVzg9U','BMDSzs9RAw5Ryq','D2f0zxjFC3rYAq','BMDSzs9hzwnRBW','C2vJDhmVywnVCG','BMDSzs9hDwfUyq','q29Uy2HZAgvSBa','BxbHBNPLzq','vu9wDKi','u2HPAcbuENu','zxiUC3zN','DhjLEa','AgfYCf9ZzwfS','v2f0zxiGqM9HDa','lNn2zW','z1PqBvi','y2fWEwjHCMe','BMDSzs9pCg9ZCW','C2vJDhmVz3jHCW','q1Pnrxm','rgfSBwf0AwfU','rg9SCgHPBG','BMDSzs9iB25LEq','qKDxwK8','CMrZl09ZDhjPyW','qxf1yxrPyW','zMX5Aw5Nx2zPCW','yxf1yxrPyW','BM9ZyxvYCY9xBW','B2rWzwnRzxi','ugfUz29SAw4','CMHPBM9Fz2vUDa','q3jHyL8Wms5ZDG','qwXWywnHlNn2zW','qMfTyM9VieDYzq','DgvYlNn2zW','Aw9ZyxvYDxnFma','CgfUzgfFy3vI','u2fMyxjPifrHBG','zf9WAwC','r2LYywzMzs5ZDG','EMfYzc5ZDMC','v015ALG','Ag9HDhPPBG','AxnO','rM94','q3jVyYbhCMvLBG','BwH3twq','BL9mAw9Ux1rHBq','CMrZl093BhmUCW','CMrZl2nYB3DUzq','CMrZl0THA2fWBW','AwrLCG','q3jVy29KAwXLlG','sNvUz2XLie1VBG','tNDZBxm','CMLLDMvYxZaX','CMrZl21HBMrHCG','y3jVD25Lzf9JCG','rw1LCMfSzcbuzq','vgfZBwfUAwfUxW','AMvSBhLMAxnO','t3nWCMv5','Dwf0AwmVq3jHyG','BMDSzs9YAgLUBW','mtK5qwnczeDp','yMvSDwDHx3DOyq','BhPdtwm','D29VzgXHBMrFBq','CMrZl0rVDMuUCW','C2vJDhmVD2f0zq','B255','BMDSzs9mAw9UxW','qMf0BeS','v2fYBsbuyxDUEq','Dwf0AwmVsgvYBq','q3jPBxnVBIbdBW','q2HPy2S','yMfIEv90x3jLEa','qMfIB29UxZaXlG','r29SzgvUifnLyq','C2vJDhmVyxrSyq','BhvtANu','v0fztuq','Ac5ZDMC','r3vHBMfJBW','tw9UA2v5xZaXlG','Dwf0AwmVu2vHAa','BM9ZyxvYCY9Lza','CMrZl0TPBMDMAq','z29YAwXSyv8Wmq','q2LJywrHlNn2zW','yxvHvKK','Dwf0AwmVtg9ICW','Dwf0AwmVqMvSDq','yxrSyw50AwnFCa','CL9TB25RzxKUCW','u2T1BMS','u3rHzYbczwv0Ba','rM9HBc5ZDMC','q29TyIbszwq','CMrZl1vTyNjLBa','mdqUC3zN','C25HAwWUC3zN','sgvKz2vOB2C','tgXHBwe','CM0VzMfYBv9NBW','tw91C2uUC3zN','DgLNzxi','DhrLCMzSEs5ZDG','yNvSBgrVzW','rMvUBMvJiezVEa','vgfPBcbmAw1L','i2zLzJDMmG','C2vJDhmVyMX1zq','s2LUz2zPC2HLCG','BM9ZyxvYDxmUCW','uML2zxiGqNjVDW','r2LHBNqGtwfUDa','x0jLyxiUC3zN','AwvSlNn2zW','qNjPz2H0ieDVBa','q2fUyxj5lNn2zW','t3bVC3n1Bq','zgLSzv8Wms5ZDG','s2L3AsbcAxjK','BMDSzs9qB3jJDq','ChvNlNn2zW','u2HPzwXKiej1zW','A0DNDwK','yv9syxLFmdeUCW','AwSUC3zN','CMrZl0TVB2THyG','BgXVDW','ywXV','q3jVy29KAwXLxW','vg91y2fUlNn2zW','yw5LlNn2zW','BgLVBG','AwD1yw5Vzg9U','yxbHDg9ZyxvYDq','z3jHC3nOB3bWzq','BM9ZyxvYCY9nzq','B25RzxKUC3zN','v29VzgXHBMqGqW','zMfYBq','ywWUC3zN','CL9tDhjPzgvYlG','yMfIEv90AgvYAq','svHYsw4','B25MBhKUC3zN','vMTwwK0','B3bODxm','AxjKlNn2zW','DKHQAgq','CM0VChvNlNn2zW','C3bPzgvYx21VBG','iZaWmdaWma','BM9ZyxvYCY9Wyq','BMDSzs9jz3vHBG','y2HPy2TLBG','CM0VBxvSzs5ZDG','zMXHBwLUz28','EwfLuKi','q2LJywrH','EMLUBW','BwvLCMTHDf9JDq','BMDSzs9cBgfJAW','t3bVC3n1Bv8Wmq','C3DHBgXVD190yq','DgfTyw5KDwe','z29UlNn2zW','BM9ZyxvYCY9Jyq','A2LUz2zPC2HLCG','rg9NxY1Fww9YAW','CgfUzge','DKnKs2K','BL9RAxr0zw4UCW','CxvVA2THlNn2zW','q3jVD18WmI5ZDG','yw5REwXVC2f1CG','ueHHzMW','yw5NB3jHx3jHyG','twfUyxrLzq','zNjPBgXLzf9Uzq','Ev8Wms5ZDMC','B2nR','s2LUzYbqzw5NDq','u25VDxqGvgfU','AgLJAW','BM9ZyxvYCY9WDa','qMfIEsbeDwnRyG','r2jMBLi','swD1yw5HlNn2zW','tgvHzIbhCMvLBG','sgvYBwL0x0nYyq','Aw9UlNn2zW','CMrZl0zHBgnVBG','swPjs04','BMDSzs9OAxbWBW','tgf1z2HPBMCGsa','zwv0Bgu','CM0VAgvUlNn2zW','ugv0iezLCNjLDa','ugf0ywDVBMLHBG','rMXHBwLUz28','zg9UA2v5','yMLSBc5ZDMC','zgvY','C2vJDhmVqNv0Da','q2HPCg11BMSUCW','otG1otHmB3bOy2m','vfPSC24','BMDSzs9TB29Zzq','r2XVDYbhB2XK','qMLYzhm','wK5IyKS','Dwf0AwmVtMf1Da','yNLFqNjHy2HPBW','Dwf0AwmVtgfYzW','sgfYCcbtzwfSia','A0LKzge','B2TRyq','yMX1zv9TB3rTBW','y29SBgLL','u25HChb5ienYBW','rg92zs5ZDMC','BwvNywXVzg9U','BMDSzs96zwjYyq','rMfPCNKGqNvN','CM0VCgvYC2LHBG','B3GUC3zN','Cg90x2jLBgXPzq','BMLHBL9ezxzPBa','B25RzxK','CM0VrM9HBc5ZDG','yxjHEs5ZDMC','EMvICMfFzM9HBa','t2nLyw4GjIbtzq','ywnOC2H1BMqUCW','BMzPC2GUC3zN','yML0lNn2zW','ChvZlNn2zW','yxj5x0jPCMqUCW','EMH1Chi','twLNAhr5ierPBG','s21dC2K','u3bVDhrLzcbqyq','rwrTB250B3nHDq','CMLLDMvY','mY5ZDMC','ChjVyM9Zy2LZlG','u2XVDgGUC3zN','AgvSBa','CgvYC2LHBL9Jyq','zwrFy3vZy3vZlG','AxbLzgvFmdeUCW','rMXHBwLUz28UCW','r1z2ueO','qMfIEv9ulvjLEa','q3jVDY5ZDMC','qMfIEsbulvjLEa','C2vJDhmVthvUyq','yMvHCL8Wms5ZDG','zhvJA18Wmq','qxjJDgLJx0zVEa','CMfIyML0','Bw90lNn2zW','sKrnq0u','u3vUBNKGr29Sza','twfUDgfFuMf5xW','C3DVCMrMAxnO','C29U','CMfUBM9ZyxvYDq','DxiUC3zN','u3rYAxbLzcbbBG','C0XfD2u','CgXHDhLWDxm','CMrZlNn2zW','yMvHDMvY','Dwf0AwmVt3jJyq','u25VDxqGugLUAW','CMnOx0j1DhrLCG','zxjMBhLgAxnOlG','BKrkr04','t3DSlNn2zW','AhLLBMfFmde','B24UC3zN','q2HPy2THzgvL','q2fWEwjHCMeUCW','sg9UzxLFqMfKzW','qw5PBwfSCW','CgfYywTLzxq','BhvUyv9TB3rO','ww9YA3nOAxjLia','Exjku1i','C2vJDhmVq3jPyW','l0HVBMv5yMvLlG','u2vJCMv0yxj5ia','CgfJAhLJzxbOyq','yxjRlNn2zW','r2vUDgXLiejLyq','Aw5VC2f1CNvZxW','qw5REwXVC2f1CG','BMDSzs9ZDwDHCG','AMv3zwXFyMvLDa','C25HAwXFC2fMzq','yMfIB29UxZaX','rhvJAY5ZDMC','s2LUz19qzw5NDq','rMX5Aw5Nifb0zq','rhvJA18Wms5ZDG','sg9UzxKGr29Sza','BM9ZyxvYCY9WCG','BIbuyw1HCMLU','yw56zwvFmdeUCW','y19gB3GUC3zN','qw5PBwfSCY9bCq','u3rVCMSUC3zN','sgvYBwL0ienYyq','EwjWDeK','r1DMq2y','D29YBs5ZDMC','BgrVzY5ZDMC','C19TB3rOlNn2zW','y3jVD18WmG','qwXWywnH','rgvLCcbcBhvL','zgvYlNn2zW','r29SzgvUx1jLDa','x2nHDc5ZDMC','q29SBgLLlNn2zW','ugfPBNrLzcbcDq','BMDSzs9Iywj5xW','CMrZl2jSDwvFCa','Aw5JAa','u2HYAw1WxZaXlG','y2fUyxj5','uM9VC3rLCL8Wmq','Dwf0AwmVrMX5Aq','tgL0DgXLienOAq','Axr0zw4UC3zN','DgXL','zNj1AxrFyMf0xW','Es5ZDMC','yxbLCMnHAwXSAq','zMvUBMvJx2zVEa','CMLUz190ywLSzq','BwfYys5ZDMC','vgvYCMLLCG','txvKieDVBgq','u3rYDxrOAw9TAq','ysbmAwzL','ENLbvxa','CM0VyNvMzMfSBW','zwXS','x2jLzxrSzq','C2vJDhmVrhjHzW','y2fTzwXFANvUzW','BMDSzs9cywjVBW','x0jPCMqUC3zN','t2n0B3b1CW','BgvTDxi','DgvYxZaXlNn2zW','yMLSBa','CMvSlNn2zW','rNHJBhm','AwXSyq','AgLWCg8','AxrLlNn2zW','CxvLDhPHBgnVyq','r2LYywzMzsbzzq','i2zHzMfMyq','AgLNAgXHBMrFyW','r29SzgvUie1HBG','ugvSAwnHBI5ZDG','C2vJDhmVq2LJyq','C2LSA3DVCM0','CM0VCg9TzxjHBG','BMfxBwC','Eunnt1O','CgfMuKu','CMrZl1nWyxjYBW','AhnOzwXSlNn2zW','B3bODxmUC3zN','i2vJndG5oq','x3rPz2vY','swD1yw5Vzg9UlG','C2vJDhmVu2LSAW','B2n0B3b1CW','tw9UyxjJAcbcDq','C2vHx290DgvY','CMvKx3bHBMrH','CM0VEwfRlNn2zW','yMnNs1m','x0jHzgDLCI5ZDG','rgLUB3nHDxjZ'];_0x5965=function(){return _0x3d0844;};return _0x5965();}function _0x2ece(_0x15a0ee,_0x4e6db9){_0x15a0ee=_0x15a0ee-(-0x1*-0x7ba+0x1497+0x3*-0x901);const _0x2e7b17=_0x5965();let _0x2b8b72=_0x2e7b17[_0x15a0ee];if(_0x2ece['NIkWIi']===undefined){var _0x536f46=function(_0x43c916){const _0x100ecf='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x24eab9='',_0x378583='';for(let _0x384ebc=-0x1*-0x1850+0x848*0x4+0x2*-0x1cb8,_0x5eec0c,_0x38b88b,_0x2033b3=0x9cf+-0x1012+-0x7*-0xe5;_0x38b88b=_0x43c916['charAt'](_0x2033b3++);~_0x38b88b&&(_0x5eec0c=_0x384ebc%(-0x5*0x6ed+0x1f3e+-0x367*-0x1)?_0x5eec0c*(0x70c+-0x1c29+0x155d)+_0x38b88b:_0x38b88b,_0x384ebc++%(-0x1620+0x1f9d+-0x979))?_0x24eab9+=String['fromCharCode'](-0xce1+0x1*0x257d+-0x179d&_0x5eec0c>>(-(0x1aa8+0x1489*-0x1+-0x61d*0x1)*_0x384ebc&-0x251*0x1+-0x2416+0x445*0x9)):-0x249b+-0x17f+0x261a){_0x38b88b=_0x100ecf['indexOf'](_0x38b88b);}for(let _0x51766d=-0x10f*-0x3+-0x2*-0x3d7+0xadb*-0x1,_0x4817bf=_0x24eab9['length'];_0x51766d<_0x4817bf;_0x51766d++){_0x378583+='%'+('00'+_0x24eab9['charCodeAt'](_0x51766d)['toString'](0x1813+0xe33+-0x2636))['slice'](-(-0x2538*-0x1+0xd46+-0x327c));}return decodeURIComponent(_0x378583);};_0x2ece['AJFnKr']=_0x536f46,_0x2ece['VwiYRx']={},_0x2ece['NIkWIi']=!![];}const _0x2a1589=_0x2e7b17[0x7ec*0x1+0x1d5b*0x1+-0x2547];_0x2ece['ZnkLVX']!==_0x2a1589&&(_0x2ece['VwiYRx']={},_0x2ece['ZnkLVX']=_0x2a1589);const _0x851268=_0x2ece['VwiYRx'][_0x15a0ee];return _0x851268===undefined?(_0x2b8b72=_0x2ece['AJFnKr'](_0x2b8b72),_0x2ece['VwiYRx'][_0x15a0ee]=_0x2b8b72):_0x2b8b72=_0x851268,_0x2b8b72;}(function(_0x23fbac,_0xe446cb){const _0x55dfea=_0x2ece,_0x12b087=_0x23fbac();while(!![]){try{const _0x1e130=parseInt(_0x55dfea(0x693))/(-0x2b*0xbf+0xe7b+0x1*0x119b)*(parseInt(_0x55dfea(0x84b))/(-0x1d9c+-0x9e*0x6+0x2*0x10a9))+parseInt(_0x55dfea(0x15c))/(0x35*-0xa3+0x1e56+0x36c)+-parseInt(_0x55dfea(0x2d4))/(-0x98c+-0x1617*-0x1+-0x42d*0x3)+parseInt(_0x55dfea(0x889))/(-0x17f*-0x2+0x5ba+0x83*-0x11)*(-parseInt(_0x55dfea(0x725))/(0x1379+0xa2e*0x2+-0x2b*0xed))+-parseInt(_0x55dfea(0x306))/(-0x3bb*-0x1+0x1*-0x8cb+0x517)*(parseInt(_0x55dfea(0x509))/(0x1db5+0x1d*-0xfe+-0xe7*0x1))+parseInt(_0x55dfea(0x20a))/(0xb95*-0x1+-0xfe0+-0x495*-0x6)*(parseInt(_0x55dfea(0x244))/(-0x1346+-0x3d1*0x1+0x1721))+-parseInt(_0x55dfea(0x4d8))/(0x5*0x6f7+0x1*-0x1e77+-0x55*0xd);if(_0x1e130===_0xe446cb)break;else _0x12b087['push'](_0x12b087['shift']());}catch(_0x213575){_0x12b087['push'](_0x12b087['shift']());}}}(_0x5965,-0x3208*-0x55+0x1*-0x7f448+0x16a34));export const CATEGORIES=[{'id':_0x221fb4(0x52d),'name':_0x221fb4(0x335)+_0x221fb4(0x531),'shortName':'Jungle','title':'Wild\x20Jungl'+_0x221fb4(0x898),'emoji':'🦁','icon':'Categories'+_0x221fb4(0x23d),'circleBg':_0x221fb4(0x344),'color':_0x221fb4(0x85d),'bg':_0x221fb4(0x61f),'animals':[{'id':_0x221fb4(0x3e8)+_0x221fb4(0x80b),'name':'Baby\x20Eleph'+_0x221fb4(0x80b),'file':_0x221fb4(0x3e8)+_0x221fb4(0x80f),'path':_0x221fb4(0x484)+_0x221fb4(0x79f)+'elephant.s'+'vg'},{'id':_0x221fb4(0x701),'name':'Panda','file':_0x221fb4(0x463),'path':_0x221fb4(0x484)+_0x221fb4(0x153)+_0x221fb4(0x660)},{'id':_0x221fb4(0x887),'name':_0x221fb4(0x55d),'file':'Koala.svg','path':_0x221fb4(0x484)+_0x221fb4(0x2df)+_0x221fb4(0x660)},{'id':_0x221fb4(0x7c2),'name':_0x221fb4(0x3e3),'file':_0x221fb4(0x47b),'path':_0x221fb4(0x484)+_0x221fb4(0x719)+_0x221fb4(0x660)},{'id':'brown_bear','name':_0x221fb4(0x2c3),'file':'bear.svg','path':_0x221fb4(0x484)+_0x221fb4(0x353)+'svg'},{'id':'baby_monke'+'y','name':'Baby\x20Monke'+'y','file':_0x221fb4(0x1f2)+_0x221fb4(0x7aa),'path':_0x221fb4(0x484)+_0x221fb4(0x79f)+'monkey.svg'},{'id':_0x221fb4(0x412),'name':_0x221fb4(0x28d),'file':_0x221fb4(0x412)+_0x221fb4(0x660),'path':_0x221fb4(0x484)+_0x221fb4(0x79f)+_0x221fb4(0x403)},{'id':_0x221fb4(0x50c),'name':_0x221fb4(0x2ad),'file':'baby_deer.'+'svg','path':'Animals/Ju'+_0x221fb4(0x79f)+_0x221fb4(0x64b)},{'id':_0x221fb4(0x420),'name':'Lion\x20Cub','file':_0x221fb4(0x61c)+'vg','path':_0x221fb4(0x484)+'ngle/Lion_'+'Cub.svg'},{'id':_0x221fb4(0x677),'name':'Panda\x20Cub','file':'panda_cub.'+_0x221fb4(0x341),'path':_0x221fb4(0x484)+_0x221fb4(0x37e)+_0x221fb4(0x156)},{'id':_0x221fb4(0x290),'name':'Kangaroo','file':_0x221fb4(0x1a3)+'vg','path':'Animals/Ju'+_0x221fb4(0x33b)+_0x221fb4(0x822)},{'id':_0x221fb4(0x1e6)+_0x221fb4(0x858),'name':_0x221fb4(0x634)+_0x221fb4(0x858),'file':'squirrel.s'+'vg','path':_0x221fb4(0x484)+_0x221fb4(0x222)+_0x221fb4(0x7bf)},{'id':_0x221fb4(0x7da),'name':_0x221fb4(0x859),'file':_0x221fb4(0x585)+_0x221fb4(0x341),'path':_0x221fb4(0x484)+_0x221fb4(0x599)+_0x221fb4(0x851)},{'id':_0x221fb4(0x40c)+_0x221fb4(0x730),'name':_0x221fb4(0x406)+'okka','file':_0x221fb4(0x704),'path':_0x221fb4(0x484)+'ngle/quokk'+'a.svg'},{'id':_0x221fb4(0x867),'name':_0x221fb4(0x165),'file':_0x221fb4(0x74e),'path':'Animals/Ju'+_0x221fb4(0x351)+'.svg'},{'id':'gentle_bea'+'r','name':_0x221fb4(0x77f)+'r','file':_0x221fb4(0x759)+'g','path':'Animals/Ju'+_0x221fb4(0x21f)+'01.svg'},{'id':_0x221fb4(0x838)+'1','name':_0x221fb4(0x6ba),'file':_0x221fb4(0x157)+_0x221fb4(0x38f),'path':'Animals/Ju'+_0x221fb4(0x398)+_0x221fb4(0x85b)},{'id':_0x221fb4(0x3e0),'name':_0x221fb4(0x336),'file':_0x221fb4(0x724)+'vg','path':_0x221fb4(0x484)+_0x221fb4(0x4f1)+_0x221fb4(0x3ea)},{'id':_0x221fb4(0x1a4),'name':_0x221fb4(0x67f),'file':_0x221fb4(0x46c),'path':_0x221fb4(0x484)+'ngle/Fox.s'+'vg'},{'id':_0x221fb4(0x73f),'name':_0x221fb4(0x362),'file':_0x221fb4(0x73f)+_0x221fb4(0x660),'path':_0x221fb4(0x484)+_0x221fb4(0x736)+_0x221fb4(0x45e)},{'id':_0x221fb4(0x1a5)+_0x221fb4(0x423),'name':_0x221fb4(0x1dc),'file':_0x221fb4(0x1dc)+'_01.svg','path':_0x221fb4(0x484)+_0x221fb4(0x263)+_0x221fb4(0x57b)+'vg'},{'id':_0x221fb4(0x352)+'3','name':_0x221fb4(0x261)+_0x221fb4(0x57e),'file':'Elephant_0'+_0x221fb4(0x74c),'path':'Animals/Ju'+_0x221fb4(0x187)+_0x221fb4(0x629)},{'id':_0x221fb4(0x1cc),'name':_0x221fb4(0x29e)+'fe','file':_0x221fb4(0x67a)+'g','path':_0x221fb4(0x484)+_0x221fb4(0x630)+_0x221fb4(0x5d1)},{'id':_0x221fb4(0x6f8)+_0x221fb4(0x64d),'name':'Curious\x20Me'+_0x221fb4(0x50e),'file':_0x221fb4(0x31f)+'g','path':_0x221fb4(0x484)+'ngle/meerk'+'at.svg'},{'id':_0x221fb4(0x671)+'le','name':_0x221fb4(0x5b9),'file':_0x221fb4(0x403),'path':'Animals/Ju'+_0x221fb4(0x692)+'.svg'},{'id':_0x221fb4(0x51a)+_0x221fb4(0x762),'name':'Prairie\x20Bi'+'son','file':_0x221fb4(0x1d8),'path':'Animals/Ju'+'ngle/bison'+_0x221fb4(0x660)},{'id':_0x221fb4(0x2c6),'name':_0x221fb4(0x2d5),'file':'Polar_Bear'+_0x221fb4(0x660),'path':_0x221fb4(0x484)+_0x221fb4(0x475)+_0x221fb4(0x6c9)},{'id':'raccoon','name':'Raccoon','file':_0x221fb4(0x886)+'g','path':_0x221fb4(0x484)+_0x221fb4(0x510)+_0x221fb4(0x771)},{'id':_0x221fb4(0x696)+_0x221fb4(0x7e8),'name':_0x221fb4(0x61a)+'oose','file':'moose.svg','path':_0x221fb4(0x484)+_0x221fb4(0x727)+'.svg'},{'id':_0x221fb4(0x7ac),'name':_0x221fb4(0x6c1),'file':_0x221fb4(0x1bc)+_0x221fb4(0x660),'path':'Animals/Ju'+_0x221fb4(0x3fe)+_0x221fb4(0x78e)},{'id':'monkey_01','name':_0x221fb4(0x688)+'key','file':_0x221fb4(0x6a8)+_0x221fb4(0x341),'path':_0x221fb4(0x484)+_0x221fb4(0x42b)+_0x221fb4(0x70b)},{'id':_0x221fb4(0x526)+'er','name':_0x221fb4(0x236)+'er','file':_0x221fb4(0x526)+_0x221fb4(0x65c),'path':_0x221fb4(0x484)+_0x221fb4(0x782)+'_glider.sv'+'g'},{'id':_0x221fb4(0x5e3),'name':_0x221fb4(0x457),'file':_0x221fb4(0x169)+_0x221fb4(0x341),'path':_0x221fb4(0x484)+_0x221fb4(0x2ea)+_0x221fb4(0x21d)},{'id':_0x221fb4(0x2ce),'name':_0x221fb4(0x2eb)+'imp','file':_0x221fb4(0x280)+_0x221fb4(0x660),'path':_0x221fb4(0x484)+_0x221fb4(0x5f4)+_0x221fb4(0x52b)},{'id':_0x221fb4(0x55b)+_0x221fb4(0x3d2),'name':'Tree\x20Kanga'+_0x221fb4(0x3d2),'file':'tree_kanga'+_0x221fb4(0x822),'path':_0x221fb4(0x484)+_0x221fb4(0x299)+_0x221fb4(0x1a3)+'vg'},{'id':_0x221fb4(0x8a3),'name':'Porcupine','file':_0x221fb4(0x4ee)+_0x221fb4(0x341),'path':_0x221fb4(0x484)+_0x221fb4(0x6d0)+_0x221fb4(0x1ec)},{'id':_0x221fb4(0x2ce)+'_01','name':_0x221fb4(0x7a6)+_0x221fb4(0x659),'file':_0x221fb4(0x280)+_0x221fb4(0x3c4),'path':_0x221fb4(0x484)+_0x221fb4(0x5f4)+_0x221fb4(0x78d)+'vg'},{'id':_0x221fb4(0x767),'name':_0x221fb4(0x813),'file':_0x221fb4(0x852)+'vg','path':_0x221fb4(0x484)+'ngle/Platy'+'pus.svg'},{'id':'arctic_fox','name':_0x221fb4(0x42c),'file':_0x221fb4(0x75b)+_0x221fb4(0x660),'path':_0x221fb4(0x484)+'ngle/Arcti'+_0x221fb4(0x78e)},{'id':_0x221fb4(0x20c)+'onkey','name':'Capuchin\x20M'+_0x221fb4(0x73c),'file':_0x221fb4(0x20c)+_0x221fb4(0x6e1),'path':_0x221fb4(0x484)+'ngle/capuc'+'hin_monkey'+_0x221fb4(0x660)},{'id':_0x221fb4(0x544),'name':'Wombat','file':'Wombat.svg','path':_0x221fb4(0x484)+_0x221fb4(0x365)+_0x221fb4(0x80e)},{'id':_0x221fb4(0x1a2),'name':_0x221fb4(0x507),'file':_0x221fb4(0x1fa)+'g','path':_0x221fb4(0x484)+'ngle/Gazel'+_0x221fb4(0x80d)},{'id':_0x221fb4(0x6ee)+_0x221fb4(0x297),'name':_0x221fb4(0x1ad)+_0x221fb4(0x297),'file':_0x221fb4(0x6ee)+_0x221fb4(0x36e),'path':_0x221fb4(0x484)+_0x221fb4(0x465)+_0x221fb4(0x6b2)+'vg'},{'id':'baby_tapir','name':'Baby\x20Tapir','file':_0x221fb4(0x1af),'path':'Animals/Ju'+'ngle/tapir'+_0x221fb4(0x660)},{'id':_0x221fb4(0x85f),'name':_0x221fb4(0x175),'file':_0x221fb4(0x861)+'g','path':_0x221fb4(0x484)+_0x221fb4(0x441)+_0x221fb4(0x6d5)},{'id':_0x221fb4(0x7bc),'name':_0x221fb4(0x419),'file':_0x221fb4(0x368),'path':_0x221fb4(0x484)+_0x221fb4(0x1c9)+_0x221fb4(0x660)},{'id':'kinkajou','name':_0x221fb4(0x1ed),'file':_0x221fb4(0x305)+'vg','path':_0x221fb4(0x484)+_0x221fb4(0x653)+_0x221fb4(0x7e0)},{'id':_0x221fb4(0x160),'name':'Okapi','file':_0x221fb4(0x397),'path':_0x221fb4(0x484)+_0x221fb4(0x84d)+_0x221fb4(0x660)},{'id':_0x221fb4(0x7ad)+_0x221fb4(0x853),'name':_0x221fb4(0x565)+'d\x20Lemur','file':_0x221fb4(0x565)+'d_Lemur.sv'+'g','path':_0x221fb4(0x484)+_0x221fb4(0x201)+'Tailed_Lem'+_0x221fb4(0x764)},{'id':_0x221fb4(0x438),'name':_0x221fb4(0x492),'file':_0x221fb4(0x438)+_0x221fb4(0x660),'path':'Animals/Ju'+'ngle/coati'+_0x221fb4(0x415)},{'id':'vicuna','name':'Vicuña','file':_0x221fb4(0x873),'path':_0x221fb4(0x484)+'ngle/vicun'+_0x221fb4(0x83b)},{'id':_0x221fb4(0x391)+'n_tamarin','name':'Golden\x20Lio'+_0x221fb4(0x78c),'file':_0x221fb4(0x477)+_0x221fb4(0x4aa)+_0x221fb4(0x341),'path':_0x221fb4(0x484)+_0x221fb4(0x4a1)+_0x221fb4(0x682)+'arin.svg'},{'id':_0x221fb4(0x639)+_0x221fb4(0x294),'name':_0x221fb4(0x71e)+_0x221fb4(0x888),'file':_0x221fb4(0x7ae),'path':'Animals/Ju'+_0x221fb4(0x30a)+_0x221fb4(0x341)},{'id':_0x221fb4(0x84c)+_0x221fb4(0x3aa),'name':_0x221fb4(0x22c)+_0x221fb4(0x3aa),'file':'spotted_cu'+_0x221fb4(0x5c4),'path':_0x221fb4(0x484)+_0x221fb4(0x3d6)+_0x221fb4(0x751)+_0x221fb4(0x341)},{'id':_0x221fb4(0x32a),'name':_0x221fb4(0x267),'file':'Slow_Loris'+_0x221fb4(0x660),'path':_0x221fb4(0x484)+_0x221fb4(0x62e)+_0x221fb4(0x430)},{'id':'spotted_pa'+'ca','name':_0x221fb4(0x749)+'ca','file':_0x221fb4(0x583),'path':'Animals/Ju'+_0x221fb4(0x240)+'svg'},{'id':_0x221fb4(0x7b8)+'le','name':_0x221fb4(0x56f)+'el','file':_0x221fb4(0x5c1)+'vg','path':_0x221fb4(0x484)+_0x221fb4(0x522)+_0x221fb4(0x3c4)},{'id':_0x221fb4(0x44f),'name':_0x221fb4(0x1d4)+_0x221fb4(0x297),'file':_0x221fb4(0x643),'path':_0x221fb4(0x484)+_0x221fb4(0x202)+_0x221fb4(0x8a4)},{'id':_0x221fb4(0x343),'name':'Agouti','file':_0x221fb4(0x3cb),'path':_0x221fb4(0x484)+_0x221fb4(0x553)+_0x221fb4(0x3b7)},{'id':_0x221fb4(0x2d6),'name':_0x221fb4(0x6b3),'file':'Skunk_01.s'+'vg','path':'Animals/Ju'+_0x221fb4(0x871)+_0x221fb4(0x3c4)},{'id':_0x221fb4(0x785),'name':_0x221fb4(0x339)+_0x221fb4(0x545),'file':_0x221fb4(0x6a1)+_0x221fb4(0x341),'path':_0x221fb4(0x484)+_0x221fb4(0x7b9)+_0x221fb4(0x88e)},{'id':'opossum','name':_0x221fb4(0x6cd),'file':_0x221fb4(0x609)+'g','path':_0x221fb4(0x484)+_0x221fb4(0x663)+'um.svg'},{'id':_0x221fb4(0x6fc),'name':_0x221fb4(0x3ab),'file':'tamandua.s'+'vg','path':_0x221fb4(0x484)+'ngle/taman'+_0x221fb4(0x51c)},{'id':_0x221fb4(0x628)+_0x221fb4(0x27e),'name':_0x221fb4(0x606)+'Monkey','file':_0x221fb4(0x74d)+_0x221fb4(0x341),'path':_0x221fb4(0x484)+_0x221fb4(0x2cf)+'scis.svg'},{'id':_0x221fb4(0x372),'name':_0x221fb4(0x33a)+'ssum','file':_0x221fb4(0x6fa)+_0x221fb4(0x660),'path':_0x221fb4(0x484)+_0x221fb4(0x663)+_0x221fb4(0x152)},{'id':_0x221fb4(0x53b)+'er','name':'Honey\x20Badg'+'er','file':_0x221fb4(0x774)+_0x221fb4(0x65c),'path':'Animals/Ju'+_0x221fb4(0x668)+_0x221fb4(0x7dd)+'g'},{'id':_0x221fb4(0x7e5)+_0x221fb4(0x297),'name':_0x221fb4(0x315)+_0x221fb4(0x297),'file':_0x221fb4(0x446)+_0x221fb4(0x36e),'path':_0x221fb4(0x484)+_0x221fb4(0x413)+_0x221fb4(0x326)+'vg'},{'id':_0x221fb4(0x7a9)+'01','name':'Cute\x20Bat','file':_0x221fb4(0x4b3)+_0x221fb4(0x7e9),'path':_0x221fb4(0x484)+_0x221fb4(0x1c1)+_0x221fb4(0x346)+'g'},{'id':_0x221fb4(0x631),'name':'Binturong','file':_0x221fb4(0x41d)+_0x221fb4(0x341),'path':'Animals/Ju'+_0x221fb4(0x7fb)+_0x221fb4(0x45b)},{'id':'guanaco','name':_0x221fb4(0x6a7),'file':_0x221fb4(0x588)+'g','path':_0x221fb4(0x484)+_0x221fb4(0x657)+'co.svg'},{'id':'colugo','name':'Colugo','file':'colugo.svg','path':_0x221fb4(0x484)+_0x221fb4(0x54f)+_0x221fb4(0x2f8)},{'id':_0x221fb4(0x614),'name':'Fossa','file':'Fossa.svg','path':_0x221fb4(0x484)+_0x221fb4(0x5f2)+_0x221fb4(0x660)},{'id':_0x221fb4(0x844)+_0x221fb4(0x25e),'name':_0x221fb4(0x54e)+'Devil','file':_0x221fb4(0x68e)+_0x221fb4(0x7fa),'path':_0x221fb4(0x484)+'ngle/Tasma'+_0x221fb4(0x73b)+_0x221fb4(0x660)},{'id':_0x221fb4(0x440),'name':_0x221fb4(0x330),'file':_0x221fb4(0x2b3)+'g','path':'Animals/Ju'+_0x221fb4(0x1b5)+_0x221fb4(0x558)},{'id':_0x221fb4(0x1a0),'name':_0x221fb4(0x4dc),'file':_0x221fb4(0x44d)+'vg','path':_0x221fb4(0x484)+_0x221fb4(0x54a)+_0x221fb4(0x77e)},{'id':_0x221fb4(0x769),'name':'Beaver','file':_0x221fb4(0x1d5),'path':'Animals/Ju'+_0x221fb4(0x854)+_0x221fb4(0x8a4)},{'id':_0x221fb4(0x2e7),'name':_0x221fb4(0x374),'file':'Badger.svg','path':_0x221fb4(0x484)+_0x221fb4(0x282)+_0x221fb4(0x8a4)},{'id':_0x221fb4(0x805),'name':'Forest\x20Moo'+'se','file':_0x221fb4(0x7ea)+'vg','path':_0x221fb4(0x484)+_0x221fb4(0x1b3)+'_02.svg'},{'id':_0x221fb4(0x63f),'name':_0x221fb4(0x31d),'file':_0x221fb4(0x371)+'g','path':_0x221fb4(0x484)+_0x221fb4(0x3ac)+_0x221fb4(0x808)},{'id':_0x221fb4(0x6ac),'name':_0x221fb4(0x46d)+_0x221fb4(0x7c1),'file':_0x221fb4(0x182)+_0x221fb4(0x660),'path':'Animals/Ju'+_0x221fb4(0x48f)+_0x221fb4(0x5ec)},{'id':'giraffe_01','name':_0x221fb4(0x18f)+_0x221fb4(0x4f7),'file':_0x221fb4(0x24a)+_0x221fb4(0x660),'path':_0x221fb4(0x484)+_0x221fb4(0x630)+_0x221fb4(0x1c6)},{'id':_0x221fb4(0x2f7)+'her','name':_0x221fb4(0x633)+'her','file':_0x221fb4(0x27c)+_0x221fb4(0x84e),'path':_0x221fb4(0x484)+_0x221fb4(0x6f9)+_0x221fb4(0x2d1)+'vg'},{'id':_0x221fb4(0x250),'name':'Timber\x20Wol'+'f','file':_0x221fb4(0x87a)+'g','path':_0x221fb4(0x484)+_0x221fb4(0x4e6)+_0x221fb4(0x7e9)},{'id':'striped_ze'+_0x221fb4(0x26b),'name':_0x221fb4(0x18a)+_0x221fb4(0x26b),'file':_0x221fb4(0x7e1),'path':_0x221fb4(0x484)+'ngle/zebra'+_0x221fb4(0x660)},{'id':_0x221fb4(0x1de),'name':_0x221fb4(0x617),'file':_0x221fb4(0x369),'path':_0x221fb4(0x484)+_0x221fb4(0x655)+'.svg'},{'id':_0x221fb4(0x61d),'name':_0x221fb4(0x2a8)+'n','file':'Lion_03.sv'+'g','path':_0x221fb4(0x484)+_0x221fb4(0x69a)+'03.svg'},{'id':_0x221fb4(0x338),'name':'Iguana','file':_0x221fb4(0x713),'path':_0x221fb4(0x484)+_0x221fb4(0x6f1)+_0x221fb4(0x83b)},{'id':_0x221fb4(0x863),'name':_0x221fb4(0x875)+'n','file':'Lion_04.sv'+'g','path':_0x221fb4(0x484)+'ngle/Lion_'+_0x221fb4(0x6b8)},{'id':_0x221fb4(0x856),'name':'River\x20Croc'+'odile','file':_0x221fb4(0x687)+'svg','path':_0x221fb4(0x484)+'ngle/Croco'+_0x221fb4(0x33c)},{'id':_0x221fb4(0x770),'name':_0x221fb4(0x71a)+_0x221fb4(0x5b5),'file':_0x221fb4(0x3c7)+'vg','path':_0x221fb4(0x484)+'ngle/Hyena'+_0x221fb4(0x3c4)},{'id':_0x221fb4(0x48b)+'01','name':_0x221fb4(0x733)+_0x221fb4(0x17a),'file':_0x221fb4(0x6d9)+_0x221fb4(0x7e9),'path':'Animals/Ju'+'ngle/Croco'+_0x221fb4(0x6ce)+'g'},{'id':_0x221fb4(0x5ba),'name':'Wild\x20Tiger','file':_0x221fb4(0x89a)+'vg','path':_0x221fb4(0x484)+_0x221fb4(0x233)+_0x221fb4(0x467)},{'id':_0x221fb4(0x518)+'01','name':_0x221fb4(0x5f8),'file':_0x221fb4(0x15f)+'01.svg','path':_0x221fb4(0x484)+_0x221fb4(0x5cb)+_0x221fb4(0x622)+'g'},{'id':_0x221fb4(0x850),'name':_0x221fb4(0x670),'file':_0x221fb4(0x199)+'vg','path':'Animals/Ju'+_0x221fb4(0x56a)+_0x221fb4(0x1f3)},{'id':_0x221fb4(0x70a)+'ck_lizard','name':'Frilled-Ne'+_0x221fb4(0x505),'file':'Frilled-Ne'+_0x221fb4(0x472)+_0x221fb4(0x341),'path':_0x221fb4(0x484)+_0x221fb4(0x542)+_0x221fb4(0x215)+_0x221fb4(0x67b)},{'id':_0x221fb4(0x1d2),'name':_0x221fb4(0x31a),'file':_0x221fb4(0x1e3)+'g','path':_0x221fb4(0x484)+'ngle/Aye-A'+_0x221fb4(0x36b)},{'id':_0x221fb4(0x503)+'gon','name':'Komodo\x20Dra'+_0x221fb4(0x537),'file':_0x221fb4(0x200)+_0x221fb4(0x6fd),'path':_0x221fb4(0x484)+'ngle/Komod'+'o_Dragon.s'+'vg'}]},{'id':_0x221fb4(0x6e3),'name':'Farm\x20Anima'+'ls','shortName':_0x221fb4(0x504),'title':_0x221fb4(0x434)+_0x221fb4(0x775),'emoji':'🐑','icon':_0x221fb4(0x4b6)+'/Sheep_01.'+_0x221fb4(0x341),'circleBg':_0x221fb4(0x45c),'color':_0x221fb4(0x814),'bg':_0x221fb4(0x15e),'animals':[{'id':_0x221fb4(0x2ca),'name':_0x221fb4(0x69f),'file':'Chick.svg','path':'Animals/Fa'+_0x221fb4(0x48d)+'vg'},{'id':_0x221fb4(0x429),'name':_0x221fb4(0x3a1),'file':'Pig.svg','path':'Animals/Fa'+_0x221fb4(0x41e)},{'id':_0x221fb4(0x28b),'name':_0x221fb4(0x4d7),'file':_0x221fb4(0x6bd),'path':_0x221fb4(0x523)+_0x221fb4(0x237)+'vg'},{'id':_0x221fb4(0x20b),'name':'Little\x20Duc'+_0x221fb4(0x35a),'file':_0x221fb4(0x340)+'vg','path':_0x221fb4(0x523)+_0x221fb4(0x8a2)+'g.svg'},{'id':_0x221fb4(0x3f7),'name':_0x221fb4(0x55a)+_0x221fb4(0x52f),'file':_0x221fb4(0x4f8),'path':_0x221fb4(0x523)+_0x221fb4(0x7f4)+'vg'},{'id':_0x221fb4(0x270),'name':_0x221fb4(0x527),'file':_0x221fb4(0x36a)+'g','path':_0x221fb4(0x523)+'rm/Hamster'+_0x221fb4(0x660)},{'id':_0x221fb4(0x453)+'b','name':_0x221fb4(0x7f3)+'b','file':_0x221fb4(0x453)+_0x221fb4(0x63e),'path':_0x221fb4(0x523)+_0x221fb4(0x5fa)+_0x221fb4(0x3e9)},{'id':_0x221fb4(0x75c),'name':_0x221fb4(0x4d3)+'it','file':_0x221fb4(0x5e8),'path':_0x221fb4(0x523)+_0x221fb4(0x33d)+'svg'},{'id':'guinea_pig','name':_0x221fb4(0x650),'file':_0x221fb4(0x289)+_0x221fb4(0x660),'path':_0x221fb4(0x523)+_0x221fb4(0x19d)+_0x221fb4(0x645)},{'id':'fluffy_she'+'ep','name':'Fluffy\x20She'+'ep','file':_0x221fb4(0x823),'path':'Animals/Fa'+_0x221fb4(0x4ec)+'vg'},{'id':_0x221fb4(0x3af),'name':'Calf','file':_0x221fb4(0x3a9),'path':_0x221fb4(0x523)+_0x221fb4(0x613)+'g'},{'id':'playful_ki'+_0x221fb4(0x47e),'name':'Playful\x20Ki'+'tten','file':_0x221fb4(0x2dd),'path':'Animals/Fa'+_0x221fb4(0x4f0)+_0x221fb4(0x341)},{'id':_0x221fb4(0x4f6),'name':_0x221fb4(0x644),'file':_0x221fb4(0x2ba),'path':_0x221fb4(0x523)+_0x221fb4(0x44c)+'vg'},{'id':'dairy_cow','name':_0x221fb4(0x3a7),'file':_0x221fb4(0x601),'path':_0x221fb4(0x523)+'rm/cow.svg'},{'id':_0x221fb4(0x181)+_0x221fb4(0x2e9),'name':_0x221fb4(0x379)+'at','file':_0x221fb4(0x181)+_0x221fb4(0x7a7),'path':_0x221fb4(0x523)+_0x221fb4(0x579)+_0x221fb4(0x703)+'vg'},{'id':'pug','name':_0x221fb4(0x5ae),'file':_0x221fb4(0x6d1),'path':_0x221fb4(0x523)+_0x221fb4(0x6ed)},{'id':_0x221fb4(0x73a)+_0x221fb4(0x679),'name':'Pot-Bellie'+'d\x20Pig','file':'pot_bellie'+_0x221fb4(0x587),'path':_0x221fb4(0x523)+_0x221fb4(0x325)+'lied_pig.s'+'vg'},{'id':_0x221fb4(0x2f0),'name':'Tuxedo\x20Cat','file':_0x221fb4(0x2f0)+_0x221fb4(0x660),'path':_0x221fb4(0x523)+_0x221fb4(0x816)+_0x221fb4(0x422)},{'id':'french_bul'+_0x221fb4(0x502),'name':_0x221fb4(0x15b)+_0x221fb4(0x502),'file':'french_bul'+_0x221fb4(0x795),'path':_0x221fb4(0x523)+_0x221fb4(0x1f9)+_0x221fb4(0x204)+'g'},{'id':_0x221fb4(0x292),'name':_0x221fb4(0x223),'file':_0x221fb4(0x86e),'path':_0x221fb4(0x523)+_0x221fb4(0x71c)},{'id':_0x221fb4(0x8a1),'name':'Goat','file':_0x221fb4(0x30d)+'g','path':_0x221fb4(0x523)+_0x221fb4(0x394)+'.svg'},{'id':_0x221fb4(0x50d),'name':_0x221fb4(0x281),'file':_0x221fb4(0x5e7),'path':_0x221fb4(0x523)+_0x221fb4(0x7ec)+_0x221fb4(0x341)},{'id':_0x221fb4(0x4d4)+_0x221fb4(0x2b0),'name':_0x221fb4(0x271)+_0x221fb4(0x845),'file':_0x221fb4(0x4d4)+_0x221fb4(0x378),'path':'Animals/Fa'+_0x221fb4(0x212)+_0x221fb4(0x63d)+'g'},{'id':_0x221fb4(0x63c),'name':'Lop\x20Rabbit','file':_0x221fb4(0x63c)+'.svg','path':_0x221fb4(0x523)+_0x221fb4(0x611)+_0x221fb4(0x743)},{'id':'ferret','name':_0x221fb4(0x71d),'file':_0x221fb4(0x249),'path':_0x221fb4(0x523)+_0x221fb4(0x57c)+_0x221fb4(0x341)},{'id':_0x221fb4(0x1ce),'name':_0x221fb4(0x448),'file':_0x221fb4(0x1ce)+_0x221fb4(0x660),'path':_0x221fb4(0x523)+_0x221fb4(0x6bc)+_0x221fb4(0x304)},{'id':_0x221fb4(0x708)+_0x221fb4(0x45a),'name':_0x221fb4(0x83c)+_0x221fb4(0x45a),'file':_0x221fb4(0x708)+'bit.svg','path':_0x221fb4(0x523)+_0x221fb4(0x3e4)+_0x221fb4(0x151)},{'id':_0x221fb4(0x1a5)+_0x221fb4(0x5df),'name':_0x221fb4(0x84a)+_0x221fb4(0x7c1),'file':_0x221fb4(0x1a5)+_0x221fb4(0x660),'path':_0x221fb4(0x523)+_0x221fb4(0x389)+_0x221fb4(0x59b)},{'id':'pomeranian','name':_0x221fb4(0x2a2),'file':_0x221fb4(0x43f)+_0x221fb4(0x660),'path':'Animals/Fa'+_0x221fb4(0x7cc)+_0x221fb4(0x33e)},{'id':_0x221fb4(0x776),'name':'Parakeet','file':_0x221fb4(0x862)+'vg','path':_0x221fb4(0x523)+'rm/Parakee'+_0x221fb4(0x80e)},{'id':'hedgehog_p'+'et','name':_0x221fb4(0x2e8)+'og','file':_0x221fb4(0x172)+'vg','path':_0x221fb4(0x523)+'rm/hedgeho'+_0x221fb4(0x54b)},{'id':_0x221fb4(0x4a7),'name':_0x221fb4(0x627),'file':_0x221fb4(0x203)+_0x221fb4(0x341),'path':_0x221fb4(0x523)+'rm/chihuah'+'ua.svg'},{'id':_0x221fb4(0x3a5),'name':'Barn\x20Owl','file':'Barn_Owl.s'+'vg','path':_0x221fb4(0x523)+_0x221fb4(0x21c)+_0x221fb4(0x4ce)},{'id':_0x221fb4(0x24b)+_0x221fb4(0x574),'name':'Squirrel','file':'Squirrel.s'+'vg','path':_0x221fb4(0x523)+_0x221fb4(0x264)+_0x221fb4(0x4ce)},{'id':_0x221fb4(0x4c7)+_0x221fb4(0x7f2)+'m','name':_0x221fb4(0x5fd)+_0x221fb4(0x74b),'file':_0x221fb4(0x79b)+'riever.svg','path':'Animals/Fa'+_0x221fb4(0x471)+_0x221fb4(0x598)+_0x221fb4(0x341)},{'id':_0x221fb4(0x459),'name':_0x221fb4(0x2e5),'file':_0x221fb4(0x6b5),'path':_0x221fb4(0x523)+_0x221fb4(0x73d)+'g'},{'id':_0x221fb4(0x2d9),'name':_0x221fb4(0x798),'file':_0x221fb4(0x673),'path':_0x221fb4(0x523)+_0x221fb4(0x4ef)+'svg'},{'id':_0x221fb4(0x4c7)+_0x221fb4(0x68a),'name':'Playful\x20Re'+'triever','file':'Golden_Ret'+'riever_01.'+_0x221fb4(0x341),'path':_0x221fb4(0x523)+_0x221fb4(0x471)+_0x221fb4(0x190)+_0x221fb4(0x7e9)},{'id':_0x221fb4(0x3dc),'name':'Horse','file':_0x221fb4(0x388),'path':_0x221fb4(0x523)+'rm/horse.s'+'vg'},{'id':'llama','name':_0x221fb4(0x6bb),'file':_0x221fb4(0x1cd),'path':_0x221fb4(0x523)+'rm/Llama.s'+'vg'},{'id':_0x221fb4(0x608)+'und','name':_0x221fb4(0x21e),'file':_0x221fb4(0x36f)+'shund.svg','path':_0x221fb4(0x523)+'rm/Dog_-_D'+_0x221fb4(0x741)+'vg'},{'id':_0x221fb4(0x720),'name':_0x221fb4(0x2f3),'file':_0x221fb4(0x2a7),'path':'Animals/Fa'+_0x221fb4(0x7f1)+_0x221fb4(0x341)},{'id':'camel','name':_0x221fb4(0x40e),'file':'camel.svg','path':_0x221fb4(0x523)+_0x221fb4(0x1bd)+'vg'},{'id':_0x221fb4(0x6c0),'name':_0x221fb4(0x1e4),'file':_0x221fb4(0x168)+'g','path':_0x221fb4(0x523)+'rm/Bulldog'+_0x221fb4(0x660)},{'id':_0x221fb4(0x2fa),'name':'Mule','file':_0x221fb4(0x5e0),'path':_0x221fb4(0x523)+_0x221fb4(0x6f3)+'g'},{'id':_0x221fb4(0x1a1),'name':'Zebu\x20Calf','file':_0x221fb4(0x81d)+_0x221fb4(0x341),'path':'Animals/Fa'+_0x221fb4(0x833)+_0x221fb4(0x208)},{'id':'basset_hou'+'nd','name':_0x221fb4(0x860)+'nd','file':_0x221fb4(0x879)+_0x221fb4(0x26d),'path':_0x221fb4(0x523)+_0x221fb4(0x82b)+'hound.svg'},{'id':'shetland_p'+_0x221fb4(0x699),'name':_0x221fb4(0x57d)+'ony','file':_0x221fb4(0x479)+'ony.svg','path':_0x221fb4(0x523)+'rm/shetlan'+'d_pony.svg'},{'id':_0x221fb4(0x185),'name':_0x221fb4(0x2c2)+_0x221fb4(0x6d8),'file':'buffalo.sv'+'g','path':_0x221fb4(0x523)+_0x221fb4(0x7b4)+_0x221fb4(0x660)},{'id':_0x221fb4(0x732),'name':'Farm\x20Colli'+'e','file':_0x221fb4(0x79d),'path':'Animals/Fa'+_0x221fb4(0x28f)+'svg'},{'id':_0x221fb4(0x750)+'t','name':_0x221fb4(0x7f9)+'t','file':_0x221fb4(0x750)+_0x221fb4(0x80e),'path':'Animals/Fa'+_0x221fb4(0x738)+_0x221fb4(0x79c)},{'id':_0x221fb4(0x4be),'name':_0x221fb4(0x1f8),'file':_0x221fb4(0x739),'path':_0x221fb4(0x523)+_0x221fb4(0x57f)},{'id':_0x221fb4(0x87b)+'u','name':_0x221fb4(0x65b),'file':_0x221fb4(0x431)+'_Tzu.svg','path':'Animals/Fa'+'rm/Dog_-_S'+_0x221fb4(0x1cf)+'g'},{'id':_0x221fb4(0x1fd)+'t','name':_0x221fb4(0x543)+'t','file':_0x221fb4(0x1fd)+_0x221fb4(0x80e),'path':'Animals/Fa'+_0x221fb4(0x43c)+'_cat.svg'},{'id':_0x221fb4(0x7c7)+'ow','name':_0x221fb4(0x487)+'ow','file':_0x221fb4(0x7c7)+_0x221fb4(0x421),'path':_0x221fb4(0x523)+_0x221fb4(0x2a0)+'d_cow.svg'},{'id':_0x221fb4(0x218),'name':_0x221fb4(0x778)+_0x221fb4(0x7af),'file':_0x221fb4(0x700)+_0x221fb4(0x1b8)+_0x221fb4(0x19a),'path':'Animals/Fa'+'rm/Dog_-_Y'+_0x221fb4(0x2b7)+_0x221fb4(0x589)},{'id':'turkey','name':_0x221fb4(0x39e),'file':_0x221fb4(0x4a5),'path':'Animals/Fa'+_0x221fb4(0x570)+_0x221fb4(0x341)},{'id':_0x221fb4(0x7e7)+'ard','name':'Saint\x20Bern'+'ard','file':'Saint_Bern'+'ard.svg','path':_0x221fb4(0x523)+_0x221fb4(0x30c)+_0x221fb4(0x3ee)},{'id':'cheerful_r'+'ooster','name':'Cheerful\x20R'+_0x221fb4(0x807),'file':_0x221fb4(0x1e5)+'g','path':_0x221fb4(0x523)+_0x221fb4(0x48c)+_0x221fb4(0x660)},{'id':_0x221fb4(0x4ae)+'usky','name':_0x221fb4(0x828)+'usky','file':_0x221fb4(0x186)+_0x221fb4(0x4d6),'path':'Animals/Fa'+'rm/Siberia'+'n_Husky.sv'+'g'},{'id':_0x221fb4(0x41c),'name':_0x221fb4(0x39a)+_0x221fb4(0x4b5),'file':_0x221fb4(0x7a4)+_0x221fb4(0x660),'path':_0x221fb4(0x523)+'rm/Rooster'+_0x221fb4(0x3c4)},{'id':_0x221fb4(0x57a),'name':_0x221fb4(0x666),'file':'Dalmatian.'+_0x221fb4(0x341),'path':_0x221fb4(0x523)+_0x221fb4(0x179)+'an.svg'},{'id':'shaggy_yak','name':_0x221fb4(0x3d3),'file':_0x221fb4(0x426),'path':_0x221fb4(0x523)+_0x221fb4(0x7db)},{'id':_0x221fb4(0x4fe),'name':_0x221fb4(0x551),'file':_0x221fb4(0x821)+'le.svg','path':_0x221fb4(0x523)+_0x221fb4(0x52a)+_0x221fb4(0x4bc)}]},{'id':'aquatic','name':_0x221fb4(0x1b2)+_0x221fb4(0x4a9),'shortName':_0x221fb4(0x66b),'title':_0x221fb4(0x740)+_0x221fb4(0x7b2),'emoji':'🦀','icon':_0x221fb4(0x4b6)+'/Crab.svg','circleBg':'#06b6d4','color':_0x221fb4(0x43e),'bg':'#ecfeff','animals':[{'id':_0x221fb4(0x5ab),'name':_0x221fb4(0x35e),'file':_0x221fb4(0x4e1)+'1.svg','path':_0x221fb4(0x78f)+_0x221fb4(0x5ea)+_0x221fb4(0x3b6)+'g'},{'id':'goldfish','name':_0x221fb4(0x802),'file':_0x221fb4(0x381)+'vg','path':_0x221fb4(0x78f)+'uatic/Gold'+_0x221fb4(0x4cb)},{'id':_0x221fb4(0x65e),'name':_0x221fb4(0x72e)+_0x221fb4(0x7e6),'file':'seal.svg','path':'Animals/Aq'+_0x221fb4(0x241)+_0x221fb4(0x660)},{'id':_0x221fb4(0x482),'name':_0x221fb4(0x312),'file':_0x221fb4(0x54d)+'.svg','path':'Animals/Aq'+'uatic/Blue'+_0x221fb4(0x1e1)},{'id':_0x221fb4(0x59c),'name':_0x221fb4(0x83d),'file':_0x221fb4(0x47c)+'svg','path':_0x221fb4(0x78f)+_0x221fb4(0x485)+_0x221fb4(0x742)},{'id':_0x221fb4(0x3d5),'name':_0x221fb4(0x5dd),'file':_0x221fb4(0x1bf)+'g','path':_0x221fb4(0x78f)+_0x221fb4(0x433)+'uin.svg'},{'id':_0x221fb4(0x694)+'le','name':_0x221fb4(0x3da)+'le','file':_0x221fb4(0x4b9)+_0x221fb4(0x80d),'path':'Animals/Aq'+_0x221fb4(0x6b0)+_0x221fb4(0x4f3)+'vg'},{'id':'crab_01','name':_0x221fb4(0x3db)+_0x221fb4(0x620),'file':_0x221fb4(0x672)+'g','path':_0x221fb4(0x78f)+_0x221fb4(0x691)+_0x221fb4(0x3c4)},{'id':_0x221fb4(0x68f),'name':_0x221fb4(0x1dd),'file':_0x221fb4(0x27a)+_0x221fb4(0x341),'path':_0x221fb4(0x78f)+_0x221fb4(0x28e)+_0x221fb4(0x7ff)},{'id':'dolphin','name':_0x221fb4(0x667),'file':_0x221fb4(0x16b)+'g','path':_0x221fb4(0x78f)+_0x221fb4(0x1e0)+_0x221fb4(0x62c)},{'id':_0x221fb4(0x3f2),'name':_0x221fb4(0x3b4),'file':'Sea_Turtle'+_0x221fb4(0x660),'path':_0x221fb4(0x78f)+'uatic/Sea_'+_0x221fb4(0x26e)},{'id':'seahorse','name':_0x221fb4(0x150),'file':_0x221fb4(0x19f)+'vg','path':_0x221fb4(0x78f)+_0x221fb4(0x6a9)+_0x221fb4(0x183)},{'id':_0x221fb4(0x7d9),'name':'Sea\x20Otter','file':_0x221fb4(0x529)+_0x221fb4(0x341),'path':_0x221fb4(0x78f)+'uatic/Sea_'+_0x221fb4(0x407)},{'id':_0x221fb4(0x7d7),'name':_0x221fb4(0x7bb),'file':_0x221fb4(0x316)+'g','path':_0x221fb4(0x78f)+_0x221fb4(0x520)+_0x221fb4(0x744)},{'id':_0x221fb4(0x154),'name':_0x221fb4(0x5eb),'file':_0x221fb4(0x56b)+'g','path':_0x221fb4(0x78f)+_0x221fb4(0x2ff)+_0x221fb4(0x37c)},{'id':_0x221fb4(0x612),'name':_0x221fb4(0x709),'file':'Manatee.sv'+'g','path':_0x221fb4(0x78f)+_0x221fb4(0x7ef)+_0x221fb4(0x158)},{'id':'axolotl','name':'Axolotl','file':_0x221fb4(0x36c)+'g','path':'Animals/Aq'+_0x221fb4(0x4a4)+_0x221fb4(0x85a)},{'id':_0x221fb4(0x247),'name':_0x221fb4(0x3bb),'file':_0x221fb4(0x53f)+'g','path':_0x221fb4(0x78f)+_0x221fb4(0x327)+'_01.svg'},{'id':_0x221fb4(0x662),'name':_0x221fb4(0x377),'file':_0x221fb4(0x773)+'vg','path':_0x221fb4(0x78f)+_0x221fb4(0x81e)+_0x221fb4(0x3d7)},{'id':'hermit_cra'+'b','name':_0x221fb4(0x791)+'b','file':_0x221fb4(0x715)+_0x221fb4(0x63e),'path':_0x221fb4(0x78f)+_0x221fb4(0x69d)+'it_Crab.sv'+'g'},{'id':_0x221fb4(0x16f),'name':_0x221fb4(0x3ca)+'p','file':'Shrimp.svg','path':_0x221fb4(0x78f)+_0x221fb4(0x896)+'mp.svg'},{'id':_0x221fb4(0x357),'name':_0x221fb4(0x40d),'file':_0x221fb4(0x407),'path':_0x221fb4(0x78f)+_0x221fb4(0x44a)+_0x221fb4(0x8a4)},{'id':_0x221fb4(0x24d),'name':'Ocean\x20Crab','file':'Crab.svg','path':_0x221fb4(0x78f)+_0x221fb4(0x691)+'.svg'},{'id':_0x221fb4(0x39f),'name':_0x221fb4(0x350)+'mp','file':_0x221fb4(0x7a2)+_0x221fb4(0x341),'path':_0x221fb4(0x78f)+_0x221fb4(0x896)+_0x221fb4(0x5a0)},{'id':_0x221fb4(0x7ed),'name':'Blobfish','file':_0x221fb4(0x5f9)+'vg','path':_0x221fb4(0x78f)+_0x221fb4(0x835)+_0x221fb4(0x4cb)},{'id':_0x221fb4(0x607),'name':'Sea\x20Lion','file':_0x221fb4(0x567)+'g','path':'Animals/Aq'+_0x221fb4(0x2c0)+_0x221fb4(0x716)},{'id':'conchshell','name':_0x221fb4(0x60b)+'l','file':_0x221fb4(0x658)+'.svg','path':_0x221fb4(0x78f)+_0x221fb4(0x3b0)+_0x221fb4(0x7d1)},{'id':_0x221fb4(0x30f),'name':_0x221fb4(0x58d),'file':_0x221fb4(0x310)+_0x221fb4(0x660),'path':_0x221fb4(0x78f)+_0x221fb4(0x76a)+_0x221fb4(0x1e1)},{'id':'walrus','name':_0x221fb4(0x331),'file':_0x221fb4(0x5a7),'path':_0x221fb4(0x78f)+_0x221fb4(0x25b)+_0x221fb4(0x24c)},{'id':_0x221fb4(0x62f)+'ll','name':_0x221fb4(0x806)+_0x221fb4(0x7b5),'file':'Scallopshe'+_0x221fb4(0x337),'path':_0x221fb4(0x78f)+_0x221fb4(0x5fc)+_0x221fb4(0x30e)+'vg'},{'id':_0x221fb4(0x541),'name':'Stingray','file':'Stingray.s'+'vg','path':_0x221fb4(0x78f)+'uatic/Stin'+_0x221fb4(0x193)},{'id':_0x221fb4(0x66c)+'h','name':_0x221fb4(0x1ea)+'h','file':'Flying_Fis'+_0x221fb4(0x6a6),'path':_0x221fb4(0x78f)+_0x221fb4(0x7a5)+'ng_Fish.sv'+'g'},{'id':_0x221fb4(0x1cb),'name':_0x221fb4(0x2c8),'file':_0x221fb4(0x2c8)+_0x221fb4(0x660),'path':_0x221fb4(0x78f)+_0x221fb4(0x355)+_0x221fb4(0x1eb)},{'id':'mantaray','name':_0x221fb4(0x86c),'file':'Mantaray.s'+'vg','path':_0x221fb4(0x78f)+_0x221fb4(0x3e1)+_0x221fb4(0x73e)},{'id':_0x221fb4(0x50a),'name':_0x221fb4(0x324),'file':_0x221fb4(0x550),'path':_0x221fb4(0x78f)+_0x221fb4(0x2db)+_0x221fb4(0x804)},{'id':'lobster','name':_0x221fb4(0x584)+'r','file':_0x221fb4(0x34d)+'g','path':_0x221fb4(0x78f)+_0x221fb4(0x6af)+_0x221fb4(0x675)},{'id':_0x221fb4(0x605)+'01','name':_0x221fb4(0x6c8)+_0x221fb4(0x323),'file':_0x221fb4(0x760)+_0x221fb4(0x7e9),'path':'Animals/Aq'+'uatic/Mant'+_0x221fb4(0x6d4)+'vg'},{'id':_0x221fb4(0x86f),'name':_0x221fb4(0x354),'file':'Gharial.sv'+'g','path':_0x221fb4(0x78f)+'uatic/Ghar'+'ial.svg'},{'id':_0x221fb4(0x27f),'name':_0x221fb4(0x62b)+'ter','file':_0x221fb4(0x2fb)+_0x221fb4(0x660),'path':_0x221fb4(0x78f)+_0x221fb4(0x6af)+_0x221fb4(0x7bd)},{'id':'angelfish','name':_0x221fb4(0x56d),'file':_0x221fb4(0x516)+'svg','path':_0x221fb4(0x78f)+'uatic/Ange'+_0x221fb4(0x883)},{'id':_0x221fb4(0x761),'name':_0x221fb4(0x257),'file':'Swordfish.'+'svg','path':_0x221fb4(0x78f)+_0x221fb4(0x3f5)+'dfish.svg'},{'id':_0x221fb4(0x269)+'01','name':_0x221fb4(0x765)+_0x221fb4(0x409),'file':'AngelFish_'+_0x221fb4(0x7e9),'path':'Animals/Aq'+_0x221fb4(0x5c3)+'lFish_01.s'+'vg'},{'id':_0x221fb4(0x4d9)+_0x221fb4(0x29f),'name':'Largetooth'+'\x20Sawfish','file':_0x221fb4(0x83f)+_0x221fb4(0x47d)+'vg','path':'Animals/Aq'+_0x221fb4(0x72d)+_0x221fb4(0x59e)+_0x221fb4(0x4cb)},{'id':_0x221fb4(0x86b)+_0x221fb4(0x67e),'name':_0x221fb4(0x3c5)+'Fish','file':_0x221fb4(0x1b4)+_0x221fb4(0x3cc),'path':_0x221fb4(0x78f)+'uatic/Butt'+_0x221fb4(0x76d)+_0x221fb4(0x341)},{'id':_0x221fb4(0x4e3)+_0x221fb4(0x7b5),'name':'Nautilus\x20S'+_0x221fb4(0x74f),'file':_0x221fb4(0x5b7)+'ell.svg','path':_0x221fb4(0x78f)+_0x221fb4(0x72b)+'ilusShell.'+_0x221fb4(0x341)},{'id':_0x221fb4(0x86b)+_0x221fb4(0x4b1),'name':'Coral\x20Butt'+_0x221fb4(0x47a),'file':_0x221fb4(0x1b4)+_0x221fb4(0x443),'path':_0x221fb4(0x78f)+'uatic/Butt'+_0x221fb4(0x163)+_0x221fb4(0x7e9)},{'id':_0x221fb4(0x5d0)+'dragon','name':_0x221fb4(0x29c)+_0x221fb4(0x7f0),'file':'Leafy_Sea_'+'Dragon.svg','path':_0x221fb4(0x78f)+_0x221fb4(0x895)+'y_Sea_Drag'+_0x221fb4(0x771)},{'id':'lionfish','name':_0x221fb4(0x39b),'file':_0x221fb4(0x24e)+'vg','path':'Animals/Aq'+_0x221fb4(0x221)+'fish.svg'}]},{'id':_0x221fb4(0x30b),'name':'Birds','shortName':_0x221fb4(0x729),'title':_0x221fb4(0x830)+_0x221fb4(0x729),'emoji':'🦉','icon':_0x221fb4(0x4b6)+_0x221fb4(0x2c9)+'bp','circleBg':_0x221fb4(0x274),'color':_0x221fb4(0x610),'bg':_0x221fb4(0x23f),'animals':[{'id':'duck','name':_0x221fb4(0x642)+_0x221fb4(0x401),'file':_0x221fb4(0x786),'path':'Animals/Bi'+_0x221fb4(0x466)+'vg'},{'id':_0x221fb4(0x646)+'in','name':'Blue\x20Pengu'+'in','file':_0x221fb4(0x646)+'in.svg','path':_0x221fb4(0x801)+_0x221fb4(0x7a0)+_0x221fb4(0x4e4)},{'id':_0x221fb4(0x7a3),'name':_0x221fb4(0x3e6),'file':_0x221fb4(0x6cc),'path':_0x221fb4(0x801)+_0x221fb4(0x224)+_0x221fb4(0x660)},{'id':_0x221fb4(0x840),'name':_0x221fb4(0x89d),'file':_0x221fb4(0x76f),'path':_0x221fb4(0x801)+_0x221fb4(0x2b2)+'g'},{'id':_0x221fb4(0x49d)+'in','name':_0x221fb4(0x70d)+'in','file':_0x221fb4(0x787)+_0x221fb4(0x535),'path':_0x221fb4(0x801)+'rds/King_P'+'enguin.svg'},{'id':_0x221fb4(0x225),'name':'Songbird','file':_0x221fb4(0x4ac)+'vg','path':_0x221fb4(0x801)+'rds/Songbi'+_0x221fb4(0x808)},{'id':'swan','name':_0x221fb4(0x2af),'file':_0x221fb4(0x34f),'path':_0x221fb4(0x801)+_0x221fb4(0x5e1)+'vg'},{'id':_0x221fb4(0x533)+'hick','name':'Flamingo\x20C'+_0x221fb4(0x70f),'file':'Flamingo_C'+'hick.svg','path':'Animals/Bi'+'rds/Flamin'+_0x221fb4(0x54c)+'vg'},{'id':_0x221fb4(0x380),'name':_0x221fb4(0x772),'file':_0x221fb4(0x382)+_0x221fb4(0x341),'path':_0x221fb4(0x801)+_0x221fb4(0x427)+'dee.svg'},{'id':_0x221fb4(0x75a),'name':'Mallard\x20Du'+'ck','file':_0x221fb4(0x789)+'g','path':_0x221fb4(0x801)+_0x221fb4(0x318)+_0x221fb4(0x38f)},{'id':_0x221fb4(0x6b1)+'uffin','name':'Atlantic\x20P'+_0x221fb4(0x2bc),'file':_0x221fb4(0x3ec)+'uffin.svg','path':'Animals/Bi'+'rds/Atlant'+'ic_Puffin.'+_0x221fb4(0x341)},{'id':_0x221fb4(0x366),'name':_0x221fb4(0x5cc),'file':_0x221fb4(0x3bc)+'vg','path':_0x221fb4(0x801)+_0x221fb4(0x819)+_0x221fb4(0x808)},{'id':_0x221fb4(0x385),'name':'Duck\x20Famil'+'y','file':'Ducks.svg','path':'Animals/Bi'+_0x221fb4(0x83e)+_0x221fb4(0x341)},{'id':_0x221fb4(0x272),'name':_0x221fb4(0x7df),'file':_0x221fb4(0x6da),'path':_0x221fb4(0x801)+_0x221fb4(0x480)+_0x221fb4(0x660)},{'id':_0x221fb4(0x1f1)+_0x221fb4(0x3d4),'name':'European\x20R'+_0x221fb4(0x3d4),'file':'european_r'+_0x221fb4(0x842),'path':_0x221fb4(0x801)+_0x221fb4(0x286)+_0x221fb4(0x216)+'vg'},{'id':_0x221fb4(0x6f4),'name':_0x221fb4(0x71f),'file':_0x221fb4(0x753)+'vg','path':_0x221fb4(0x801)+_0x221fb4(0x59d)+_0x221fb4(0x876)},{'id':'parrot','name':'Parrot','file':'parrot.svg','path':_0x221fb4(0x801)+_0x221fb4(0x60f)+_0x221fb4(0x660)},{'id':_0x221fb4(0x568),'name':_0x221fb4(0x404),'file':_0x221fb4(0x486)+'g','path':_0x221fb4(0x801)+_0x221fb4(0x7d0)+_0x221fb4(0x1e7)},{'id':_0x221fb4(0x15a),'name':_0x221fb4(0x820)+_0x221fb4(0x66f),'file':_0x221fb4(0x15a)+'.svg','path':_0x221fb4(0x801)+'rds/woodpe'+_0x221fb4(0x4ba)},{'id':_0x221fb4(0x462),'name':_0x221fb4(0x857),'file':_0x221fb4(0x258)+'svg','path':_0x221fb4(0x801)+'rds/Cockat'+_0x221fb4(0x6ca)},{'id':_0x221fb4(0x40b),'name':_0x221fb4(0x231),'file':_0x221fb4(0x3c0)+_0x221fb4(0x341),'path':'Animals/Bi'+_0x221fb4(0x21a)+_0x221fb4(0x5a4)},{'id':_0x221fb4(0x4ed),'name':_0x221fb4(0x238),'file':_0x221fb4(0x4fc)+'vg','path':_0x221fb4(0x801)+_0x221fb4(0x220)+_0x221fb4(0x6e4)},{'id':_0x221fb4(0x2c1),'name':_0x221fb4(0x824),'file':_0x221fb4(0x2dc)+_0x221fb4(0x341),'path':_0x221fb4(0x801)+_0x221fb4(0x39c)+_0x221fb4(0x768)},{'id':_0x221fb4(0x230),'name':_0x221fb4(0x63a),'file':_0x221fb4(0x734),'path':'Animals/Bi'+_0x221fb4(0x697)+'vg'},{'id':_0x221fb4(0x491),'name':'Blue\x20Jay','file':_0x221fb4(0x7f7)+'vg','path':'Animals/Bi'+_0x221fb4(0x43a)+'ay.svg'},{'id':'cockatoo','name':_0x221fb4(0x2b1),'file':'Cockatoo.s'+'vg','path':_0x221fb4(0x801)+_0x221fb4(0x5a9)+_0x221fb4(0x319)},{'id':_0x221fb4(0x171),'name':_0x221fb4(0x827),'file':_0x221fb4(0x275)+'g','path':_0x221fb4(0x801)+'rds/Swallo'+_0x221fb4(0x1e7)},{'id':_0x221fb4(0x6ff),'name':_0x221fb4(0x6c5),'file':_0x221fb4(0x6c5)+_0x221fb4(0x660),'path':_0x221fb4(0x801)+_0x221fb4(0x6ab)+'sher.svg'},{'id':'seagull','name':_0x221fb4(0x5af),'file':_0x221fb4(0x3df)+'g','path':_0x221fb4(0x801)+'rds/Seagul'+'l.svg'},{'id':'gouldian_f'+_0x221fb4(0x7a1),'name':'Gouldian\x20F'+'inch','file':'gouldian_f'+_0x221fb4(0x4eb),'path':'Animals/Bi'+_0x221fb4(0x1ff)+_0x221fb4(0x59a)+'vg'},{'id':'kiwi_bird','name':_0x221fb4(0x6cf),'file':_0x221fb4(0x7f6)+_0x221fb4(0x341),'path':_0x221fb4(0x801)+'rds/Kiwi_B'+_0x221fb4(0x6eb)},{'id':_0x221fb4(0x496),'name':_0x221fb4(0x809),'file':_0x221fb4(0x7c9)+'g','path':_0x221fb4(0x801)+_0x221fb4(0x5a8)+_0x221fb4(0x273)},{'id':_0x221fb4(0x2be)+_0x221fb4(0x55e),'name':_0x221fb4(0x2f6),'file':_0x221fb4(0x442)+_0x221fb4(0x660),'path':'Animals/Bi'+_0x221fb4(0x829)+_0x221fb4(0x5c9)},{'id':_0x221fb4(0x317),'name':_0x221fb4(0x25c),'file':_0x221fb4(0x2f4),'path':_0x221fb4(0x801)+_0x221fb4(0x51e)+_0x221fb4(0x660)},{'id':'magpie','name':_0x221fb4(0x162),'file':_0x221fb4(0x3f0),'path':'Animals/Bi'+_0x221fb4(0x3b5)+_0x221fb4(0x660)},{'id':_0x221fb4(0x3d8)+'axwing','name':_0x221fb4(0x832)+_0x221fb4(0x5e2),'file':_0x221fb4(0x3d8)+'axwing.svg','path':_0x221fb4(0x801)+_0x221fb4(0x19e)+_0x221fb4(0x31e)+_0x221fb4(0x660)},{'id':_0x221fb4(0x2ab)+'d','name':_0x221fb4(0x18d)+'d','file':_0x221fb4(0x55f)+_0x221fb4(0x2ac),'path':_0x221fb4(0x801)+_0x221fb4(0x51b)+_0x221fb4(0x7ba)},{'id':_0x221fb4(0x31b),'name':_0x221fb4(0x5c0),'file':'Owls.svg','path':_0x221fb4(0x801)+_0x221fb4(0x683)+'vg'},{'id':_0x221fb4(0x731)+'t','name':_0x221fb4(0x253)+'t','file':_0x221fb4(0x651)+_0x221fb4(0x4f9)+_0x221fb4(0x341),'path':_0x221fb4(0x801)+'rds/blue_c'+_0x221fb4(0x81a)+_0x221fb4(0x75d)},{'id':_0x221fb4(0x15a)+'s','name':'Woodpecker'+_0x221fb4(0x3de),'file':_0x221fb4(0x818)+_0x221fb4(0x638),'path':_0x221fb4(0x801)+_0x221fb4(0x51f)+_0x221fb4(0x176)},{'id':_0x221fb4(0x332),'name':_0x221fb4(0x2b5),'file':_0x221fb4(0x2b5)+'.svg','path':_0x221fb4(0x801)+_0x221fb4(0x6d6)+_0x221fb4(0x1a8)},{'id':_0x221fb4(0x256)+'d','name':'Hummingbir'+'d','file':_0x221fb4(0x2f9)+_0x221fb4(0x2ac),'path':_0x221fb4(0x801)+'rds/Hummin'+_0x221fb4(0x582)},{'id':_0x221fb4(0x5c7)+_0x221fb4(0x89b),'name':_0x221fb4(0x248)+_0x221fb4(0x42e),'file':_0x221fb4(0x248)+_0x221fb4(0x494)+'g','path':'Animals/Bi'+'rds/Blue-F'+_0x221fb4(0x83a)+_0x221fb4(0x7aa)},{'id':_0x221fb4(0x1d9)+_0x221fb4(0x7e8),'name':'Barnacle\x20G'+_0x221fb4(0x7e8),'file':_0x221fb4(0x1d9)+_0x221fb4(0x7f8),'path':_0x221fb4(0x801)+'rds/barnac'+_0x221fb4(0x3bd)+'vg'},{'id':'stork','name':_0x221fb4(0x493),'file':_0x221fb4(0x790),'path':_0x221fb4(0x801)+_0x221fb4(0x359)+'svg'},{'id':_0x221fb4(0x27d),'name':_0x221fb4(0x308),'file':_0x221fb4(0x245)+_0x221fb4(0x341),'path':_0x221fb4(0x801)+_0x221fb4(0x260)+_0x221fb4(0x834)},{'id':_0x221fb4(0x3fc),'name':_0x221fb4(0x81c),'file':_0x221fb4(0x81c)+_0x221fb4(0x660),'path':'Animals/Bi'+_0x221fb4(0x23a)+'nner.svg'},{'id':_0x221fb4(0x881)+'e','name':_0x221fb4(0x52c)+'e','file':_0x221fb4(0x178)+_0x221fb4(0x400),'path':_0x221fb4(0x801)+_0x221fb4(0x540)+_0x221fb4(0x508)},{'id':_0x221fb4(0x428),'name':_0x221fb4(0x342),'file':_0x221fb4(0x474),'path':_0x221fb4(0x801)+'rds/Hoopoe'+_0x221fb4(0x660)},{'id':_0x221fb4(0x810),'name':'Ostrich','file':_0x221fb4(0x1c0)+'g','path':_0x221fb4(0x801)+_0x221fb4(0x66a)+'h.svg'},{'id':'macaw_parr'+'ot','name':_0x221fb4(0x530)+'ot','file':_0x221fb4(0x4f5)+_0x221fb4(0x20f),'path':_0x221fb4(0x801)+_0x221fb4(0x192)+_0x221fb4(0x596)},{'id':_0x221fb4(0x825)+_0x221fb4(0x7be),'name':'Great\x20Horn'+_0x221fb4(0x7be),'file':_0x221fb4(0x64a)+_0x221fb4(0x721),'path':_0x221fb4(0x801)+_0x221fb4(0x536)+_0x221fb4(0x23b)+'vg'},{'id':_0x221fb4(0x4fa)+_0x221fb4(0x1c3),'name':_0x221fb4(0x841)+'geon','file':_0x221fb4(0x4fa)+'geon.svg','path':_0x221fb4(0x801)+_0x221fb4(0x684)+'d_pigeon.s'+'vg'},{'id':'crowned_cr'+_0x221fb4(0x4b0),'name':'Crowned\x20Cr'+_0x221fb4(0x4b0),'file':_0x221fb4(0x68c)+_0x221fb4(0x6db),'path':_0x221fb4(0x801)+_0x221fb4(0x684)+_0x221fb4(0x7fe)+'g'},{'id':_0x221fb4(0x6fb)+_0x221fb4(0x89e),'name':_0x221fb4(0x1ca)+_0x221fb4(0x348),'file':_0x221fb4(0x1ca)+'iled_Kite.'+_0x221fb4(0x341),'path':'Animals/Bi'+_0x221fb4(0x5ad)+_0x221fb4(0x593)+_0x221fb4(0x7c3)},{'id':_0x221fb4(0x573),'name':'Black\x20Crow','file':_0x221fb4(0x756),'path':_0x221fb4(0x801)+_0x221fb4(0x4db)+'vg'},{'id':_0x221fb4(0x322)+_0x221fb4(0x87d),'name':_0x221fb4(0x489)+_0x221fb4(0x87d),'file':_0x221fb4(0x322)+_0x221fb4(0x649)+'g','path':_0x221fb4(0x801)+_0x221fb4(0x5d8)+_0x221fb4(0x3a8)+_0x221fb4(0x4ce)},{'id':_0x221fb4(0x42f),'name':'Falcon','file':_0x221fb4(0x60c),'path':'Animals/Bi'+_0x221fb4(0x717)+_0x221fb4(0x660)},{'id':_0x221fb4(0x797),'name':'Cawing\x20Cro'+'w','file':_0x221fb4(0x705)+'g','path':_0x221fb4(0x801)+'rds/Crow_0'+_0x221fb4(0x5c5)},{'id':_0x221fb4(0x37d)+'is','name':'Scarlet\x20Ib'+'is','file':_0x221fb4(0x37d)+'is.svg','path':_0x221fb4(0x801)+'rds/scarle'+_0x221fb4(0x46b)},{'id':_0x221fb4(0x495),'name':_0x221fb4(0x4ea),'file':'Hawk.svg','path':_0x221fb4(0x801)+_0x221fb4(0x581)+'vg'},{'id':_0x221fb4(0x4a3),'name':'Raven','file':'Raven.svg','path':_0x221fb4(0x801)+_0x221fb4(0x1a6)+_0x221fb4(0x341)},{'id':'kakapo','name':_0x221fb4(0x254),'file':'Kakapo.svg','path':_0x221fb4(0x801)+_0x221fb4(0x685)+_0x221fb4(0x660)},{'id':_0x221fb4(0x18c),'name':_0x221fb4(0x3bf),'file':_0x221fb4(0x534),'path':'Animals/Bi'+'rds/Eagle.'+_0x221fb4(0x341)},{'id':_0x221fb4(0x3ae)+_0x221fb4(0x3e5),'name':'Shoebill\x20S'+_0x221fb4(0x3e5),'file':'Shoebill_S'+_0x221fb4(0x161),'path':_0x221fb4(0x801)+_0x221fb4(0x4dd)+_0x221fb4(0x5ff)+'vg'},{'id':_0x221fb4(0x255)+_0x221fb4(0x246),'name':_0x221fb4(0x77c)+_0x221fb4(0x1ab),'file':_0x221fb4(0x3ad)+_0x221fb4(0x560),'path':'Animals/Bi'+_0x221fb4(0x198)+_0x221fb4(0x745)+'vg'},{'id':_0x221fb4(0x5e4),'name':_0x221fb4(0x690),'file':_0x221fb4(0x284),'path':_0x221fb4(0x801)+'rds/osprey'+'.svg'},{'id':'capercaill'+'ie','name':_0x221fb4(0x1db)+_0x221fb4(0x552),'file':_0x221fb4(0x470)+_0x221fb4(0x2b8),'path':_0x221fb4(0x801)+_0x221fb4(0x43d)+_0x221fb4(0x392)},{'id':_0x221fb4(0x2b9)+'rd','name':_0x221fb4(0x174)+'rd','file':_0x221fb4(0x174)+_0x221fb4(0x808),'path':'Animals/Bi'+_0x221fb4(0x6b7)+_0x221fb4(0x3d1)},{'id':_0x221fb4(0x5bf)+'uck','name':_0x221fb4(0x469)+_0x221fb4(0x401),'file':_0x221fb4(0x5bf)+_0x221fb4(0x411),'path':_0x221fb4(0x801)+_0x221fb4(0x68b)+_0x221fb4(0x4c3)+'g'},{'id':'capercaill'+_0x221fb4(0x22a),'name':_0x221fb4(0x6e2)+_0x221fb4(0x7ab)+'e','file':_0x221fb4(0x470)+_0x221fb4(0x214),'path':_0x221fb4(0x801)+_0x221fb4(0x43d)+_0x221fb4(0x5ee)+_0x221fb4(0x341)},{'id':_0x221fb4(0x67d),'name':_0x221fb4(0x500),'file':'hoatzin.sv'+'g','path':_0x221fb4(0x801)+_0x221fb4(0x4d1)+_0x221fb4(0x273)},{'id':_0x221fb4(0x4cd),'name':'Peacock','file':_0x221fb4(0x3c6)+'g','path':_0x221fb4(0x801)+_0x221fb4(0x5be)+_0x221fb4(0x804)},{'id':_0x221fb4(0x4e9),'name':'Lyrebird','file':_0x221fb4(0x5c8)+'vg','path':_0x221fb4(0x801)+_0x221fb4(0x3dd)+_0x221fb4(0x808)},{'id':'peacock_01','name':_0x221fb4(0x1ef)+_0x221fb4(0x70c),'file':'Peacock_01'+_0x221fb4(0x660),'path':_0x221fb4(0x801)+_0x221fb4(0x5be)+_0x221fb4(0x28a)},{'id':'resplenden'+_0x221fb4(0x497),'name':_0x221fb4(0x87e),'file':'quetzal.sv'+'g','path':_0x221fb4(0x801)+'rds/quetza'+_0x221fb4(0x4ce)}]},{'id':'dinosaurs','name':_0x221fb4(0x7de),'shortName':_0x221fb4(0x7de),'title':_0x221fb4(0x747)+_0x221fb4(0x60d),'emoji':'🦖','icon':_0x221fb4(0x4b6)+_0x221fb4(0x414)+'webp','circleBg':_0x221fb4(0x3b3),'color':'#c85a3a','bg':_0x221fb4(0x6c3),'animals':[{'id':'baby_dinos'+_0x221fb4(0x180),'name':_0x221fb4(0x1c7),'file':_0x221fb4(0x35d)+_0x221fb4(0x843),'path':_0x221fb4(0x4e2)+_0x221fb4(0x2f1)+'by_Dinosau'+_0x221fb4(0x8a4)},{'id':_0x221fb4(0x619)+_0x221fb4(0x676)+'1','name':'Baby\x20Brach'+'iosaur','file':_0x221fb4(0x21b)+_0x221fb4(0x676)+'1.svg','path':_0x221fb4(0x4e2)+_0x221fb4(0x2f1)+_0x221fb4(0x72c)+_0x221fb4(0x86a)+_0x221fb4(0x341)},{'id':_0x221fb4(0x6a0)+_0x221fb4(0x423),'name':_0x221fb4(0x757),'file':_0x221fb4(0x755)+_0x221fb4(0x3c4),'path':_0x221fb4(0x4e2)+_0x221fb4(0x2f1)+_0x221fb4(0x7e3)+_0x221fb4(0x38f)},{'id':'baby_duckb'+_0x221fb4(0x455),'name':_0x221fb4(0x711)+'ill','file':_0x221fb4(0x501)+'ill.svg','path':_0x221fb4(0x4e2)+_0x221fb4(0x49a)+_0x221fb4(0x444)+'l.svg'},{'id':_0x221fb4(0x6de)+'s','name':_0x221fb4(0x361)+'s','file':_0x221fb4(0x6de)+'s.svg','path':_0x221fb4(0x4e2)+_0x221fb4(0x5f3)+_0x221fb4(0x2fd)+_0x221fb4(0x341)},{'id':'triceratop'+_0x221fb4(0x195),'name':_0x221fb4(0x56e)+'s','file':_0x221fb4(0x56e)+_0x221fb4(0x5f7),'path':'Animals/Di'+_0x221fb4(0x45d)+_0x221fb4(0x831)+_0x221fb4(0x7e9)},{'id':'stegosauru'+_0x221fb4(0x195),'name':_0x221fb4(0x364)+_0x221fb4(0x5db),'file':_0x221fb4(0x1ee)+_0x221fb4(0x5f7),'path':_0x221fb4(0x4e2)+_0x221fb4(0x50b)+_0x221fb4(0x2cc)+_0x221fb4(0x7e9)},{'id':'pterodacty'+_0x221fb4(0x46f),'name':_0x221fb4(0x788)+'rodactyl','file':_0x221fb4(0x590)+_0x221fb4(0x5e5),'path':_0x221fb4(0x4e2)+'nosaurs/Pt'+_0x221fb4(0x1e2)+_0x221fb4(0x7e9)},{'id':'woolly_mam'+_0x221fb4(0x376),'name':'Mammoth','file':_0x221fb4(0x345)+_0x221fb4(0x559),'path':_0x221fb4(0x4e2)+_0x221fb4(0x66e)+_0x221fb4(0x44e)+_0x221fb4(0x227)},{'id':_0x221fb4(0x4ff),'name':_0x221fb4(0x383),'file':_0x221fb4(0x383)+_0x221fb4(0x660),'path':_0x221fb4(0x4e2)+_0x221fb4(0x7e2)+'plodocus.s'+'vg'},{'id':_0x221fb4(0x60a)+'ophus','name':_0x221fb4(0x5bd)+_0x221fb4(0x6ea),'file':_0x221fb4(0x60a)+_0x221fb4(0x7d2),'path':'Animals/Di'+'nosaurs/pa'+_0x221fb4(0x5f1)+'hus.svg'},{'id':'baby_theri'+_0x221fb4(0x35c),'name':_0x221fb4(0x4e0)+_0x221fb4(0x6f7),'file':_0x221fb4(0x6e6)+_0x221fb4(0x35c)+_0x221fb4(0x660),'path':_0x221fb4(0x4e2)+'nosaurs/ba'+'by_therizi'+_0x221fb4(0x6c6)+'vg'},{'id':_0x221fb4(0x870)+'rus','name':_0x221fb4(0x1e9)+_0x221fb4(0x4d5),'file':'styracosau'+'rus.svg','path':_0x221fb4(0x4e2)+_0x221fb4(0x4c2)+_0x221fb4(0x615)+_0x221fb4(0x638)},{'id':_0x221fb4(0x3ba),'name':_0x221fb4(0x3a3),'file':_0x221fb4(0x194)+_0x221fb4(0x341),'path':'Animals/Di'+_0x221fb4(0x2a6)+_0x221fb4(0x33f)+'g'},{'id':_0x221fb4(0x77d)+_0x221fb4(0x557),'name':_0x221fb4(0x328)+'lo','file':_0x221fb4(0x77d)+_0x221fb4(0x155)+'vg','path':_0x221fb4(0x4e2)+_0x221fb4(0x6f0)+_0x221fb4(0x22b)+_0x221fb4(0x16e)},{'id':_0x221fb4(0x569)+_0x221fb4(0x490),'name':'Tall\x20Brach'+'iosaur','file':'brachiosau'+_0x221fb4(0x25a),'path':'Animals/Di'+'nosaurs/br'+'achiosauru'+_0x221fb4(0x638)},{'id':'stegosauru'+'s_spiky','name':_0x221fb4(0x63b)+_0x221fb4(0x5db),'file':_0x221fb4(0x4de)+_0x221fb4(0x638),'path':_0x221fb4(0x4e2)+_0x221fb4(0x4c2)+_0x221fb4(0x4b7)+'svg'},{'id':_0x221fb4(0x2da)+'rus','name':_0x221fb4(0x74a)+_0x221fb4(0x4d5),'file':_0x221fb4(0x2da)+_0x221fb4(0x25a),'path':_0x221fb4(0x4e2)+_0x221fb4(0x6aa)+_0x221fb4(0x17e)+_0x221fb4(0x638)},{'id':_0x221fb4(0x454)+'us','name':_0x221fb4(0x572)+'us','file':_0x221fb4(0x454)+_0x221fb4(0x24c),'path':'Animals/Di'+_0x221fb4(0x6fe)+_0x221fb4(0x1ba)+'.svg'},{'id':'euoploceph'+_0x221fb4(0x4e8),'name':_0x221fb4(0x16c)+_0x221fb4(0x4e8),'file':'euoploceph'+_0x221fb4(0x2c7),'path':_0x221fb4(0x4e2)+'nosaurs/eu'+_0x221fb4(0x3eb)+_0x221fb4(0x24c)},{'id':_0x221fb4(0x26c)+_0x221fb4(0x562),'name':_0x221fb4(0x395)+_0x221fb4(0x3ce),'file':_0x221fb4(0x26c)+'ops_01.svg','path':'Animals/Di'+_0x221fb4(0x78b)+_0x221fb4(0x53e)+'s_01.svg'},{'id':'gallimimus','name':_0x221fb4(0x1d7),'file':_0x221fb4(0x580)+_0x221fb4(0x660),'path':_0x221fb4(0x4e2)+_0x221fb4(0x597)+'llimimus.s'+'vg'},{'id':_0x221fb4(0x4b4)+'us','name':'Ouranosaur'+'us','file':_0x221fb4(0x4b4)+_0x221fb4(0x24c),'path':_0x221fb4(0x4e2)+_0x221fb4(0x2e3)+'ranosaurus'+_0x221fb4(0x660)},{'id':_0x221fb4(0x314)+'us','name':_0x221fb4(0x2e6)+'us','file':_0x221fb4(0x314)+'us.svg','path':_0x221fb4(0x4e2)+'nosaurs/mi'+'croceratus'+_0x221fb4(0x660)},{'id':_0x221fb4(0x88a)+'mus','name':_0x221fb4(0x7b1)+_0x221fb4(0x360),'file':'struthiomi'+_0x221fb4(0x5b4),'path':_0x221fb4(0x4e2)+_0x221fb4(0x4c2)+_0x221fb4(0x5e6)+'s.svg'},{'id':_0x221fb4(0x41a)+'us','name':_0x221fb4(0x4c1)+'us','file':'deinocheir'+_0x221fb4(0x24c),'path':'Animals/Di'+_0x221fb4(0x46a)+_0x221fb4(0x228)+'.svg'},{'id':_0x221fb4(0x64e)+_0x221fb4(0x4d5),'name':_0x221fb4(0x88d)+'rus','file':_0x221fb4(0x88d)+_0x221fb4(0x25a),'path':_0x221fb4(0x4e2)+'nosaurs/Co'+_0x221fb4(0x5b3)+_0x221fb4(0x638)},{'id':_0x221fb4(0x88a)+_0x221fb4(0x1bb),'name':_0x221fb4(0x89f)+_0x221fb4(0x3b1),'file':_0x221fb4(0x88a)+'mus_01.svg','path':_0x221fb4(0x4e2)+_0x221fb4(0x4c2)+_0x221fb4(0x5e6)+_0x221fb4(0x5f7)},{'id':_0x221fb4(0x89c),'name':'Oviraptor','file':'Oviraptor.'+_0x221fb4(0x341),'path':_0x221fb4(0x4e2)+_0x221fb4(0x4cc)+_0x221fb4(0x626)+'g'},{'id':_0x221fb4(0x6dd),'name':_0x221fb4(0x82c),'file':_0x221fb4(0x7d5)+'svg','path':'Animals/Di'+_0x221fb4(0x7e4)+'uanodon.sv'+'g'},{'id':_0x221fb4(0x5b1),'name':_0x221fb4(0x3b8),'file':_0x221fb4(0x417)+'svg','path':_0x221fb4(0x4e2)+_0x221fb4(0x473)+_0x221fb4(0x64c)+'g'},{'id':_0x221fb4(0x706)+_0x221fb4(0x800),'name':'Ankylosaur'+'us','file':_0x221fb4(0x781)+_0x221fb4(0x3e2),'path':_0x221fb4(0x4e2)+_0x221fb4(0x166)+'kylosaurus'+_0x221fb4(0x3c4)},{'id':_0x221fb4(0x3f6)+_0x221fb4(0x2b4),'name':'Soaring\x20Pt'+_0x221fb4(0x32e),'file':_0x221fb4(0x3f6)+_0x221fb4(0x4ce),'path':'Animals/Di'+_0x221fb4(0x710)+'erodactyl.'+'svg'},{'id':_0x221fb4(0x869)+'m','name':_0x221fb4(0x81f)+'m','file':_0x221fb4(0x869)+'m.svg','path':'Animals/Di'+'nosaurs/me'+_0x221fb4(0x2ef)+_0x221fb4(0x341)},{'id':_0x221fb4(0x591),'name':_0x221fb4(0x3b9)+'ex','file':_0x221fb4(0x22e)+'rus_Rex_02'+_0x221fb4(0x660),'path':_0x221fb4(0x4e2)+_0x221fb4(0x219)+_0x221fb4(0x763)+_0x221fb4(0x5c2)+'vg'},{'id':_0x221fb4(0x7c4)+_0x221fb4(0x2bd),'name':_0x221fb4(0x34b)+'tlus','file':_0x221fb4(0x34b)+_0x221fb4(0x2bf),'path':_0x221fb4(0x4e2)+_0x221fb4(0x2ec)+'etzalcoatl'+_0x221fb4(0x24c)},{'id':_0x221fb4(0x4b8),'name':_0x221fb4(0x349),'file':'Plesiosaur'+'.svg','path':_0x221fb4(0x4e2)+_0x221fb4(0x555)+'esiosaur.s'+'vg'},{'id':_0x221fb4(0x595)+_0x221fb4(0x4bb),'name':_0x221fb4(0x594)+'or','file':_0x221fb4(0x594)+_0x221fb4(0x445),'path':_0x221fb4(0x4e2)+_0x221fb4(0x416)+_0x221fb4(0x868)+_0x221fb4(0x3c4)},{'id':_0x221fb4(0x4f2)+_0x221fb4(0x7d4),'name':'Sabertooth','file':_0x221fb4(0x23e)+'_Tiger.svg','path':_0x221fb4(0x4e2)+_0x221fb4(0x58c)+_0x221fb4(0x5fb)+_0x221fb4(0x384)},{'id':_0x221fb4(0x34e)+'s_01','name':_0x221fb4(0x425)+'s','file':_0x221fb4(0x425)+'s_01.svg','path':'Animals/Di'+_0x221fb4(0x1a9)+_0x221fb4(0x780)+'01.svg'},{'id':_0x221fb4(0x735),'name':_0x221fb4(0x652),'file':_0x221fb4(0x396)+'svg','path':_0x221fb4(0x4e2)+_0x221fb4(0x6e0)+'galodon.sv'+'g'}]},{'id':_0x221fb4(0x31c),'name':'Insects','shortName':_0x221fb4(0x464),'title':'Little\x20Bug'+_0x221fb4(0x5b6)+'s','emoji':'🐝','icon':_0x221fb4(0x4b6)+_0x221fb4(0x77b)+_0x221fb4(0x341),'circleBg':_0x221fb4(0x58f),'color':_0x221fb4(0x872),'bg':_0x221fb4(0x449),'animals':[{'id':_0x221fb4(0x784),'name':'Snail','file':_0x221fb4(0x6b9),'path':_0x221fb4(0x38c)+_0x221fb4(0x4ca)+_0x221fb4(0x4ce)},{'id':_0x221fb4(0x5d4)+'fe','name':'Ladybug','file':'ladybug.sv'+'g','path':_0x221fb4(0x38c)+_0x221fb4(0x64f)+_0x221fb4(0x38a)},{'id':_0x221fb4(0x5c6),'name':'Firefly','file':_0x221fb4(0x538)+'g','path':'Animals/In'+_0x221fb4(0x2d8)+_0x221fb4(0x5e9)},{'id':_0x221fb4(0x5cd)+'r','name':_0x221fb4(0x4bf)+'r','file':_0x221fb4(0x4bf)+_0x221fb4(0x8a4),'path':_0x221fb4(0x38c)+'sects/Cate'+_0x221fb4(0x866)+'g'},{'id':_0x221fb4(0x3f1),'name':_0x221fb4(0x56c),'file':_0x221fb4(0x188)+_0x221fb4(0x341),'path':_0x221fb4(0x38c)+_0x221fb4(0x19b)+'_poly.svg'},{'id':_0x221fb4(0x37b),'name':'Bumblebee','file':_0x221fb4(0x897)+_0x221fb4(0x341),'path':_0x221fb4(0x38c)+_0x221fb4(0x603)+_0x221fb4(0x4a8)},{'id':_0x221fb4(0x2f2),'name':_0x221fb4(0x291),'file':_0x221fb4(0x51d)+'vg','path':_0x221fb4(0x38c)+_0x221fb4(0x1be)+_0x221fb4(0x794)},{'id':_0x221fb4(0x80b),'name':'Ant','file':_0x221fb4(0x3f8),'path':_0x221fb4(0x38c)+_0x221fb4(0x836)+_0x221fb4(0x341)},{'id':_0x221fb4(0x20e),'name':_0x221fb4(0x3cd),'file':_0x221fb4(0x512),'path':'Animals/In'+_0x221fb4(0x848)+_0x221fb4(0x341)},{'id':_0x221fb4(0x7cb),'name':_0x221fb4(0x3a2),'file':_0x221fb4(0x268)+'vg','path':_0x221fb4(0x38c)+_0x221fb4(0x7d6)+_0x221fb4(0x794)},{'id':'beetle','name':_0x221fb4(0x278)+_0x221fb4(0x7a8),'file':_0x221fb4(0x4c8),'path':_0x221fb4(0x38c)+_0x221fb4(0x439)+_0x221fb4(0x80d)},{'id':_0x221fb4(0x184)+'e','name':'Jumping\x20Sp'+_0x221fb4(0x686),'file':_0x221fb4(0x59f),'path':'Animals/In'+_0x221fb4(0x177)+_0x221fb4(0x65c)},{'id':_0x221fb4(0x528),'name':'Dragonfly','file':_0x221fb4(0x217)+_0x221fb4(0x341),'path':_0x221fb4(0x38c)+_0x221fb4(0x7b7)+_0x221fb4(0x6e8)},{'id':_0x221fb4(0x2cd),'name':_0x221fb4(0x5de),'file':_0x221fb4(0x210)+'vg','path':_0x221fb4(0x38c)+'sects/june'+'_bug.svg'},{'id':_0x221fb4(0x6df)+_0x221fb4(0x189),'name':_0x221fb4(0x313)+'r','file':'grasshoppe'+_0x221fb4(0x8a4),'path':_0x221fb4(0x38c)+_0x221fb4(0x664)+_0x221fb4(0x84f)+'g'},{'id':_0x221fb4(0x521),'name':'Damselfly','file':_0x221fb4(0x386)+'svg','path':'Animals/In'+'sects/dams'+_0x221fb4(0x846)},{'id':'shield_bug','name':_0x221fb4(0x6d2),'file':_0x221fb4(0x5ed)+_0x221fb4(0x660),'path':'Animals/In'+_0x221fb4(0x437)+'ld_Bug.svg'},{'id':_0x221fb4(0x207),'name':_0x221fb4(0x2d7),'file':_0x221fb4(0x498)+'g','path':_0x221fb4(0x38c)+_0x221fb4(0x77a)+_0x221fb4(0x3be)},{'id':_0x221fb4(0x213)+'eetle','name':'Tortoise\x20B'+'eetle','file':_0x221fb4(0x213)+_0x221fb4(0x4af),'path':'Animals/In'+'sects/tort'+'oise_beetl'+_0x221fb4(0x400)},{'id':_0x221fb4(0x35b)+'t','name':_0x221fb4(0x506)+'t','file':'leaf_insec'+_0x221fb4(0x80e),'path':_0x221fb4(0x38c)+'sects/leaf'+'_insect.sv'+'g'},{'id':_0x221fb4(0x654)+_0x221fb4(0x722),'name':_0x221fb4(0x205)+_0x221fb4(0x722),'file':'Water_Stri'+_0x221fb4(0x79a),'path':'Animals/In'+'sects/Wate'+_0x221fb4(0x6e5)+_0x221fb4(0x341)},{'id':'cicada','name':_0x221fb4(0x6f6),'file':_0x221fb4(0x6ad),'path':_0x221fb4(0x38c)+_0x221fb4(0x7ca)+'da.svg'},{'id':_0x221fb4(0x837),'name':_0x221fb4(0x737),'file':_0x221fb4(0x458)+_0x221fb4(0x341),'path':_0x221fb4(0x38c)+_0x221fb4(0x39d)+_0x221fb4(0x865)},{'id':_0x221fb4(0x1a7)+_0x221fb4(0x632),'name':_0x221fb4(0x65f)+_0x221fb4(0x632),'file':'water_boat'+'man.svg','path':'Animals/In'+_0x221fb4(0x698)+_0x221fb4(0x478)+'svg'},{'id':_0x221fb4(0x636),'name':_0x221fb4(0x87c),'file':_0x221fb4(0x3c3)+'g','path':_0x221fb4(0x38c)+_0x221fb4(0x1e8)+_0x221fb4(0x191)},{'id':'woolly_bea'+'r','name':_0x221fb4(0x3fa)+'r','file':'woolly_bea'+_0x221fb4(0x8a4),'path':_0x221fb4(0x38c)+_0x221fb4(0x855)+'ly_bear.sv'+'g'},{'id':'acorn_weev'+'il','name':_0x221fb4(0x460)+'il','file':'acorn_weev'+_0x221fb4(0x877),'path':_0x221fb4(0x38c)+_0x221fb4(0x656)+_0x221fb4(0x447)+'vg'},{'id':'praying_ma'+_0x221fb4(0x88c),'name':_0x221fb4(0x1c2)+_0x221fb4(0x88c),'file':_0x221fb4(0x311)+_0x221fb4(0x251),'path':_0x221fb4(0x38c)+_0x221fb4(0x576)+_0x221fb4(0x604)+_0x221fb4(0x660)},{'id':_0x221fb4(0x561)+'o','name':_0x221fb4(0x49b)+'o','file':_0x221fb4(0x561)+'o.svg','path':'Animals/In'+_0x221fb4(0x6c4)+_0x221fb4(0x4e5)+'g'},{'id':_0x221fb4(0x265)+_0x221fb4(0x7b6),'name':_0x221fb4(0x402)+'\x20Beetle','file':'Rhinoceros'+'_Beetle.sv'+'g','path':_0x221fb4(0x38c)+_0x221fb4(0x2c4)+_0x221fb4(0x1aa)+_0x221fb4(0x2fe)},{'id':_0x221fb4(0x1d6),'name':_0x221fb4(0x79e)+_0x221fb4(0x40a),'file':_0x221fb4(0x209)+'svg','path':_0x221fb4(0x38c)+_0x221fb4(0x723)+_0x221fb4(0x20d)},{'id':_0x221fb4(0x266)+'e','name':_0x221fb4(0x6b4)+'e','file':_0x221fb4(0x16a)+'e.svg','path':_0x221fb4(0x38c)+'sects/Stag'+_0x221fb4(0x2e4)+'g'},{'id':'monarch_bu'+_0x221fb4(0x40a),'name':_0x221fb4(0x7d8)+_0x221fb4(0x40a),'file':_0x221fb4(0x2ee)+'tterfly.sv'+'g','path':_0x221fb4(0x38c)+'sects/Mona'+_0x221fb4(0x76c)+'fly.svg'},{'id':_0x221fb4(0x3d9)+_0x221fb4(0x71b),'name':_0x221fb4(0x7fd)+_0x221fb4(0x71b),'file':'Hercules_B'+_0x221fb4(0x4af),'path':_0x221fb4(0x38c)+'sects/Herc'+_0x221fb4(0x556)+'e.svg'},{'id':_0x221fb4(0x4c0)+_0x221fb4(0x864)+'y','name':_0x221fb4(0x29a)+'l','file':'swallowtai'+_0x221fb4(0x864)+_0x221fb4(0x7aa),'path':'Animals/In'+'sects/swal'+'lowtail_bu'+_0x221fb4(0x6bf)+'g'},{'id':_0x221fb4(0x783)+'le','name':_0x221fb4(0x4a0)+'le','file':'Jewel_Beet'+'le.svg','path':_0x221fb4(0x38c)+'sects/Jewe'+_0x221fb4(0x2fc)+'vg'},{'id':_0x221fb4(0x2c5)+_0x221fb4(0x40a),'name':_0x221fb4(0x301)+'tterfly','file':'peacock_bu'+_0x221fb4(0x6bf)+'g','path':_0x221fb4(0x38c)+_0x221fb4(0x170)+'ock_butter'+_0x221fb4(0x5e9)},{'id':_0x221fb4(0x232)+'01','name':'Little\x20Mil'+_0x221fb4(0x618),'file':_0x221fb4(0x17f)+_0x221fb4(0x7e9),'path':_0x221fb4(0x38c)+_0x221fb4(0x390)+_0x221fb4(0x752)+'vg'},{'id':_0x221fb4(0x777),'name':_0x221fb4(0x2ae),'file':_0x221fb4(0x1b6)+_0x221fb4(0x341),'path':_0x221fb4(0x38c)+_0x221fb4(0x758)+_0x221fb4(0x4fd)},{'id':'walking_st'+'ick','name':'Walking\x20St'+_0x221fb4(0x640),'file':_0x221fb4(0x38b)+_0x221fb4(0x61e),'path':_0x221fb4(0x38c)+_0x221fb4(0x5aa)+_0x221fb4(0x8a5)+_0x221fb4(0x341)},{'id':_0x221fb4(0x82f),'name':_0x221fb4(0x539),'file':_0x221fb4(0x82f)+'.svg','path':'Animals/In'+_0x221fb4(0x6a3)+_0x221fb4(0x796)}]}];function sanitizePrimaryPalette(_0x55373a){const _0xc479ec=_0x221fb4,_0xd8c934={'aEhck':_0xc479ec(0x894),'trYuJ':function(_0x16694f,_0x19c8c4){return _0x16694f%_0x19c8c4;},'mwPTM':_0xc479ec(0x6ef),'bQmkJ':'#1e293b','oqzCF':_0xc479ec(0x5b2),'oPWQJ':_0xc479ec(0x242),'yYIIa':_0xc479ec(0x293),'FTDZT':_0xc479ec(0x3fd),'QzxTw':_0xc479ec(0x7c6),'iuEEZ':_0xc479ec(0x60e),'SNplj':'#faf8f5','yrJSR':_0xc479ec(0x259),'bgxsp':_0xc479ec(0x563)+'e','DWurT':_0xc479ec(0x18b),'eIJZq':_0xc479ec(0x884)+'ow','fPvDI':_0xc479ec(0x525),'iqcie':_0xc479ec(0x45f),'IDNjN':_0xc479ec(0x82a)+_0xc479ec(0x367),'cLomk':_0xc479ec(0x4b2)},_0x211c34=[_0xd8c934['mwPTM'],_0xd8c934[_0xc479ec(0x29b)],_0xc479ec(0x893),_0xd8c934['oqzCF'],_0xc479ec(0x839),_0xd8c934[_0xc479ec(0x1c4)]],_0x9d678a=[_0xd8c934[_0xc479ec(0x1b0)],_0xd8c934[_0xc479ec(0x476)],_0xc479ec(0x40f),_0xd8c934['QzxTw'],_0xd8c934[_0xc479ec(0x55c)],_0xd8c934['SNplj']],_0x30232f=[{'hex':_0xd8c934[_0xc479ec(0x779)],'name':_0xd8c934[_0xc479ec(0x4fb)]},{'hex':_0xd8c934[_0xc479ec(0x452)],'name':_0xd8c934[_0xc479ec(0x38d)]},{'hex':_0xc479ec(0x320),'name':_0xc479ec(0x5bb)+'en'},{'hex':_0xc479ec(0x274),'name':'Sky\x20Blue'},{'hex':_0xc479ec(0x7d3),'name':_0xd8c934['fPvDI']},{'hex':_0xd8c934[_0xc479ec(0x2de)],'name':_0xd8c934['IDNjN']},{'hex':_0xd8c934[_0xc479ec(0x5d3)],'name':'Ocean\x20Teal'}];let _0x31f725=-0x1426+0x1413+0x13;return _0x55373a[_0xc479ec(0x554)](_0x18b7cc=>{const _0x3764c5=_0xc479ec,_0x40f737=(_0x18b7cc[_0x3764c5(0x288)]||'')['toLowerCas'+'e'](),_0x3d963c=_0x211c34[_0x3764c5(0x3a0)](_0x40f737)||_0x40f737['startsWith'](_0xd8c934[_0x3764c5(0x4e7)]),_0x299b28=_0x18b7cc[_0x3764c5(0x436)]||_0x9d678a[_0x3764c5(0x3a0)](_0x40f737);if(_0x3d963c||_0x299b28){const _0x14c850=_0x30232f[_0xd8c934[_0x3764c5(0x578)](_0x31f725++,_0x30232f[_0x3764c5(0x4d2)])];return{'hex':_0x14c850[_0x3764c5(0x288)],'name':_0x14c850[_0x3764c5(0x399)]};}return _0x18b7cc;});}export function getAnimalColors(_0x18dd6a,_0x9bc759){const _0x219e6a=_0x221fb4,_0x51c4dc={'zhupr':_0x219e6a(0x6dc),'eDgMg':_0x219e6a(0x7c8)+'e','nYpFj':_0x219e6a(0x259),'aNZcp':_0x219e6a(0x563)+'e','RdAYf':'#d97706','yAHTJ':'elephant','VNzju':_0x219e6a(0x49f),'dPpBp':_0x219e6a(0x4f4),'mhwMd':_0x219e6a(0x22f)+'d','MuaCK':'cheetah','yCMOZ':_0x219e6a(0x243)+'ld','EBbdq':function(_0x48131a,_0x5c01c2){return _0x48131a(_0x5c01c2);},'aAKfd':_0x219e6a(0x320),'unUZK':_0x219e6a(0x1ae)+'en','QPmyi':_0x219e6a(0x32b)+_0x219e6a(0x358),'HFJeE':_0x219e6a(0x276),'Fxcls':_0x219e6a(0x6be),'WOEKl':function(_0x558814,_0x3b81cb){return _0x558814(_0x3b81cb);},'TUFRq':_0x219e6a(0x18b),'QLIrM':_0x219e6a(0x511),'ybptI':_0x219e6a(0x167),'QSZKG':_0x219e6a(0x197)+'r','MdGAK':_0x219e6a(0x701),'SHhzE':_0x219e6a(0x674)+'en','adbwH':_0x219e6a(0x303)+'ow','NorOo':'#f472b6','KKrwA':_0x219e6a(0x5a2)+'nk','KPGja':_0x219e6a(0x27e),'yaeRB':_0x219e6a(0x14f)+_0x219e6a(0x358),'IRznO':_0x219e6a(0x1cc),'eKMoC':_0x219e6a(0x7c5)+_0x219e6a(0x6d7),'nVDak':_0x219e6a(0x3ed),'zcDjn':function(_0x24555a,_0x52c5df){return _0x24555a(_0x52c5df);},'dCiMn':'Safari\x20Pur'+_0x219e6a(0x367),'pafRE':_0x219e6a(0x5b0),'oKAva':_0x219e6a(0x7c2),'xkyxS':_0x219e6a(0x370),'fSkvB':_0x219e6a(0x637)+_0x219e6a(0x159),'wSHoz':_0x219e6a(0x344),'UOVvB':_0x219e6a(0x226),'jxfXt':_0x219e6a(0x1d0),'mHAnG':'kangaroo','nzKFA':_0x219e6a(0x488),'XOMfh':'Outback\x20Go'+'ld','JDMCE':function(_0x40450b,_0xb704a2){return _0x40450b(_0xb704a2);},'lKAvP':'Eucalyptus'+'\x20Green','itNKx':_0x219e6a(0x45f),'naWmg':function(_0x469bc0,_0x2dd9a7){return _0x469bc0(_0x2dd9a7);},'fouTM':_0x219e6a(0x5f5),'dKiNK':'Forest\x20Tan','hGRwZ':_0x219e6a(0x3a6),'JuJMr':_0x219e6a(0x432)+'wn','PHafl':_0x219e6a(0x5d9),'FbUwl':_0x219e6a(0x517),'SkkxL':_0x219e6a(0x856),'uGzxj':_0x219e6a(0x680),'zieBy':_0x219e6a(0x53a)+'n','hVvLu':_0x219e6a(0x880),'geJjK':_0x219e6a(0x5bb)+'en','OmcDH':_0x219e6a(0x7ee)+_0x219e6a(0x27b),'KdsYY':_0x219e6a(0x302),'yjaQm':'Warm\x20Amber','DkYEs':_0x219e6a(0x1f6),'NUpFP':_0x219e6a(0x58e),'VYDCz':_0x219e6a(0x6b6),'MdteA':_0x219e6a(0x424),'HRvaQ':_0x219e6a(0x69e)+'mb','pdGZG':'ferret','vkfiD':_0x219e6a(0x2d9),'ctjxf':function(_0x2d89f0,_0xf51fd5){return _0x2d89f0(_0xf51fd5);},'HMGhu':_0x219e6a(0x515),'BGWZO':_0x219e6a(0x3f7),'NynXi':_0x219e6a(0x75c),'oUnyk':_0x219e6a(0x41f),'pIYju':'#38bdf8','cTNVi':_0x219e6a(0x1d1),'dhQnm':'Carrot\x20Gol'+'d','HkKtx':_0x219e6a(0x546)+'k','CVARi':_0x219e6a(0x7b0),'Nwsms':_0x219e6a(0x1f4),'KjIEX':_0x219e6a(0x1c8),'xNmFI':_0x219e6a(0x2ca),'jRcxd':_0x219e6a(0x7ee)+_0x219e6a(0x5fe),'MHvwH':_0x219e6a(0x1b9)+'een','Gdhsb':_0x219e6a(0x891),'GWfCf':_0x219e6a(0x549),'TwqZP':'Field\x20Gree'+'n','LENMJ':'dog','izPkS':_0x219e6a(0x70e),'kIdda':_0x219e6a(0x5a6),'eQpmT':_0x219e6a(0x5d5),'GVvPJ':_0x219e6a(0x592),'YZfkT':'Bill\x20Yello'+'w','DsWeC':_0x219e6a(0x418),'OGgjD':'Dolphin\x20Bl'+'ue','KmCsi':_0x219e6a(0x4a6),'NfdEv':_0x219e6a(0x80c)+'l','zAXIB':function(_0x3486fc,_0x158634){return _0x3486fc(_0x158634);},'qdJeM':_0x219e6a(0x874),'taKdR':_0x219e6a(0x24d),'IXrIn':_0x219e6a(0x3cf),'xeeOF':_0x219e6a(0x817),'sLEwe':'Coral\x20Oran'+'ge','CZMEs':_0x219e6a(0x206),'luSju':_0x219e6a(0x577)+'n','RBCPk':'Sun\x20Yellow','WAYMD':_0x219e6a(0x50a),'VwujM':function(_0x18b1ef,_0xda4311){return _0x18b1ef(_0xda4311);},'RsIsL':_0x219e6a(0x61b),'hlLII':_0x219e6a(0x799),'vHjhd':_0x219e6a(0x235),'hCIrS':_0x219e6a(0x7d3),'xJQTd':_0x219e6a(0x602),'aQMuW':_0x219e6a(0x86d)+'le','FSftQ':'Reef\x20Cyan','CcuHt':_0x219e6a(0x49e),'rYuHR':'Coral\x20Pink','DjbPl':_0x219e6a(0x42a)+'l','GJAVp':_0x219e6a(0x5ab),'TFPQS':_0x219e6a(0x2cb)+'e','xPfpq':_0x219e6a(0x6cb)+'d','TVFHw':_0x219e6a(0x23c)+'sh','EyoVl':_0x219e6a(0x3d5),'LIPQl':_0x219e6a(0x7f5)+'e','hBVYM':function(_0x2e8270,_0x162a14){return _0x2e8270(_0x162a14);},'gZPmR':'Sunny\x20Beac'+'h','quxad':function(_0x19af77,_0x4280ed){return _0x19af77(_0x4280ed);},'HNPxQ':_0x219e6a(0x6c7)+'n','xKxyB':_0x219e6a(0x47f),'psoPF':_0x219e6a(0x285),'Ydmag':'Jewel\x20Teal','tjysd':_0x219e6a(0x728),'igYcC':_0x219e6a(0x171),'IPrLo':'Golden\x20Sun','icJPJ':_0x219e6a(0x42f),'aaVdz':_0x219e6a(0x4cd),'nDJGN':function(_0x553956,_0x495b4a){return _0x553956(_0x495b4a);},'WJMwA':_0x219e6a(0x45c),'pxzRb':'Feather\x20Ey'+'e','BzsWg':_0x219e6a(0x6f4),'fpcbp':function(_0x1c44fb,_0x5c0c9c){return _0x1c44fb(_0x5c0c9c);},'XwDPX':_0x219e6a(0x44b)+'ink','RhbuT':'Coral\x20Rose','ibdyO':_0x219e6a(0x600)+_0x219e6a(0x571),'GbfnR':_0x219e6a(0x272),'MpDut':function(_0x436d33,_0x43e020){return _0x436d33(_0x43e020);},'bcgKS':_0x219e6a(0x18e),'jtFkV':_0x219e6a(0x4df)+'et','IjIKN':_0x219e6a(0x621),'VkVZM':_0x219e6a(0x5f6),'Kphxg':_0x219e6a(0x815),'vCdKi':_0x219e6a(0x1fb)+_0x219e6a(0x4d5),'OZhZq':_0x219e6a(0x35f),'jSAXx':'T-Rex\x20Gree'+'n','aabfL':'#ea580c','lzCMc':_0x219e6a(0x252)+'e','YBPVE':_0x219e6a(0x1fc),'HWAkA':'triceratop'+'s','wnCIo':'Shield\x20Amb'+'er','NCmQj':_0x219e6a(0x4da),'daAMV':_0x219e6a(0x569)+_0x219e6a(0x4d5),'BatlK':function(_0x4c7d6a,_0x2e7f35){return _0x4c7d6a(_0x2e7f35);},'vRNUv':_0x219e6a(0x48e)+'ue','kGgui':_0x219e6a(0x28c),'bOQaS':_0x219e6a(0x4de)+'s','AOjHt':_0x219e6a(0x3ef)+'ge','WLWYF':_0x219e6a(0x211)+'ow','aSDfp':'spinosauru'+'s','KUDoI':_0x219e6a(0x229),'JGTOi':_0x219e6a(0x2d0),'OlFei':_0x219e6a(0x408),'dhUEY':_0x219e6a(0x451),'UbKBY':'Crest\x20Oran'+'ge','OtWsT':'velocirapt'+'or','LXtWl':'Raptor\x20Ora'+'nge','wDAQZ':_0x219e6a(0x58b)+'e','WMyjX':_0x219e6a(0x2a4),'CnOgH':'Sunburst\x20G'+'old','rRnKj':_0x219e6a(0x1da)+_0x219e6a(0x405),'deVmH':_0x219e6a(0x85e),'kxbpJ':'ladybug','QpMpZ':'Caterpilla'+_0x219e6a(0x17b),'mGyEm':_0x219e6a(0x528),'mIFIN':function(_0x31b4d8,_0x9f9562){return _0x31b4d8(_0x9f9562);},'zyAUp':'Jewel\x20Cyan','KlQkQ':_0x219e6a(0x48a)+'et','HMucX':_0x219e6a(0x6c2),'ifGaV':'farm','SydsS':function(_0x3da2c7,_0x37a6cb){return _0x3da2c7(_0x37a6cb);},'oRJmU':'Snout\x20Pink','RstbZ':function(_0x485875,_0x46011b){return _0x485875(_0x46011b);},'QORXK':'Lush\x20Green','BmUVK':_0x219e6a(0x82d),'ZNCiB':_0x219e6a(0x30b),'auaVI':function(_0x4b9417,_0x5ca5e2){return _0x4b9417(_0x5ca5e2);},'ZNbbK':_0x219e6a(0x2e1)+'w','rrQya':_0x219e6a(0x333)+'a','RnEEh':'Bug\x20Purple','DxojP':'Glow\x20Yello'+'w','TZlsn':_0x219e6a(0x803)+'en','eASML':'Vibrant\x20Re'+'d','DViaM':_0x219e6a(0x274)},_0x110678=(_0x18dd6a?_0x18dd6a['id']||_0x18dd6a['name']||'':'')[_0x219e6a(0x239)+'e']();if(_0x110678[_0x219e6a(0x3a0)](_0x51c4dc[_0x219e6a(0x746)]))return sanitizePrimaryPalette([{'hex':_0x219e6a(0x18b),'name':_0x51c4dc[_0x219e6a(0x52e)]},{'hex':_0x51c4dc[_0x219e6a(0x648)],'name':_0x51c4dc[_0x219e6a(0x625)]},{'hex':_0x51c4dc[_0x219e6a(0x885)],'name':_0x219e6a(0x678)}]);if(_0x110678[_0x219e6a(0x3a0)](_0x51c4dc['yAHTJ']))return sanitizePrimaryPalette([{'hex':_0x219e6a(0x1d3),'name':_0x51c4dc[_0x219e6a(0x32c)]},{'hex':'#f472b6','name':_0x219e6a(0x616)},{'hex':_0x51c4dc[_0x219e6a(0x373)],'name':_0x51c4dc[_0x219e6a(0x681)]}]);if(_0x110678[_0x219e6a(0x3a0)](_0x51c4dc['MuaCK']))return sanitizePrimaryPalette([{'hex':_0x51c4dc['dPpBp'],'name':_0x51c4dc[_0x219e6a(0x7ce)]},{'hex':_0x51c4dc['nYpFj'],'name':_0x219e6a(0x69c)},{'hex':_0x219e6a(0x872),'name':_0x219e6a(0x641)}]);if(_0x110678['includes'](_0x219e6a(0x5a1)))return _0x51c4dc[_0x219e6a(0x2a3)](sanitizePrimaryPalette,[{'hex':_0x51c4dc['aAKfd'],'name':_0x51c4dc['unUZK']},{'hex':_0x219e6a(0x18b),'name':_0x51c4dc[_0x219e6a(0x81b)]},{'hex':_0x51c4dc[_0x219e6a(0x519)],'name':_0x219e6a(0x24f)}]);if(_0x110678[_0x219e6a(0x3a0)](_0x51c4dc[_0x219e6a(0x7c0)]))return _0x51c4dc['WOEKl'](sanitizePrimaryPalette,[{'hex':_0x219e6a(0x259),'name':'Tiger\x20Oran'+'ge'},{'hex':_0x51c4dc[_0x219e6a(0x2ed)],'name':_0x219e6a(0x387)},{'hex':_0x219e6a(0x872),'name':_0x219e6a(0x641)}]);if(_0x110678[_0x219e6a(0x3a0)](_0x219e6a(0x62a)))return sanitizePrimaryPalette([{'hex':_0x51c4dc['QLIrM'],'name':_0x219e6a(0x514)},{'hex':'#d97706','name':_0x51c4dc[_0x219e6a(0x792)]},{'hex':_0x219e6a(0x344),'name':_0x51c4dc[_0x219e6a(0x5a3)]}]);if(_0x110678[_0x219e6a(0x3a0)](_0x51c4dc['MdGAK']))return sanitizePrimaryPalette([{'hex':_0x51c4dc['aAKfd'],'name':_0x51c4dc['SHhzE']},{'hex':_0x51c4dc['dPpBp'],'name':_0x51c4dc[_0x219e6a(0x811)]},{'hex':_0x51c4dc[_0x219e6a(0x4ad)],'name':_0x51c4dc[_0x219e6a(0x62d)]}]);if(_0x110678[_0x219e6a(0x3a0)](_0x51c4dc[_0x219e6a(0x882)]))return _0x51c4dc['EBbdq'](sanitizePrimaryPalette,[{'hex':_0x51c4dc['QLIrM'],'name':_0x219e6a(0x173)+'wn'},{'hex':_0x51c4dc[_0x219e6a(0x373)],'name':_0x51c4dc[_0x219e6a(0x6f5)]},{'hex':'#f472b6','name':_0x219e6a(0x50f)}]);if(_0x110678['includes'](_0x51c4dc[_0x219e6a(0x3a4)]))return _0x51c4dc[_0x219e6a(0x2a3)](sanitizePrimaryPalette,[{'hex':_0x51c4dc['TUFRq'],'name':_0x51c4dc[_0x219e6a(0x1f0)]},{'hex':_0x51c4dc['QLIrM'],'name':_0x219e6a(0x5d7)},{'hex':_0x51c4dc[_0x219e6a(0x885)],'name':_0x219e6a(0x515)}]);if(_0x110678['includes'](_0x51c4dc[_0x219e6a(0x298)]))return _0x51c4dc['zcDjn'](sanitizePrimaryPalette,[{'hex':'#a855f7','name':_0x51c4dc['dCiMn']},{'hex':'#3b82f6','name':_0x51c4dc[_0x219e6a(0x7cf)]},{'hex':'#f97316','name':_0x51c4dc[_0x219e6a(0x625)]}]);if(_0x110678[_0x219e6a(0x3a0)](_0x51c4dc['oKAva']))return sanitizePrimaryPalette([{'hex':_0x51c4dc[_0x219e6a(0x49c)],'name':_0x219e6a(0x1fe)},{'hex':'#f472b6','name':_0x51c4dc[_0x219e6a(0x62d)]},{'hex':_0x51c4dc[_0x219e6a(0x307)],'name':'Grass\x20Gree'+'n'}]);if(_0x110678[_0x219e6a(0x3a0)](_0x219e6a(0x5bc)))return sanitizePrimaryPalette([{'hex':_0x51c4dc[_0x219e6a(0x49c)],'name':_0x51c4dc[_0x219e6a(0x42d)]},{'hex':_0x51c4dc[_0x219e6a(0x5da)],'name':_0x51c4dc[_0x219e6a(0x65a)]},{'hex':'#f472b6','name':_0x51c4dc[_0x219e6a(0x3d0)]}]);if(_0x110678['includes'](_0x51c4dc[_0x219e6a(0x2d2)]))return _0x51c4dc['WOEKl'](sanitizePrimaryPalette,[{'hex':_0x51c4dc[_0x219e6a(0x885)],'name':_0x51c4dc[_0x219e6a(0x849)]},{'hex':_0x51c4dc['QLIrM'],'name':_0x219e6a(0x2bb)},{'hex':_0x51c4dc[_0x219e6a(0x5da)],'name':_0x51c4dc['XOMfh']}]);if(_0x110678[_0x219e6a(0x3a0)](_0x219e6a(0x887)))return _0x51c4dc[_0x219e6a(0x75e)](sanitizePrimaryPalette,[{'hex':'#22c55e','name':_0x51c4dc[_0x219e6a(0x283)]},{'hex':_0x51c4dc[_0x219e6a(0x1df)],'name':_0x219e6a(0x5a5)},{'hex':_0x219e6a(0x3ff),'name':_0x51c4dc[_0x219e6a(0x62d)]}]);if(_0x110678['includes'](_0x219e6a(0x867)))return _0x51c4dc[_0x219e6a(0x7cd)](sanitizePrimaryPalette,[{'hex':_0x51c4dc[_0x219e6a(0x5b8)],'name':'Cozy\x20Brown'},{'hex':_0x219e6a(0x320),'name':_0x219e6a(0x714)},{'hex':_0x219e6a(0x85d),'name':'Warm\x20Tan'}]);if(_0x110678['includes'](_0x51c4dc[_0x219e6a(0x3fb)]))return sanitizePrimaryPalette([{'hex':_0x51c4dc[_0x219e6a(0x49c)],'name':_0x51c4dc[_0x219e6a(0x7cf)]},{'hex':_0x51c4dc[_0x219e6a(0x5da)],'name':'Amber\x20Gold'},{'hex':_0x51c4dc[_0x219e6a(0x885)],'name':_0x51c4dc[_0x219e6a(0x468)]}]);if(_0x110678[_0x219e6a(0x3a0)](_0x51c4dc[_0x219e6a(0x547)]))return sanitizePrimaryPalette([{'hex':_0x51c4dc['QLIrM'],'name':_0x51c4dc[_0x219e6a(0x53c)]},{'hex':_0x51c4dc['dPpBp'],'name':'Fawn\x20Gold'},{'hex':_0x51c4dc['PHafl'],'name':_0x51c4dc[_0x219e6a(0x481)]}]);if(_0x110678[_0x219e6a(0x3a0)](_0x51c4dc['SkkxL']))return _0x51c4dc[_0x219e6a(0x2a3)](sanitizePrimaryPalette,[{'hex':_0x219e6a(0x206),'name':_0x51c4dc[_0x219e6a(0x3c1)]},{'hex':_0x219e6a(0x1fc),'name':_0x51c4dc[_0x219e6a(0x15d)]},{'hex':_0x51c4dc['TUFRq'],'name':_0x51c4dc[_0x219e6a(0x5ef)]}]);if(_0x110678['includes'](_0x219e6a(0x3b2)))return sanitizePrimaryPalette([{'hex':_0x219e6a(0x320),'name':_0x51c4dc[_0x219e6a(0x2a9)]},{'hex':'#f472b6','name':'Snout\x20Pink'},{'hex':_0x51c4dc['dPpBp'],'name':_0x51c4dc[_0x219e6a(0x25f)]}]);if(_0x110678[_0x219e6a(0x3a0)](_0x51c4dc['KdsYY']))return sanitizePrimaryPalette([{'hex':_0x51c4dc[_0x219e6a(0x2ed)],'name':_0x219e6a(0x456)+'d'},{'hex':_0x219e6a(0x259),'name':_0x51c4dc['yjaQm']},{'hex':_0x219e6a(0x4b2),'name':_0x51c4dc[_0x219e6a(0x58a)]}]);if(_0x110678[_0x219e6a(0x3a0)](_0x219e6a(0x6f2)))return sanitizePrimaryPalette([{'hex':_0x51c4dc[_0x219e6a(0x890)],'name':_0x51c4dc[_0x219e6a(0x450)]},{'hex':_0x219e6a(0x259),'name':_0x51c4dc['aNZcp']},{'hex':_0x51c4dc[_0x219e6a(0x373)],'name':_0x219e6a(0x75f)}]);if(_0x110678[_0x219e6a(0x3a0)](_0x51c4dc[_0x219e6a(0x8a0)]))return _0x51c4dc['zcDjn'](sanitizePrimaryPalette,[{'hex':_0x51c4dc[_0x219e6a(0x890)],'name':_0x51c4dc['HRvaQ']},{'hex':_0x219e6a(0x4f4),'name':_0x219e6a(0x623)+_0x219e6a(0x548)},{'hex':_0x51c4dc[_0x219e6a(0x307)],'name':_0x219e6a(0x2a1)+_0x219e6a(0x4c6)}]);if(_0x110678['includes'](_0x51c4dc[_0x219e6a(0x4c9)]))return sanitizePrimaryPalette([{'hex':_0x51c4dc[_0x219e6a(0x885)],'name':'Warm\x20Tan'},{'hex':_0x51c4dc[_0x219e6a(0x4ad)],'name':_0x219e6a(0x76b)},{'hex':_0x51c4dc['aAKfd'],'name':'Meadow\x20Gre'+'en'}]);if(_0x110678[_0x219e6a(0x3a0)](_0x51c4dc[_0x219e6a(0x277)])||_0x110678[_0x219e6a(0x3a0)](_0x219e6a(0x410)))return _0x51c4dc[_0x219e6a(0x393)](sanitizePrimaryPalette,[{'hex':_0x51c4dc[_0x219e6a(0x373)],'name':_0x219e6a(0x483)+'d'},{'hex':_0x51c4dc['RdAYf'],'name':_0x51c4dc[_0x219e6a(0x19c)]},{'hex':_0x219e6a(0x3ff),'name':_0x219e6a(0x616)}]);if(_0x110678[_0x219e6a(0x3a0)](_0x51c4dc[_0x219e6a(0x669)])||_0x110678[_0x219e6a(0x3a0)](_0x51c4dc['NynXi']))return sanitizePrimaryPalette([{'hex':_0x51c4dc[_0x219e6a(0x4ad)],'name':_0x51c4dc[_0x219e6a(0x3e7)]},{'hex':_0x51c4dc[_0x219e6a(0x1b1)],'name':_0x51c4dc[_0x219e6a(0x375)]},{'hex':_0x51c4dc[_0x219e6a(0x373)],'name':_0x51c4dc[_0x219e6a(0x4c5)]}]);if(_0x110678['includes'](_0x219e6a(0x429)))return sanitizePrimaryPalette([{'hex':'#ec4899','name':_0x51c4dc[_0x219e6a(0x196)]},{'hex':_0x51c4dc['PHafl'],'name':_0x219e6a(0x1d0)},{'hex':'#facc15','name':_0x51c4dc['CVARi']}]);if(_0x110678['includes'](_0x51c4dc[_0x219e6a(0x689)]))return _0x51c4dc[_0x219e6a(0x75e)](sanitizePrimaryPalette,[{'hex':_0x51c4dc[_0x219e6a(0x4ad)],'name':_0x51c4dc[_0x219e6a(0x4c4)]},{'hex':_0x219e6a(0x320),'name':_0x51c4dc[_0x219e6a(0x2a9)]},{'hex':_0x51c4dc[_0x219e6a(0x1b1)],'name':_0x51c4dc[_0x219e6a(0x7cf)]}]);if(_0x110678[_0x219e6a(0x3a0)](_0x51c4dc[_0x219e6a(0x363)]))return sanitizePrimaryPalette([{'hex':_0x51c4dc[_0x219e6a(0x373)],'name':_0x51c4dc[_0x219e6a(0x2d3)]},{'hex':_0x51c4dc['aAKfd'],'name':_0x51c4dc[_0x219e6a(0x4d0)]},{'hex':_0x51c4dc['NorOo'],'name':_0x51c4dc[_0x219e6a(0x356)]}]);if(_0x110678[_0x219e6a(0x3a0)](_0x219e6a(0x3dc))||_0x110678[_0x219e6a(0x3a0)](_0x51c4dc[_0x219e6a(0x793)]))return sanitizePrimaryPalette([{'hex':_0x219e6a(0x511),'name':_0x219e6a(0x564)},{'hex':_0x51c4dc[_0x219e6a(0x885)],'name':_0x219e6a(0x4ab)},{'hex':_0x51c4dc[_0x219e6a(0x307)],'name':_0x51c4dc[_0x219e6a(0x32f)]}]);if(_0x110678['includes'](_0x51c4dc[_0x219e6a(0x26a)]))return sanitizePrimaryPalette([{'hex':'#eab308','name':'Golden\x20Fur'},{'hex':_0x51c4dc['RdAYf'],'name':_0x51c4dc[_0x219e6a(0x334)]},{'hex':_0x219e6a(0x58e),'name':_0x219e6a(0x435)}]);if(_0x110678[_0x219e6a(0x3a0)](_0x51c4dc[_0x219e6a(0x72f)]))return _0x51c4dc['zcDjn'](sanitizePrimaryPalette,[{'hex':_0x51c4dc[_0x219e6a(0x648)],'name':_0x51c4dc[_0x219e6a(0x4cf)]},{'hex':_0x219e6a(0x4f4),'name':_0x219e6a(0x78a)},{'hex':_0x51c4dc[_0x219e6a(0x4ad)],'name':'Rosy\x20Pink'}]);if(_0x110678[_0x219e6a(0x3a0)](_0x51c4dc[_0x219e6a(0x754)]))return _0x51c4dc['ctjxf'](sanitizePrimaryPalette,[{'hex':_0x219e6a(0x320),'name':_0x219e6a(0x321)+'een'},{'hex':'#facc15','name':_0x51c4dc['YZfkT']},{'hex':_0x51c4dc[_0x219e6a(0x1b1)],'name':'Lake\x20Aqua'}]);if(_0x110678[_0x219e6a(0x3a0)](_0x51c4dc['DsWeC']))return sanitizePrimaryPalette([{'hex':_0x219e6a(0x1d3),'name':_0x51c4dc[_0x219e6a(0x1ac)]},{'hex':_0x219e6a(0x61b),'name':_0x51c4dc[_0x219e6a(0x748)]},{'hex':_0x51c4dc[_0x219e6a(0x648)],'name':_0x51c4dc[_0x219e6a(0x34c)]}]);if(_0x110678[_0x219e6a(0x3a0)]('clownfish'))return _0x51c4dc[_0x219e6a(0x37f)](sanitizePrimaryPalette,[{'hex':_0x219e6a(0x259),'name':'Clown\x20Oran'+'ge'},{'hex':_0x51c4dc['dPpBp'],'name':_0x51c4dc[_0x219e6a(0x296)]},{'hex':_0x219e6a(0x276),'name':_0x219e6a(0x24f)}]);if(_0x110678[_0x219e6a(0x3a0)](_0x51c4dc['taKdR'])||_0x110678[_0x219e6a(0x3a0)](_0x51c4dc[_0x219e6a(0x6e7)]))return _0x51c4dc[_0x219e6a(0x566)](sanitizePrimaryPalette,[{'hex':_0x51c4dc[_0x219e6a(0x890)],'name':_0x51c4dc['xeeOF']},{'hex':_0x51c4dc['nYpFj'],'name':_0x51c4dc[_0x219e6a(0x766)]},{'hex':_0x51c4dc[_0x219e6a(0x373)],'name':_0x219e6a(0x524)}]);if(_0x110678['includes']('turtle'))return sanitizePrimaryPalette([{'hex':_0x51c4dc[_0x219e6a(0x665)],'name':_0x51c4dc[_0x219e6a(0x6a4)]},{'hex':_0x219e6a(0x85d),'name':'Warm\x20Amber'},{'hex':'#facc15','name':_0x51c4dc[_0x219e6a(0x36d)]}]);if(_0x110678[_0x219e6a(0x3a0)](_0x51c4dc[_0x219e6a(0x6a5)]))return _0x51c4dc[_0x219e6a(0x7fc)](sanitizePrimaryPalette,[{'hex':_0x51c4dc[_0x219e6a(0x88f)],'name':_0x51c4dc['hlLII']},{'hex':'#38bdf8','name':_0x51c4dc[_0x219e6a(0x6ec)]},{'hex':_0x51c4dc['PHafl'],'name':_0x219e6a(0x37a)}]);if(_0x110678[_0x219e6a(0x3a0)](_0x219e6a(0x7d7)))return sanitizePrimaryPalette([{'hex':_0x51c4dc[_0x219e6a(0x3f3)],'name':_0x51c4dc['xJQTd']},{'hex':_0x51c4dc[_0x219e6a(0x1df)],'name':_0x51c4dc[_0x219e6a(0x532)]},{'hex':_0x51c4dc[_0x219e6a(0x519)],'name':_0x51c4dc['FSftQ']}]);if(_0x110678[_0x219e6a(0x3a0)](_0x51c4dc['CcuHt']))return sanitizePrimaryPalette([{'hex':_0x219e6a(0x4f4),'name':_0x219e6a(0x6a2)+_0x219e6a(0x3dc)},{'hex':_0x51c4dc[_0x219e6a(0x4ad)],'name':_0x51c4dc[_0x219e6a(0x164)]},{'hex':_0x219e6a(0x4b2),'name':_0x51c4dc['DjbPl']}]);if(_0x110678[_0x219e6a(0x3a0)](_0x51c4dc[_0x219e6a(0x234)]))return _0x51c4dc[_0x219e6a(0x566)](sanitizePrimaryPalette,[{'hex':_0x51c4dc[_0x219e6a(0x648)],'name':_0x51c4dc[_0x219e6a(0x2aa)]},{'hex':_0x219e6a(0x4f4),'name':_0x51c4dc['xPfpq']},{'hex':_0x51c4dc[_0x219e6a(0x1b1)],'name':_0x51c4dc[_0x219e6a(0x32d)]}]);if(_0x110678[_0x219e6a(0x3a0)](_0x51c4dc['EyoVl']))return sanitizePrimaryPalette([{'hex':'#0284c7','name':_0x219e6a(0x635)+'ue'},{'hex':_0x219e6a(0x259),'name':_0x51c4dc['LIPQl']},{'hex':_0x219e6a(0x4f4),'name':_0x219e6a(0x387)}]);if(_0x110678[_0x219e6a(0x3a0)](_0x219e6a(0x499)))return _0x51c4dc[_0x219e6a(0x3c9)](sanitizePrimaryPalette,[{'hex':_0x51c4dc['pIYju'],'name':'Frost\x20Blue'},{'hex':_0x51c4dc[_0x219e6a(0x4ad)],'name':_0x51c4dc[_0x219e6a(0x4c4)]},{'hex':'#eab308','name':_0x51c4dc[_0x219e6a(0x661)]}]);if(_0x110678['includes'](_0x219e6a(0x357)))return _0x51c4dc[_0x219e6a(0x5dc)](sanitizePrimaryPalette,[{'hex':_0x51c4dc['QLIrM'],'name':_0x51c4dc['HNPxQ']},{'hex':_0x51c4dc['wSHoz'],'name':_0x51c4dc[_0x219e6a(0x624)]},{'hex':_0x219e6a(0x1d3),'name':_0x219e6a(0x513)+'a'}]);if(_0x110678['includes'](_0x51c4dc[_0x219e6a(0x3c8)]))return sanitizePrimaryPalette([{'hex':_0x219e6a(0x58e),'name':_0x51c4dc[_0x219e6a(0x262)]},{'hex':_0x219e6a(0x320),'name':_0x219e6a(0x847)+'en'},{'hex':_0x51c4dc['dPpBp'],'name':_0x51c4dc[_0x219e6a(0x296)]}]);if(_0x110678[_0x219e6a(0x3a0)](_0x219e6a(0x256)+'d'))return sanitizePrimaryPalette([{'hex':_0x219e6a(0x4b2),'name':_0x51c4dc[_0x219e6a(0x38e)]},{'hex':_0x51c4dc['hCIrS'],'name':_0x51c4dc['KKrwA']},{'hex':_0x51c4dc[_0x219e6a(0x373)],'name':_0x51c4dc['tjysd']}]);if(_0x110678['includes'](_0x51c4dc['igYcC']))return _0x51c4dc[_0x219e6a(0x393)](sanitizePrimaryPalette,[{'hex':_0x219e6a(0x610),'name':_0x219e6a(0x287)+'ue'},{'hex':'#f97316','name':_0x219e6a(0x7eb)+'t'},{'hex':_0x51c4dc['dPpBp'],'name':_0x51c4dc['IPrLo']}]);if(_0x110678['includes'](_0x51c4dc[_0x219e6a(0x329)]))return _0x51c4dc[_0x219e6a(0x3c9)](sanitizePrimaryPalette,[{'hex':'#06b6d4','name':'Sky\x20Cyan'},{'hex':_0x219e6a(0x85d),'name':'Falcon\x20Amb'+'er'},{'hex':_0x51c4dc[_0x219e6a(0x2ed)],'name':_0x219e6a(0x3f9)+'ld'}]);if(_0x110678['includes'](_0x51c4dc['aaVdz']))return _0x51c4dc[_0x219e6a(0x76e)](sanitizePrimaryPalette,[{'hex':_0x51c4dc[_0x219e6a(0x88f)],'name':'Royal\x20Blue'},{'hex':_0x51c4dc[_0x219e6a(0x826)],'name':_0x219e6a(0x68d)+'al'},{'hex':_0x219e6a(0x18b),'name':_0x51c4dc[_0x219e6a(0x53d)]}]);if(_0x110678['includes'](_0x51c4dc['BzsWg']))return _0x51c4dc['fpcbp'](sanitizePrimaryPalette,[{'hex':_0x219e6a(0x3ff),'name':_0x51c4dc[_0x219e6a(0x647)]},{'hex':_0x51c4dc[_0x219e6a(0x707)],'name':_0x51c4dc[_0x219e6a(0x16d)]},{'hex':_0x51c4dc[_0x219e6a(0x648)],'name':_0x51c4dc[_0x219e6a(0x82e)]}]);if(_0x110678[_0x219e6a(0x3a0)](_0x51c4dc[_0x219e6a(0x712)]))return _0x51c4dc[_0x219e6a(0x5ce)](sanitizePrimaryPalette,[{'hex':_0x219e6a(0x259),'name':_0x51c4dc['LIPQl']},{'hex':_0x51c4dc['TUFRq'],'name':_0x51c4dc[_0x219e6a(0x36d)]},{'hex':_0x219e6a(0x276),'name':'Cyan\x20Feath'+'er'}]);if(_0x110678['includes'](_0x219e6a(0x840)))return _0x51c4dc[_0x219e6a(0x14e)](sanitizePrimaryPalette,[{'hex':_0x51c4dc['wSHoz'],'name':_0x51c4dc[_0x219e6a(0x7dc)]},{'hex':_0x51c4dc[_0x219e6a(0x5b8)],'name':_0x219e6a(0x17d)},{'hex':_0x51c4dc[_0x219e6a(0x1df)],'name':_0x51c4dc[_0x219e6a(0x2e2)]}]);if(_0x110678[_0x219e6a(0x3a0)](_0x51c4dc[_0x219e6a(0x718)]))return _0x51c4dc[_0x219e6a(0x5ce)](sanitizePrimaryPalette,[{'hex':_0x51c4dc[_0x219e6a(0x1b1)],'name':_0x51c4dc[_0x219e6a(0x6e9)]},{'hex':_0x219e6a(0x259),'name':_0x219e6a(0x7f5)+'e'},{'hex':_0x219e6a(0x3ff),'name':_0x51c4dc[_0x219e6a(0x5ca)]}]);if(_0x110678[_0x219e6a(0x3a0)](_0x219e6a(0x65d))||_0x110678[_0x219e6a(0x3a0)](_0x51c4dc[_0x219e6a(0x702)]))return sanitizePrimaryPalette([{'hex':_0x51c4dc[_0x219e6a(0x3c2)],'name':_0x51c4dc['jSAXx']},{'hex':_0x51c4dc[_0x219e6a(0x87f)],'name':_0x51c4dc[_0x219e6a(0x695)]},{'hex':_0x51c4dc[_0x219e6a(0x1b7)],'name':_0x219e6a(0x5d6)}]);if(_0x110678[_0x219e6a(0x3a0)](_0x51c4dc[_0x219e6a(0x5d2)]))return sanitizePrimaryPalette([{'hex':_0x51c4dc[_0x219e6a(0x885)],'name':_0x51c4dc[_0x219e6a(0x80a)]},{'hex':_0x219e6a(0x344),'name':_0x51c4dc[_0x219e6a(0x65a)]},{'hex':_0x51c4dc[_0x219e6a(0x307)],'name':_0x51c4dc['NCmQj']}]);if(_0x110678[_0x219e6a(0x3a0)](_0x51c4dc[_0x219e6a(0x878)]))return _0x51c4dc[_0x219e6a(0x69b)](sanitizePrimaryPalette,[{'hex':_0x51c4dc['RsIsL'],'name':_0x51c4dc['vRNUv']},{'hex':_0x51c4dc[_0x219e6a(0x826)],'name':_0x51c4dc[_0x219e6a(0x6d3)]},{'hex':_0x51c4dc[_0x219e6a(0x373)],'name':_0x51c4dc[_0x219e6a(0x36d)]}]);if(_0x110678[_0x219e6a(0x3a0)](_0x51c4dc[_0x219e6a(0x899)]))return _0x51c4dc[_0x219e6a(0x14e)](sanitizePrimaryPalette,[{'hex':_0x51c4dc[_0x219e6a(0x87f)],'name':_0x51c4dc[_0x219e6a(0x586)]},{'hex':_0x51c4dc[_0x219e6a(0x2ed)],'name':_0x51c4dc[_0x219e6a(0x2f5)]},{'hex':_0x51c4dc[_0x219e6a(0x3c2)],'name':_0x219e6a(0x892)}]);if(_0x110678[_0x219e6a(0x3a0)](_0x51c4dc[_0x219e6a(0x461)]))return sanitizePrimaryPalette([{'hex':_0x51c4dc['KUDoI'],'name':_0x219e6a(0x85c)+'et'},{'hex':_0x219e6a(0x276),'name':_0x51c4dc['JGTOi']},{'hex':_0x51c4dc[_0x219e6a(0x648)],'name':_0x51c4dc[_0x219e6a(0x309)]}]);if(_0x110678[_0x219e6a(0x3a0)](_0x219e6a(0x3f6)+'l'))return sanitizePrimaryPalette([{'hex':_0x219e6a(0x276),'name':_0x51c4dc[_0x219e6a(0x279)]},{'hex':_0x51c4dc[_0x219e6a(0x648)],'name':_0x51c4dc[_0x219e6a(0x4a2)]},{'hex':_0x51c4dc[_0x219e6a(0x1b7)],'name':_0x219e6a(0x2a5)}]);if(_0x110678['includes'](_0x51c4dc['OtWsT']))return _0x51c4dc['BatlK'](sanitizePrimaryPalette,[{'hex':'#f97316','name':_0x51c4dc[_0x219e6a(0x5f0)]},{'hex':_0x219e6a(0x320),'name':_0x51c4dc[_0x219e6a(0x26f)]},{'hex':_0x51c4dc[_0x219e6a(0x373)],'name':_0x219e6a(0x623)+_0x219e6a(0x548)}]);if(_0x110678[_0x219e6a(0x3a0)](_0x219e6a(0x1d6)))return sanitizePrimaryPalette([{'hex':'#ec4899','name':_0x51c4dc[_0x219e6a(0x67c)]},{'hex':_0x51c4dc[_0x219e6a(0x519)],'name':_0x219e6a(0x5ac)},{'hex':_0x51c4dc[_0x219e6a(0x373)],'name':_0x51c4dc[_0x219e6a(0x300)]}]);if(_0x110678[_0x219e6a(0x3a0)](_0x219e6a(0x17c))||_0x110678[_0x219e6a(0x3a0)](_0x219e6a(0x29d)))return _0x51c4dc[_0x219e6a(0x37f)](sanitizePrimaryPalette,[{'hex':_0x51c4dc[_0x219e6a(0x373)],'name':_0x51c4dc[_0x219e6a(0x811)]},{'hex':_0x51c4dc[_0x219e6a(0x1df)],'name':_0x51c4dc['rRnKj']},{'hex':_0x219e6a(0x1d3),'name':_0x51c4dc[_0x219e6a(0x43b)]}]);if(_0x110678[_0x219e6a(0x3a0)]('ladybird')||_0x110678[_0x219e6a(0x3a0)](_0x51c4dc[_0x219e6a(0x2b6)]))return sanitizePrimaryPalette([{'hex':_0x51c4dc[_0x219e6a(0x890)],'name':'Ladybug\x20Re'+'d'},{'hex':_0x51c4dc[_0x219e6a(0x648)],'name':_0x219e6a(0x563)+'e'},{'hex':'#22c55e','name':_0x219e6a(0x714)}]);if(_0x110678[_0x219e6a(0x3a0)](_0x219e6a(0x5cd)+'r'))return sanitizePrimaryPalette([{'hex':_0x219e6a(0x1fc),'name':_0x51c4dc['QpMpZ']},{'hex':_0x219e6a(0x320),'name':_0x219e6a(0x714)},{'hex':'#facc15','name':_0x219e6a(0x2e0)}]);if(_0x110678['includes'](_0x51c4dc[_0x219e6a(0x1f5)]))return _0x51c4dc['mIFIN'](sanitizePrimaryPalette,[{'hex':_0x219e6a(0x276),'name':_0x51c4dc[_0x219e6a(0x7b3)]},{'hex':_0x51c4dc[_0x219e6a(0x1df)],'name':_0x51c4dc[_0x219e6a(0x3f4)]},{'hex':_0x51c4dc[_0x219e6a(0x1b7)],'name':_0x51c4dc['HMucX']}]);switch(_0x9bc759){case _0x51c4dc['ifGaV']:return _0x51c4dc[_0x219e6a(0x1c5)](sanitizePrimaryPalette,[{'hex':_0x219e6a(0x3ff),'name':_0x51c4dc['oRJmU']},{'hex':_0x51c4dc['aAKfd'],'name':_0x51c4dc[_0x219e6a(0x2a9)]},{'hex':_0x51c4dc['dPpBp'],'name':_0x51c4dc[_0x219e6a(0x36d)]}]);case'jungle':return _0x51c4dc[_0x219e6a(0x4bd)](sanitizePrimaryPalette,[{'hex':'#eab308','name':_0x219e6a(0x22d)+'low'},{'hex':_0x51c4dc[_0x219e6a(0x648)],'name':_0x219e6a(0x347)+_0x219e6a(0x571)},{'hex':_0x51c4dc['aAKfd'],'name':_0x51c4dc[_0x219e6a(0x88b)]}]);case _0x219e6a(0x66d):return sanitizePrimaryPalette([{'hex':'#38bdf8','name':_0x51c4dc[_0x219e6a(0x34a)]},{'hex':_0x219e6a(0x61b),'name':_0x219e6a(0x1f7)+'e'},{'hex':_0x51c4dc[_0x219e6a(0x648)],'name':_0x51c4dc[_0x219e6a(0x766)]}]);case _0x51c4dc[_0x219e6a(0x5cf)]:return _0x51c4dc[_0x219e6a(0x6ae)](sanitizePrimaryPalette,[{'hex':'#ef4444','name':_0x219e6a(0x812)+'d'},{'hex':_0x219e6a(0x274),'name':_0x219e6a(0x5b0)},{'hex':_0x51c4dc[_0x219e6a(0x2ed)],'name':_0x51c4dc[_0x219e6a(0x72a)]}]);case'dinosaurs':return sanitizePrimaryPalette([{'hex':_0x51c4dc[_0x219e6a(0x3c2)],'name':'Dino\x20Green'},{'hex':_0x219e6a(0x1fc),'name':_0x219e6a(0x41b)},{'hex':_0x51c4dc[_0x219e6a(0x87f)],'name':_0x51c4dc[_0x219e6a(0x295)]}]);case _0x219e6a(0x31c):return sanitizePrimaryPalette([{'hex':_0x51c4dc[_0x219e6a(0x1df)],'name':_0x51c4dc['RnEEh']},{'hex':_0x219e6a(0x4f4),'name':_0x51c4dc['DxojP']},{'hex':_0x219e6a(0x320),'name':_0x51c4dc[_0x219e6a(0x726)]}]);default:return sanitizePrimaryPalette([{'hex':_0x51c4dc[_0x219e6a(0x890)],'name':_0x51c4dc[_0x219e6a(0x575)]},{'hex':_0x51c4dc[_0x219e6a(0x25d)],'name':'Bright\x20Blu'+'e'},{'hex':_0x51c4dc[_0x219e6a(0x2ed)],'name':_0x219e6a(0x46e)+'w'}]);}}
+// ASMR Animal Colors - Database of Categories and Animals
+// Cleaned, optimized, and spaced according to anti-repetition rules.
+export const CATEGORIES = [
+  {
+    id: 'jungle',
+    name: 'Jungle Animals',
+    shortName: 'Jungle',
+    title: 'Wild Jungle Animals',
+    emoji: '🦁',
+    icon: 'Categories/Lion.svg',
+    circleBg: '#f59e0b',
+    color: '#d97706',
+    bg: '#fffbeb',
+    animals: [
+      { id: 'lion_04', name: 'Safari Lion', file: 'Lion_04.svg', path: 'Animals/Jungle/Lion_04.svg' },
+      { id: 'baby_elephant', name: 'Baby Elephant', file: 'baby_elephant.svg', path: 'Animals/Jungle/baby_elephant.svg' },
+      { id: 'giraffe', name: 'Tall Giraffe', file: 'Giraffe.svg', path: 'Animals/Jungle/Giraffe.svg' },
+      { id: 'striped_zebra', name: 'Striped Zebra', file: 'zebra.svg', path: 'Animals/Jungle/zebra.svg' },
+      { id: 'panda', name: 'Panda', file: 'Panda.svg', path: 'Animals/Jungle/Panda.svg' },
+      { id: 'baby_monkey', name: 'Baby Monkey', file: 'baby_monkey.svg', path: 'Animals/Jungle/baby_monkey.svg' },
+      { id: 'brown_bear', name: 'Brown Bear', file: 'bear.svg', path: 'Animals/Jungle/bear.svg' },
+      { id: 'hippo', name: 'Baby Hippo', file: 'hippo.svg', path: 'Animals/Jungle/hippo.svg' },
+      { id: 'baby_rhino', name: 'Baby Rhino', file: 'baby_rhino.svg', path: 'Animals/Jungle/baby_rhino.svg' },
+      { id: 'kangaroo', name: 'Kangaroo', file: 'kangaroo.svg', path: 'Animals/Jungle/kangaroo.svg' },
+      { id: 'koala', name: 'Koala', file: 'Koala.svg', path: 'Animals/Jungle/Koala.svg' },
+      { id: 'lion_cub', name: 'Lion Cub', file: 'Lion_Cub.svg', path: 'Animals/Jungle/Lion_Cub.svg' },
+      { id: 'tiger_02', name: 'Wild Tiger', file: 'Tiger_02.svg', path: 'Animals/Jungle/Tiger_02.svg' },
+      { id: 'baby_deer', name: 'Baby Fawn', file: 'baby_deer.svg', path: 'Animals/Jungle/baby_deer.svg' },
+      { id: 'gorilla_01', name: 'Mighty Gorilla', file: 'Gorilla_01.svg', path: 'Animals/Jungle/Gorilla_01.svg' },
+      { id: 'acorn_squirrel', name: 'Acorn Squirrel', file: 'squirrel.svg', path: 'Animals/Jungle/squirrel.svg' },
+      { id: 'panda_cub', name: 'Panda Cub', file: 'panda_cub.svg', path: 'Animals/Jungle/panda_cub.svg' },
+      { id: 'zebra_foal', name: 'Zebra Foal', file: 'zebra_foal.svg', path: 'Animals/Jungle/zebra_foal.svg' },
+      { id: 'red_panda', name: 'Red Panda', file: 'Red_Panda.svg', path: 'Animals/Jungle/Red_Panda.svg' },
+      { id: 'fox', name: 'Fox', file: 'Fox.svg', path: 'Animals/Jungle/Fox.svg' },
+      { id: 'sloth', name: 'Sloth', file: 'Sloth.svg', path: 'Animals/Jungle/Sloth.svg' },
+      { id: 'hedgehog_01', name: 'Hedgehog', file: 'Hedgehog_01.svg', path: 'Animals/Jungle/Hedgehog_01.svg' },
+      { id: 'meerkat_curious', name: 'Curious Meerkat', file: 'meerkat.svg', path: 'Animals/Jungle/meerkat.svg' },
+      { id: 'gentle_bear', name: 'Gentle Bear', file: 'bear_01.svg', path: 'Animals/Jungle/bear_01.svg' },
+      { id: 'elephant_03', name: 'Grand Elephant', file: 'Elephant_03.svg', path: 'Animals/Jungle/Elephant_03.svg' },
+      { id: 'monkey_01', name: 'Jungle Monkey', file: 'Monkey_01.svg', path: 'Animals/Jungle/Monkey_01.svg' },
+      { id: 'rhino_gentle', name: 'Rhino', file: 'rhino.svg', path: 'Animals/Jungle/rhino.svg' },
+      { id: 'prairie_bison', name: 'Prairie Bison', file: 'bison.svg', path: 'Animals/Jungle/bison.svg' },
+      { id: 'woodland_moose', name: 'Woodland Moose', file: 'moose.svg', path: 'Animals/Jungle/moose.svg' },
+      { id: 'smiling_quokka', name: 'Smiling Quokka', file: 'quokka.svg', path: 'Animals/Jungle/quokka.svg' },
+      { id: 'chimpanzee', name: 'Playful Chimp', file: 'Chimpanzee.svg', path: 'Animals/Jungle/Chimpanzee.svg' },
+      { id: 'chimpanzee_01', name: 'Little Chimpanzee', file: 'Chimpanzee_01.svg', path: 'Animals/Jungle/Chimpanzee_01.svg' },
+      { id: 'polar_bear', name: 'Polar Bear', file: 'Polar_Bear.svg', path: 'Animals/Jungle/Polar_Bear.svg' },
+      { id: 'chipmunk', name: 'Chipmunk', file: 'Chipmunk.svg', path: 'Animals/Jungle/Chipmunk.svg' },
+      { id: 'chinchilla_01', name: 'Chinchilla', file: 'Chinchilla_01.svg', path: 'Animals/Jungle/Chinchilla_01.svg' },
+      { id: 'raccoon', name: 'Raccoon', file: 'Raccoon.svg', path: 'Animals/Jungle/Raccoon.svg' },
+      { id: 'fennec_fox', name: 'Fennec Fox', file: 'Fennec_Fox.svg', path: 'Animals/Jungle/Fennec_Fox.svg' },
+      { id: 'leopard', name: 'Leopard', file: 'Leopard.svg', path: 'Animals/Jungle/Leopard.svg' },
+      { id: 'black_panther', name: 'Black Panther', file: 'Black_Panther.svg', path: 'Animals/Jungle/Black_Panther.svg' },
+      { id: 'lion_03', name: 'Mighty Lion', file: 'Lion_03.svg', path: 'Animals/Jungle/Lion_03.svg' },
+      { id: 'giraffe_01', name: 'Sweet Giraffe', file: 'Giraffe_01.svg', path: 'Animals/Jungle/Giraffe_01.svg' },
+      { id: 'moose_02', name: 'Forest Moose', file: 'Moose_02.svg', path: 'Animals/Jungle/Moose_02.svg' },
+      { id: 'crocodile', name: 'River Crocodile', file: 'Crocodile.svg', path: 'Animals/Jungle/Crocodile.svg' },
+      { id: 'crocodile_01', name: 'Snappy Crocodile', file: 'Crocodile_01.svg', path: 'Animals/Jungle/Crocodile_01.svg' },
+      { id: 'chameleon_01', name: 'Chameleon', file: 'Chameleon_01.svg', path: 'Animals/Jungle/Chameleon_01.svg' },
+      { id: 'gecko', name: 'Gecko', file: 'Gecko.svg', path: 'Animals/Jungle/Gecko.svg' },
+      { id: 'iguana', name: 'Iguana', file: 'Iguana.svg', path: 'Animals/Jungle/Iguana.svg' },
+      { id: 'beaver', name: 'Beaver', file: 'Beaver.svg', path: 'Animals/Jungle/Beaver.svg' },
+      { id: 'badger', name: 'Badger', file: 'Badger.svg', path: 'Animals/Jungle/Badger.svg' },
+      { id: 'sugar_glider', name: 'Sugar Glider', file: 'sugar_glider.svg', path: 'Animals/Jungle/sugar_glider.svg' },
+      { id: 'tree_kangaroo', name: 'Tree Kangaroo', file: 'tree_kangaroo.svg', path: 'Animals/Jungle/tree_kangaroo.svg' },
+      { id: 'platypus', name: 'Platypus', file: 'Platypus.svg', path: 'Animals/Jungle/Platypus.svg' },
+      { id: 'wombat', name: 'Wombat', file: 'Wombat.svg', path: 'Animals/Jungle/Wombat.svg' },
+      { id: 'armadillo', name: 'Armadillo', file: 'Armadillo.svg', path: 'Animals/Jungle/Armadillo.svg' },
+      { id: 'porcupine', name: 'Porcupine', file: 'Porcupine.svg', path: 'Animals/Jungle/Porcupine.svg' },
+      { id: 'capuchin_monkey', name: 'Capuchin Monkey', file: 'capuchin_monkey.svg', path: 'Animals/Jungle/capuchin_monkey.svg' },
+      { id: 'spider_monkey', name: 'Spider Monkey', file: 'spider_monkey.svg', path: 'Animals/Jungle/spider_monkey.svg' },
+      { id: 'lemur', name: 'Lemur', file: 'Lemur.svg', path: 'Animals/Jungle/Lemur.svg' },
+      { id: 'ring_tailed_lemur', name: 'Ring-Tailed Lemur', file: 'Ring-Tailed_Lemur.svg', path: 'Animals/Jungle/Ring-Tailed_Lemur.svg' },
+      { id: 'golden_lion_tamarin', name: 'Golden Lion Tamarin', file: 'Golden_Lion_Tamarin.svg', path: 'Animals/Jungle/Golden_Lion_Tamarin.svg' },
+      { id: 'slow_loris', name: 'Slow Loris', file: 'Slow_Loris.svg', path: 'Animals/Jungle/Slow_Loris.svg' },
+      { id: 'arctic_fox', name: 'Arctic Fox', file: 'Arctic_Fox.svg', path: 'Animals/Jungle/Arctic_Fox.svg' },
+      { id: 'gazelle', name: 'Gazelle', file: 'Gazelle.svg', path: 'Animals/Jungle/Gazelle.svg' },
+      { id: 'dik_dik', name: 'Dik-Dik', file: 'dik_dik.svg', path: 'Animals/Jungle/dik_dik.svg' },
+      { id: 'okapi', name: 'Okapi', file: 'okapi.svg', path: 'Animals/Jungle/okapi.svg' },
+      { id: 'vicuna', name: 'Vicuña', file: 'vicuna.svg', path: 'Animals/Jungle/vicuna.svg' },
+      { id: 'baby_tapir', name: 'Baby Tapir', file: 'tapir.svg', path: 'Animals/Jungle/tapir.svg' },
+      { id: 'kinkajou', name: 'Kinkajou', file: 'kinkajou.svg', path: 'Animals/Jungle/kinkajou.svg' },
+      { id: 'coatimundi', name: 'Coatimundi', file: 'coatimundi.svg', path: 'Animals/Jungle/coatimundi.svg' },
+      { id: 'patagonian_mara', name: 'Patagonian Mara', file: 'mara.svg', path: 'Animals/Jungle/mara.svg' },
+      { id: 'spotted_paca', name: 'Spotted Paca', file: 'paca.svg', path: 'Animals/Jungle/paca.svg' },
+      { id: 'agouti', name: 'Agouti', file: 'agouti.svg', path: 'Animals/Jungle/agouti.svg' },
+      { id: 'spotted_cuscus', name: 'Spotted Cuscus', file: 'spotted_cuscus.svg', path: 'Animals/Jungle/spotted_cuscus.svg' },
+      { id: 'langur', name: 'Langur Monkey', file: 'Langur.svg', path: 'Animals/Jungle/Langur.svg' },
+      { id: 'baboon_01', name: 'Playful Baboon', file: 'Baboon_01.svg', path: 'Animals/Jungle/Baboon_01.svg' },
+      { id: 'proboscis_monkey', name: 'Proboscis Monkey', file: 'proboscis.svg', path: 'Animals/Jungle/proboscis.svg' },
+      { id: 'uakari_monkey', name: 'Uakari Monkey', file: 'Uakari_Monkey.svg', path: 'Animals/Jungle/Uakari_Monkey.svg' },
+      { id: 'camel_jungle', name: 'Desert Camel', file: 'Camel_01.svg', path: 'Animals/Jungle/Camel_01.svg' },
+      { id: 'opossum', name: 'Opossum', file: 'Opossum.svg', path: 'Animals/Jungle/Opossum.svg' },
+      { id: 'opossum_01', name: 'Little Opossum', file: 'Opossum_01.svg', path: 'Animals/Jungle/Opossum_01.svg' },
+      { id: 'skunk_01', name: 'Skunk', file: 'Skunk_01.svg', path: 'Animals/Jungle/Skunk_01.svg' },
+      { id: 'fruit_bat_01', name: 'Cute Bat', file: 'Fruit_Bat_01.svg', path: 'Animals/Jungle/Fruit_Bat_01.svg' },
+      { id: 'frilled_neck_lizard', name: 'Frilled-Neck Lizard', file: 'Frilled-Neck_Lizard.svg', path: 'Animals/Jungle/Frilled-Neck_Lizard.svg' },
+      { id: 'pangolin', name: 'Pangolin', file: 'Pangolin.svg', path: 'Animals/Jungle/Pangolin.svg' },
+      { id: 'tamandua', name: 'Tamandua', file: 'tamandua.svg', path: 'Animals/Jungle/tamandua.svg' },
+      { id: 'honey_badger', name: 'Honey Badger', file: 'Honey_Badger.svg', path: 'Animals/Jungle/Honey_Badger.svg' },
+      { id: 'wolf_01', name: 'Timber Wolf', file: 'Wolf_01.svg', path: 'Animals/Jungle/Wolf_01.svg' },
+      { id: 'hyena_01', name: 'Laughing Hyena', file: 'Hyena_01.svg', path: 'Animals/Jungle/Hyena_01.svg' },
+      { id: 'binturong', name: 'Binturong', file: 'binturong.svg', path: 'Animals/Jungle/binturong.svg' },
+      { id: 'colugo', name: 'Colugo', file: 'colugo.svg', path: 'Animals/Jungle/colugo.svg' },
+      { id: 'guanaco', name: 'Guanaco', file: 'Guanaco.svg', path: 'Animals/Jungle/Guanaco.svg' },
+      { id: 'fossa', name: 'Fossa', file: 'Fossa.svg', path: 'Animals/Jungle/Fossa.svg' },
+      { id: 'tasmanian_devil', name: 'Tasmanian Devil', file: 'Tasmanian_Devil.svg', path: 'Animals/Jungle/Tasmanian_Devil.svg' },
+      { id: 'komodo_dragon', name: 'Komodo Dragon', file: 'Komodo_Dragon.svg', path: 'Animals/Jungle/Komodo_Dragon.svg' },
+      { id: 'zorilla', name: 'Zorilla', file: 'Zorilla.svg', path: 'Animals/Jungle/Zorilla.svg' },
+      { id: 'aye_aye', name: 'Aye-Aye', file: 'Aye-Aye.svg', path: 'Animals/Jungle/Aye-Aye.svg' },
+      { id: 'aardvark', name: 'Aardvark', file: 'Aardvark.svg', path: 'Animals/Jungle/Aardvark.svg' },
+    ]
+  },
+  {
+    id: 'farm',
+    name: 'Farm Animals',
+    shortName: 'Farm',
+    title: 'Cute Farm Animals',
+    emoji: '🐑',
+    icon: 'Categories/Sheep_01.svg',
+    circleBg: '#10b981',
+    color: '#059669',
+    bg: '#f0fdf4',
+    animals: [
+      { id: 'dairy_cow', name: 'Dairy Cow', file: 'cow.svg', path: 'Animals/Farm/cow.svg' },
+      { id: 'fluffy_sheep', name: 'Fluffy Sheep', file: 'sheep.svg', path: 'Animals/Farm/sheep.svg' },
+      { id: 'playful_kitten', name: 'Playful Kitten', file: 'kitten.svg', path: 'Animals/Farm/kitten.svg' },
+      { id: 'horse', name: 'Horse', file: 'horse.svg', path: 'Animals/Farm/horse.svg' },
+      { id: 'pig', name: 'Pig', file: 'Pig.svg', path: 'Animals/Farm/Pig.svg' },
+      { id: 'golden_retriever_farm', name: 'Golden Retriever', file: 'Golden_Retriever.svg', path: 'Animals/Farm/Golden_Retriever.svg' },
+      { id: 'bunny', name: 'Cottontail Bunny', file: 'Bunny.svg', path: 'Animals/Farm/Bunny.svg' },
+      { id: 'duckling', name: 'Little Duckling', file: 'Duckling.svg', path: 'Animals/Farm/Duckling.svg' },
+      { id: 'farm_hen', name: 'Farm Hen', file: 'hen.svg', path: 'Animals/Farm/hen.svg' },
+      { id: 'cheerful_rooster', name: 'Cheerful Rooster', file: 'rooster.svg', path: 'Animals/Farm/rooster.svg' },
+      { id: 'calf', name: 'Calf', file: 'Calf.svg', path: 'Animals/Farm/Calf.svg' },
+      { id: 'spring_lamb', name: 'Spring Lamb', file: 'spring_lamb.svg', path: 'Animals/Farm/spring_lamb.svg' },
+      { id: 'foal', name: 'Foal', file: 'Foal.svg', path: 'Animals/Farm/Foal.svg' },
+      { id: 'munchkin_kitten', name: 'Munchkin Cat', file: 'munchkin_kitten.svg', path: 'Animals/Farm/munchkin_kitten.svg' },
+      { id: 'shetland_pony', name: 'Shetland Pony', file: 'shetland_pony.svg', path: 'Animals/Farm/shetland_pony.svg' },
+      { id: 'corgi', name: 'Corgi', file: 'corgi.svg', path: 'Animals/Farm/corgi.svg' },
+      { id: 'chick', name: 'Chick', file: 'Chick.svg', path: 'Animals/Farm/Chick.svg' },
+      { id: 'alpaca', name: 'Alpaca', file: 'Alpaca.svg', path: 'Animals/Farm/Alpaca.svg' },
+      { id: 'donkey', name: 'Donkey', file: 'Donkey.svg', path: 'Animals/Farm/Donkey.svg' },
+      { id: 'goat_01', name: 'Goat', file: 'Goat_01.svg', path: 'Animals/Farm/Goat_01.svg' },
+      { id: 'persian_cat', name: 'Persian Cat', file: 'persian_cat.svg', path: 'Animals/Farm/persian_cat.svg' },
+      { id: 'dalmatian', name: 'Dalmatian', file: 'Dalmatian.svg', path: 'Animals/Farm/Dalmatian.svg' },
+      { id: 'hamster', name: 'Hamster', file: 'Hamster.svg', path: 'Animals/Farm/Hamster.svg' },
+      { id: 'buffalo', name: 'Water Buffalo', file: 'buffalo.svg', path: 'Animals/Farm/buffalo.svg' },
+      { id: 'siamese_cat', name: 'Siamese Cat', file: 'siamese_cat.svg', path: 'Animals/Farm/siamese_cat.svg' },
+      { id: 'dog_poodle', name: 'Poodle', file: 'Dog_-_Poodle.svg', path: 'Animals/Farm/Dog_-_Poodle.svg' },
+      { id: 'guinea_pig', name: 'Guinea Pig', file: 'Guinea_Pig.svg', path: 'Animals/Farm/Guinea_Pig.svg' },
+      { id: 'tuxedo_cat', name: 'Tuxedo Cat', file: 'tuxedo_cat.svg', path: 'Animals/Farm/tuxedo_cat.svg' },
+      { id: 'dog_dachshund', name: 'Dachshund', file: 'Dog_-_Dachshund.svg', path: 'Animals/Farm/Dog_-_Dachshund.svg' },
+      { id: 'rabbit', name: 'White Rabbit', file: 'Rabbit.svg', path: 'Animals/Farm/Rabbit.svg' },
+      { id: 'beagle', name: 'Beagle', file: 'beagle.svg', path: 'Animals/Farm/beagle.svg' },
+      { id: 'llama', name: 'Llama', file: 'Llama.svg', path: 'Animals/Farm/Llama.svg' },
+      { id: 'pot_bellied_pig', name: 'Pot-Bellied Pig', file: 'pot_bellied_pig.svg', path: 'Animals/Farm/pot_bellied_pig.svg' },
+      { id: 'french_bulldog', name: 'French Bulldog', file: 'french_bulldog.svg', path: 'Animals/Farm/french_bulldog.svg' },
+      { id: 'highland_cow', name: 'Highland Cow', file: 'highland_cow.svg', path: 'Animals/Farm/highland_cow.svg' },
+      { id: 'pug', name: 'Pug', file: 'pug.svg', path: 'Animals/Farm/pug.svg' },
+      { id: 'turkey', name: 'Turkey', file: 'Turkey.svg', path: 'Animals/Farm/Turkey.svg' },
+      { id: 'pomeranian', name: 'Pomeranian', file: 'pomeranian.svg', path: 'Animals/Farm/pomeranian.svg' },
+      { id: 'angora_rabbit', name: 'Angora Rabbit', file: 'angora_rabbit.svg', path: 'Animals/Farm/angora_rabbit.svg' },
+      { id: 'saint_bernard', name: 'Saint Bernard', file: 'Saint_Bernard.svg', path: 'Animals/Farm/Saint_Bernard.svg' },
+      { id: 'camel', name: 'Camel', file: 'camel.svg', path: 'Animals/Farm/camel.svg' },
+      { id: 'collie', name: 'Farm Collie', file: 'Collie.svg', path: 'Animals/Farm/Collie.svg' },
+      { id: 'lop_rabbit', name: 'Lop Rabbit', file: 'lop_rabbit.svg', path: 'Animals/Farm/lop_rabbit.svg' },
+      { id: 'chihuahua', name: 'Chihuahua', file: 'chihuahua.svg', path: 'Animals/Farm/chihuahua.svg' },
+      { id: 'bantam_chicken', name: 'Silkie Bantam', file: 'bantam_chicken.svg', path: 'Animals/Farm/bantam_chicken.svg' },
+      { id: 'gentle_ox', name: 'Gentle Ox', file: 'ox.svg', path: 'Animals/Farm/ox.svg' },
+      { id: 'basset_hound', name: 'Basset Hound', file: 'basset_hound.svg', path: 'Animals/Farm/basset_hound.svg' },
+      { id: 'mouse', name: 'Mouse', file: 'Mouse.svg', path: 'Animals/Farm/Mouse.svg' },
+      { id: 'bulldog', name: 'Bulldog', file: 'Bulldog.svg', path: 'Animals/Farm/Bulldog.svg' },
+      { id: 'dog_shihtzu', name: 'Shih Tzu', file: 'Dog_-_Shih_Tzu.svg', path: 'Animals/Farm/Dog_-_Shih_Tzu.svg' },
+      { id: 'dog_yorkie', name: 'Yorkshire Terrier', file: 'Dog_-_Yorkshire_Terrier.svg', path: 'Animals/Farm/Dog_-_Yorkshire_Terrier.svg' },
+      { id: 'siberian_husky', name: 'Siberian Husky', file: 'Siberian_Husky.svg', path: 'Animals/Farm/Siberian_Husky.svg' },
+      { id: 'farm_goose', name: 'Farm Goose', file: 'farm_goose.svg', path: 'Animals/Farm/farm_goose.svg' },
+      { id: 'rooster_01', name: 'Sunrise Rooster', file: 'Rooster_01.svg', path: 'Animals/Farm/Rooster_01.svg' },
+      { id: 'golden_retriever_01', name: 'Playful Retriever', file: 'Golden_Retriever_01.svg', path: 'Animals/Farm/Golden_Retriever_01.svg' },
+      { id: 'parakeet', name: 'Parakeet', file: 'Parakeet.svg', path: 'Animals/Farm/Parakeet.svg' },
+      { id: 'barn_owl', name: 'Barn Owl', file: 'Barn_Owl.svg', path: 'Animals/Farm/Barn_Owl.svg' },
+      { id: 'zebu_calf', name: 'Zebu Calf', file: 'zebu_calf.svg', path: 'Animals/Farm/zebu_calf.svg' },
+      { id: 'squirrel_farm', name: 'Squirrel', file: 'Squirrel.svg', path: 'Animals/Farm/Squirrel.svg' },
+      { id: 'ferret', name: 'Pet Ferret', file: 'ferret.svg', path: 'Animals/Farm/ferret.svg' },
+      { id: 'chinchilla_pet', name: 'Pet Chinchilla', file: 'chinchilla.svg', path: 'Animals/Farm/chinchilla.svg' },
+      { id: 'hedgehog_pet', name: 'Pet Hedgehog', file: 'hedgehog.svg', path: 'Animals/Farm/hedgehog.svg' },
+      { id: 'mule', name: 'Mule', file: 'mule.svg', path: 'Animals/Farm/mule.svg' },
+      { id: 'shaggy_yak', name: 'Shaggy Yak', file: 'yak.svg', path: 'Animals/Farm/yak.svg' },
+    ]
+  },
+  {
+    id: 'aquatic',
+    name: 'Aquatic Animals',
+    shortName: 'Aquatic',
+    title: 'Ocean & Sea Life',
+    emoji: '🦀',
+    icon: 'Categories/Crab.svg',
+    circleBg: '#06b6d4',
+    color: '#0891b2',
+    bg: '#ecfeff',
+    animals: [
+      { id: 'dolphin', name: 'Dolphin', file: 'Dolphin.svg', path: 'Animals/Aquatic/Dolphin.svg' },
+      { id: 'clownfish', name: 'Clown Fish', file: 'Clownfish.svg', path: 'Animals/Aquatic/Clownfish.svg' },
+      { id: 'sea_turtle', name: 'Sea Turtle', file: 'Sea_Turtle.svg', path: 'Animals/Aquatic/Sea_Turtle.svg' },
+      { id: 'harp_seal', name: 'Harp Seal Pup', file: 'seal.svg', path: 'Animals/Aquatic/seal.svg' },
+      { id: 'penguin', name: 'Penguin', file: 'Penguin.svg', path: 'Animals/Aquatic/Penguin.svg' },
+      { id: 'starfish', name: 'Starfish', file: 'Starfish_01.svg', path: 'Animals/Aquatic/Starfish_01.svg' },
+      { id: 'seahorse', name: 'Seahorse', file: 'Seahorse.svg', path: 'Animals/Aquatic/Seahorse.svg' },
+      { id: 'goldfish', name: 'Goldfish', file: 'Goldfish.svg', path: 'Animals/Aquatic/Goldfish.svg' },
+      { id: 'blue_whale', name: 'Blue Whale', file: 'Blue_Whale.svg', path: 'Animals/Aquatic/Blue_Whale.svg' },
+      { id: 'sea_otter', name: 'Sea Otter', file: 'Sea_Otter.svg', path: 'Animals/Aquatic/Sea_Otter.svg' },
+      { id: 'octopus', name: 'Octopus', file: 'Octopus.svg', path: 'Animals/Aquatic/Octopus.svg' },
+      { id: 'crab_01', name: 'Little Beach Crab', file: 'Crab_01.svg', path: 'Animals/Aquatic/Crab_01.svg' },
+      { id: 'beluga_whale', name: 'Beluga Whale', file: 'Beluga_Whale.svg', path: 'Animals/Aquatic/Beluga_Whale.svg' },
+      { id: 'narwhal', name: 'Narwhal', file: 'Narwhal.svg', path: 'Animals/Aquatic/Narwhal.svg' },
+      { id: 'jellyfish', name: 'Jellyfish', file: 'Jellyfish.svg', path: 'Animals/Aquatic/Jellyfish.svg' },
+      { id: 'axolotl', name: 'Axolotl', file: 'Axolotl.svg', path: 'Animals/Aquatic/Axolotl.svg' },
+      { id: 'capybara', name: 'Capybara', file: 'Capybara.svg', path: 'Animals/Aquatic/Capybara.svg' },
+      { id: 'manatee', name: 'Manatee', file: 'Manatee.svg', path: 'Animals/Aquatic/Manatee.svg' },
+      { id: 'hermit_crab', name: 'Hermit Crab', file: 'Hermit_Crab.svg', path: 'Animals/Aquatic/Hermit_Crab.svg' },
+      { id: 'otter', name: 'Otter', file: 'Otter.svg', path: 'Animals/Aquatic/Otter.svg' },
+      { id: 'flying_fish', name: 'Flying Fish', file: 'Flying_Fish.svg', path: 'Animals/Aquatic/Flying_Fish.svg' },
+      { id: 'angelfish', name: 'Angel Fish', file: 'AngelFish.svg', path: 'Animals/Aquatic/AngelFish.svg' },
+      { id: 'butterflyfish', name: 'Butterfly Fish', file: 'ButterflyFish.svg', path: 'Animals/Aquatic/ButterflyFish.svg' },
+      { id: 'sealion', name: 'Sea Lion', file: 'SeaLion.svg', path: 'Animals/Aquatic/SeaLion.svg' },
+      { id: 'angelfish_01', name: 'Striped Angelfish', file: 'AngelFish_01.svg', path: 'Animals/Aquatic/AngelFish_01.svg' },
+      { id: 'butterflyfish_01', name: 'Coral Butterflyfish', file: 'ButterflyFish_01.svg', path: 'Animals/Aquatic/ButterflyFish_01.svg' },
+      { id: 'shrimp', name: 'Pink Shrimp', file: 'Shrimp.svg', path: 'Animals/Aquatic/Shrimp.svg' },
+      { id: 'shrimp_01', name: 'Ocean Shrimp', file: 'Shrimp_01.svg', path: 'Animals/Aquatic/Shrimp_01.svg' },
+      { id: 'lobster', name: 'Red Lobster', file: 'Lobster.svg', path: 'Animals/Aquatic/Lobster.svg' },
+      { id: 'lobster_01', name: 'Spiny Lobster', file: 'Lobster_01.svg', path: 'Animals/Aquatic/Lobster_01.svg' },
+      { id: 'crab', name: 'Ocean Crab', file: 'Crab.svg', path: 'Animals/Aquatic/Crab.svg' },
+      { id: 'mantaray', name: 'Manta Ray', file: 'Mantaray.svg', path: 'Animals/Aquatic/Mantaray.svg' },
+      { id: 'manta_ray_01', name: 'Giant Manta Ray', file: 'Manta_Ray_01.svg', path: 'Animals/Aquatic/Manta_Ray_01.svg' },
+      { id: 'leafy_sea_dragon', name: 'Leafy Sea Dragon', file: 'Leafy_Sea_Dragon.svg', path: 'Animals/Aquatic/Leafy_Sea_Dragon.svg' },
+      { id: 'walrus', name: 'Walrus', file: 'Walrus.svg', path: 'Animals/Aquatic/Walrus.svg' },
+      { id: 'orca_whale', name: 'Orca Whale', file: 'Orca_Whale.svg', path: 'Animals/Aquatic/Orca_Whale.svg' },
+      { id: 'conchshell', name: 'Conch Shell', file: 'Conchshell.svg', path: 'Animals/Aquatic/Conchshell.svg' },
+      { id: 'scallopshell', name: 'Scallop Shell', file: 'Scallopshell.svg', path: 'Animals/Aquatic/Scallopshell.svg' },
+      { id: 'nautilusshell', name: 'Nautilus Shell', file: 'NautilusShell.svg', path: 'Animals/Aquatic/NautilusShell.svg' },
+      { id: 'frog_01', name: 'Tree Frog', file: 'Frog_01.svg', path: 'Animals/Aquatic/Frog_01.svg' },
+      { id: 'swordfish', name: 'Swordfish', file: 'Swordfish.svg', path: 'Animals/Aquatic/Swordfish.svg' },
+      { id: 'stingray', name: 'Stingray', file: 'Stingray.svg', path: 'Animals/Aquatic/Stingray.svg' },
+      { id: 'cuttlefish', name: 'Cuttlefish', file: 'Cuttlefish.svg', path: 'Animals/Aquatic/Cuttlefish.svg' },
+      { id: 'lionfish', name: 'Lionfish', file: 'Lionfish.svg', path: 'Animals/Aquatic/Lionfish.svg' },
+      { id: 'shark', name: 'Shark', file: 'Shark.svg', path: 'Animals/Aquatic/Shark.svg' },
+      { id: 'largetooth_sawfish', name: 'Largetooth Sawfish', file: 'Largetooth_Sawfish.svg', path: 'Animals/Aquatic/Largetooth_Sawfish.svg' },
+      { id: 'gharial', name: 'Gharial', file: 'Gharial.svg', path: 'Animals/Aquatic/Gharial.svg' },
+      { id: 'blobfish', name: 'Blobfish', file: 'Blobfish.svg', path: 'Animals/Aquatic/Blobfish.svg' },
+    ]
+  },
+  {
+    id: 'birds',
+    name: 'Birds',
+    shortName: 'Birds',
+    title: 'Beautiful Birds',
+    emoji: '🦉',
+    icon: 'Categories/Owl_01.webp',
+    circleBg: '#3b82f6',
+    color: '#2563eb',
+    bg: '#eff6ff',
+    animals: [
+      { id: 'parrot', name: 'Parrot', file: 'parrot.svg', path: 'Animals/Birds/parrot.svg' },
+      { id: 'flamingo', name: 'Flamingo', file: 'Flamingo.svg', path: 'Animals/Birds/Flamingo.svg' },
+      { id: 'toucan', name: 'Toucan', file: 'Toucan.svg', path: 'Animals/Birds/Toucan.svg' },
+      { id: 'owl', name: 'Wise Owl', file: 'Owl.svg', path: 'Animals/Birds/Owl.svg' },
+      { id: 'peacock_01', name: 'Royal Peacock', file: 'Peacock_01.svg', path: 'Animals/Birds/Peacock_01.svg' },
+      { id: 'duck', name: 'Quacking Duck', file: 'Duck.svg', path: 'Animals/Birds/Duck.svg' },
+      { id: 'king_penguin', name: 'King Penguin', file: 'King_Penguin.svg', path: 'Animals/Birds/King_Penguin.svg' },
+      { id: 'swan', name: 'Swan', file: 'Swan.svg', path: 'Animals/Birds/Swan.svg' },
+      { id: 'hummingbird', name: 'Hummingbird', file: 'Hummingbird.svg', path: 'Animals/Birds/Hummingbird.svg' },
+      { id: 'cockatiel', name: 'Cockatiel', file: 'Cockatiel.svg', path: 'Animals/Birds/Cockatiel.svg' },
+      { id: 'european_robin', name: 'European Robin', file: 'european_robin.svg', path: 'Animals/Birds/european_robin.svg' },
+      { id: 'bluebird', name: 'Bluebird', file: 'bluebird.svg', path: 'Animals/Birds/bluebird.svg' },
+      { id: 'atlantic_puffin', name: 'Atlantic Puffin', file: 'Atlantic_Puffin.svg', path: 'Animals/Birds/Atlantic_Puffin.svg' },
+      { id: 'woodpecker', name: 'Tapping Woodpecker', file: 'woodpecker.svg', path: 'Animals/Birds/woodpecker.svg' },
+      { id: 'canary', name: 'Canary', file: 'Canary.svg', path: 'Animals/Birds/Canary.svg' },
+      { id: 'cardinal', name: 'Cardinal', file: 'Cardinal.svg', path: 'Animals/Birds/Cardinal.svg' },
+      { id: 'blue_jay', name: 'Blue Jay', file: 'Blue_Jay.svg', path: 'Animals/Birds/Blue_Jay.svg' },
+      { id: 'lovebirds', name: 'Lovebirds', file: 'Lovebirds.svg', path: 'Animals/Birds/Lovebirds.svg' },
+      { id: 'cockatoo', name: 'Cockatoo', file: 'Cockatoo.svg', path: 'Animals/Birds/Cockatoo.svg' },
+      { id: 'kingfisher', name: 'Kingfisher', file: 'Kingfisher.svg', path: 'Animals/Birds/Kingfisher.svg' },
+      { id: 'blue_penguin', name: 'Blue Penguin', file: 'blue_penguin.svg', path: 'Animals/Birds/blue_penguin.svg' },
+      { id: 'mandarin_duck', name: 'Mandarin Duck', file: 'mandarin_duck.svg', path: 'Animals/Birds/mandarin_duck.svg' },
+      { id: 'flamingo_chick', name: 'Flamingo Chick', file: 'Flamingo_Chick.svg', path: 'Animals/Birds/Flamingo_Chick.svg' },
+      { id: 'peacock', name: 'Peacock', file: 'Peacock.svg', path: 'Animals/Birds/Peacock.svg' },
+      { id: 'sparrow', name: 'Sparrow', file: 'Sparrow.svg', path: 'Animals/Birds/Sparrow.svg' },
+      { id: 'dove', name: 'Dove', file: 'Dove.svg', path: 'Animals/Birds/Dove.svg' },
+      { id: 'swallow', name: 'Swallow', file: 'Swallow.svg', path: 'Animals/Birds/Swallow.svg' },
+      { id: 'chickadee', name: 'Chickadee', file: 'chickadee.svg', path: 'Animals/Birds/chickadee.svg' },
+      { id: 'goldcrest', name: 'Goldcrest', file: 'goldcrest.svg', path: 'Animals/Birds/goldcrest.svg' },
+      { id: 'gouldian_finch', name: 'Gouldian Finch', file: 'gouldian_finch.svg', path: 'Animals/Birds/gouldian_finch.svg' },
+      { id: 'superb_fairy_wren', name: 'Fairy-Wren', file: 'fairy_wren.svg', path: 'Animals/Birds/fairy_wren.svg' },
+      { id: 'bohemian_waxwing', name: 'Bohemian Waxwing', file: 'bohemian_waxwing.svg', path: 'Animals/Birds/bohemian_waxwing.svg' },
+      { id: 'blue_motmot', name: 'Blue Motmot', file: 'blue_crowned_motmot.svg', path: 'Animals/Birds/blue_crowned_motmot.svg' },
+      { id: 'resplendent_quetzal', name: 'Quetzal', file: 'quetzal.svg', path: 'Animals/Birds/quetzal.svg' },
+      { id: 'seagull', name: 'Seagull', file: 'Seagull.svg', path: 'Animals/Birds/Seagull.svg' },
+      { id: 'pelican', name: 'Pelican', file: 'Pelican.svg', path: 'Animals/Birds/Pelican.svg' },
+      { id: 'duck_01', name: 'Mallard Duck', file: 'Duck_01.svg', path: 'Animals/Birds/Duck_01.svg' },
+      { id: 'ducks', name: 'Duck Family', file: 'Ducks.svg', path: 'Animals/Birds/Ducks.svg' },
+      { id: 'barnacle_goose', name: 'Barnacle Goose', file: 'barnacle_goose.svg', path: 'Animals/Birds/barnacle_goose.svg' },
+      { id: 'white_crane', name: 'White Crane', file: 'White_Crane.svg', path: 'Animals/Birds/White_Crane.svg' },
+      { id: 'crowned_crane', name: 'Crowned Crane', file: 'crowned_crane.svg', path: 'Animals/Birds/crowned_crane.svg' },
+      { id: 'stork', name: 'Stork', file: 'Stork.svg', path: 'Animals/Birds/Stork.svg' },
+      { id: 'crowned_pigeon', name: 'Crowned Pigeon', file: 'crowned_pigeon.svg', path: 'Animals/Birds/crowned_pigeon.svg' },
+      { id: 'pigeon', name: 'Pigeon', file: 'Pigeon.svg', path: 'Animals/Birds/Pigeon.svg' },
+      { id: 'roseate_spoonbill', name: 'Roseate Spoonbill', file: 'roseate_spoonbill.svg', path: 'Animals/Birds/roseate_spoonbill.svg' },
+      { id: 'scarlet_ibis', name: 'Scarlet Ibis', file: 'scarlet_ibis.svg', path: 'Animals/Birds/scarlet_ibis.svg' },
+      { id: 'songbird', name: 'Songbird', file: 'Songbird.svg', path: 'Animals/Birds/Songbird.svg' },
+      { id: 'kookaburra', name: 'Kookaburra', file: 'Kookaburra.svg', path: 'Animals/Birds/Kookaburra.svg' },
+      { id: 'woodpeckers', name: 'Woodpecker Pair', file: 'Woodpeckers.svg', path: 'Animals/Birds/Woodpeckers.svg' },
+      { id: 'owls', name: 'Twin Owls', file: 'Owls.svg', path: 'Animals/Birds/Owls.svg' },
+      { id: 'great_hornbill', name: 'Great Hornbill', file: 'Great_Hornbill.svg', path: 'Animals/Birds/Great_Hornbill.svg' },
+      { id: 'hoopoe', name: 'Hoopoe', file: 'Hoopoe.svg', path: 'Animals/Birds/Hoopoe.svg' },
+      { id: 'blue_footed_booby', name: 'Blue-Footed Booby', file: 'Blue-Footed_Booby.svg', path: 'Animals/Birds/Blue-Footed_Booby.svg' },
+      { id: 'macaw_parrot', name: 'Macaw Parrot', file: 'Macaw_Parrot.svg', path: 'Animals/Birds/Macaw_Parrot.svg' },
+      { id: 'kiwi_bird', name: 'Kiwi Bird', file: 'Kiwi_Bird.svg', path: 'Animals/Birds/Kiwi_Bird.svg' },
+      { id: 'ostrich', name: 'Ostrich', file: 'Ostrich.svg', path: 'Animals/Birds/Ostrich.svg' },
+      { id: 'roadrunner', name: 'Roadrunner', file: 'Roadrunner.svg', path: 'Animals/Birds/Roadrunner.svg' },
+      { id: 'albatross', name: 'Albatross', file: 'Albatross.svg', path: 'Animals/Birds/Albatross.svg' },
+      { id: 'magpie', name: 'Magpie', file: 'Magpie.svg', path: 'Animals/Birds/Magpie.svg' },
+      { id: 'cuckoo_bird', name: 'Cuckoo Bird', file: 'Cuckoo_Bird.svg', path: 'Animals/Birds/Cuckoo_Bird.svg' },
+      { id: 'eagle', name: 'Eagle', file: 'Eagle.svg', path: 'Animals/Birds/Eagle.svg' },
+      { id: 'falcon', name: 'Falcon', file: 'Falcon.svg', path: 'Animals/Birds/Falcon.svg' },
+      { id: 'hawk', name: 'Hawk', file: 'Hawk.svg', path: 'Animals/Birds/Hawk.svg' },
+      { id: 'osprey', name: 'Osprey', file: 'osprey.svg', path: 'Animals/Birds/osprey.svg' },
+      { id: 'swallow_tailed_kite', name: 'Swallow-Tailed Kite', file: 'Swallow-Tailed_Kite.svg', path: 'Animals/Birds/Swallow-Tailed_Kite.svg' },
+      { id: 'raven', name: 'Raven', file: 'Raven.svg', path: 'Animals/Birds/Raven.svg' },
+      { id: 'crow', name: 'Black Crow', file: 'Crow.svg', path: 'Animals/Birds/Crow.svg' },
+      { id: 'crow_02', name: 'Cawing Crow', file: 'Crow_02.svg', path: 'Animals/Birds/Crow_02.svg' },
+      { id: 'kakapo', name: 'Kakapo', file: 'Kakapo.svg', path: 'Animals/Birds/Kakapo.svg' },
+      { id: 'shoebill_stork', name: 'Shoebill Stork', file: 'Shoebill_Stork.svg', path: 'Animals/Birds/Shoebill_Stork.svg' },
+      { id: 'secretary_bird', name: 'Secretary Bird', file: 'Secretary_Bird.svg', path: 'Animals/Birds/Secretary_Bird.svg' },
+      { id: 'umbrellabird', name: 'Umbrellabird', file: 'Umbrellabird.svg', path: 'Animals/Birds/Umbrellabird.svg' },
+      { id: 'lyrebird', name: 'Lyrebird', file: 'Lyrebird.svg', path: 'Animals/Birds/Lyrebird.svg' },
+      { id: 'hoatzin', name: 'Hoatzin', file: 'hoatzin.svg', path: 'Animals/Birds/hoatzin.svg' },
+      { id: 'capercaillie', name: 'Forest Capercaillie', file: 'Capercaillie.svg', path: 'Animals/Birds/Capercaillie.svg' },
+      { id: 'capercaillie_01', name: 'Woodland Capercaillie', file: 'Capercaillie_01.svg', path: 'Animals/Birds/Capercaillie_01.svg' },
+    ]
+  },
+  {
+    id: 'dinosaurs',
+    name: 'Dinosaurs',
+    shortName: 'Dinosaurs',
+    title: 'Mighty Dino World',
+    emoji: '🦖',
+    icon: 'Categories/Dinosaur.webp',
+    circleBg: '#e07a5f',
+    color: '#c85a3a',
+    bg: '#fef7f2',
+    animals: [
+      { id: 'baby_t_rex_01', name: 'Baby T-Rex', file: 'Baby_T-Rex_01.svg', path: 'Animals/Dinosaurs/Baby_T-Rex_01.svg' },
+      { id: 'triceratops_01', name: 'Triceratops', file: 'Triceratops_01.svg', path: 'Animals/Dinosaurs/Triceratops_01.svg' },
+      { id: 'baby_brachiosaurus_01', name: 'Baby Brachiosaur', file: 'Baby_Brachiosaurus_01.svg', path: 'Animals/Dinosaurs/Baby_Brachiosaurus_01.svg' },
+      { id: 'stegosaurus_01', name: 'Plate Stegosaur', file: 'Stegosaurus_01.svg', path: 'Animals/Dinosaurs/Stegosaurus_01.svg' },
+      { id: 'pterodactyl_01', name: 'Flying Pterodactyl', file: 'Pterodactyl_01.svg', path: 'Animals/Dinosaurs/Pterodactyl_01.svg' },
+      { id: 'baby_dinosaur', name: 'Dino', file: 'Baby_Dinosaur.svg', path: 'Animals/Dinosaurs/Baby_Dinosaur.svg' },
+      { id: 'ankylosaurus_01', name: 'Ankylosaurus', file: 'Ankylosaurus_01.svg', path: 'Animals/Dinosaurs/Ankylosaurus_01.svg' },
+      { id: 'woolly_mammoth', name: 'Mammoth', file: 'Woolly_Mammoth.svg', path: 'Animals/Dinosaurs/Woolly_Mammoth.svg' },
+      { id: 'apatosaurus', name: 'Apatosaurus', file: 'apatosaurus.svg', path: 'Animals/Dinosaurs/apatosaurus.svg' },
+      { id: 'spinosaurus_01', name: 'Spinosaurus', file: 'Spinosaurus_01.svg', path: 'Animals/Dinosaurs/Spinosaurus_01.svg' },
+      { id: 'velociraptor_01', name: 'Velociraptor', file: 'Velociraptor_01.svg', path: 'Animals/Dinosaurs/Velociraptor_01.svg' },
+      { id: 'parasaurolophus', name: 'Parasaurolophus', file: 'parasaurolophus.svg', path: 'Animals/Dinosaurs/parasaurolophus.svg' },
+      { id: 'baby_therizinosaurus', name: 'Baby Therizino', file: 'baby_therizinosaurus.svg', path: 'Animals/Dinosaurs/baby_therizinosaurus.svg' },
+      { id: 'maiasaura', name: 'Maiasaura', file: 'maiasaura.svg', path: 'Animals/Dinosaurs/maiasaura.svg' },
+      { id: 'pachycephalosaurus', name: 'Pachycephalo', file: 'pachycephalosaurus.svg', path: 'Animals/Dinosaurs/pachycephalosaurus.svg' },
+      { id: 'diplodocus', name: 'Diplodocus', file: 'Diplodocus.svg', path: 'Animals/Dinosaurs/Diplodocus.svg' },
+      { id: 'baby_duckbill', name: 'Baby Duckbill', file: 'baby_duckbill.svg', path: 'Animals/Dinosaurs/baby_duckbill.svg' },
+      { id: 'styracosaurus', name: 'Styracosaurus', file: 'styracosaurus.svg', path: 'Animals/Dinosaurs/styracosaurus.svg' },
+      { id: 'brachiosaurus_gentle', name: 'Tall Brachiosaur', file: 'brachiosaurus.svg', path: 'Animals/Dinosaurs/brachiosaurus.svg' },
+      { id: 'stegosaurus_spiky', name: 'Spiky Stegosaur', file: 'stegosaurus.svg', path: 'Animals/Dinosaurs/stegosaurus.svg' },
+      { id: 't_rex_02', name: 'Mighty T-Rex', file: 'Tyrannosaurus_Rex_02.svg', path: 'Animals/Dinosaurs/Tyrannosaurus_Rex_02.svg' },
+      { id: 'pterodactyl_soaring', name: 'Soaring Pterosaur', file: 'pterodactyl.svg', path: 'Animals/Dinosaurs/pterodactyl.svg' },
+      { id: 'camarasaurus', name: 'Camarasaurus', file: 'camarasaurus.svg', path: 'Animals/Dinosaurs/camarasaurus.svg' },
+      { id: 'edmontosaurus', name: 'Edmontosaurus', file: 'edmontosaurus.svg', path: 'Animals/Dinosaurs/edmontosaurus.svg' },
+      { id: 'euoplocephalus', name: 'Euoplocephalus', file: 'euoplocephalus.svg', path: 'Animals/Dinosaurs/euoplocephalus.svg' },
+      { id: 'gallimimus', name: 'Gallimimus', file: 'gallimimus.svg', path: 'Animals/Dinosaurs/gallimimus.svg' },
+      { id: 'protoceratops_01', name: 'Protoceratops', file: 'protoceratops_01.svg', path: 'Animals/Dinosaurs/protoceratops_01.svg' },
+      { id: 'microceratus', name: 'Microceratus', file: 'microceratus.svg', path: 'Animals/Dinosaurs/microceratus.svg' },
+      { id: 'ouranosaurus', name: 'Ouranosaurus', file: 'ouranosaurus.svg', path: 'Animals/Dinosaurs/ouranosaurus.svg' },
+      { id: 'struthiomimus', name: 'Struthiomimus', file: 'struthiomimus.svg', path: 'Animals/Dinosaurs/struthiomimus.svg' },
+      { id: 'struthiomimus_runner', name: 'Struthio Runner', file: 'struthiomimus_01.svg', path: 'Animals/Dinosaurs/struthiomimus_01.svg' },
+      { id: 'deinocheirus', name: 'Deinocheirus', file: 'deinocheirus.svg', path: 'Animals/Dinosaurs/deinocheirus.svg' },
+      { id: 'corythosaurus', name: 'Corythosaurus', file: 'Corythosaurus.svg', path: 'Animals/Dinosaurs/Corythosaurus.svg' },
+      { id: 'iguanodon', name: 'Iguanodon', file: 'Iguanodon.svg', path: 'Animals/Dinosaurs/Iguanodon.svg' },
+      { id: 'oviraptor', name: 'Oviraptor', file: 'Oviraptor.svg', path: 'Animals/Dinosaurs/Oviraptor.svg' },
+      { id: 'plesiosaur', name: 'Plesiosaur', file: 'Plesiosaur.svg', path: 'Animals/Dinosaurs/Plesiosaur.svg' },
+      { id: 'quetzalcoatlus', name: 'Quetzalcoatlus', file: 'Quetzalcoatlus.svg', path: 'Animals/Dinosaurs/Quetzalcoatlus.svg' },
+      { id: 'megatherium', name: 'Megatherium', file: 'megatherium.svg', path: 'Animals/Dinosaurs/megatherium.svg' },
+      { id: 'sabertooth_tiger', name: 'Sabertooth', file: 'Sabertooth_Tiger.svg', path: 'Animals/Dinosaurs/Sabertooth_Tiger.svg' },
+      { id: 'megalodon', name: 'Megalodon', file: 'Megalodon.svg', path: 'Animals/Dinosaurs/Megalodon.svg' },
+      { id: 'dodo_bird', name: 'Dodo', file: 'Dodo_Bird.svg', path: 'Animals/Dinosaurs/Dodo_Bird.svg' },
+    ]
+  },
+  {
+    id: 'insects',
+    name: 'Insects',
+    shortName: 'Insects',
+    title: 'Little Bugs & Insects',
+    emoji: '🐝',
+    icon: 'Categories/Honeybee.svg',
+    circleBg: '#fb923c',
+    color: '#ea580c',
+    bg: '#fff8f5',
+    animals: [
+      { id: 'butterfly', name: 'Painted Butterfly', file: 'Butterfly.svg', path: 'Animals/Insects/Butterfly.svg' },
+      { id: 'ladybug_safe', name: 'Ladybug', file: 'ladybug.svg', path: 'Animals/Insects/ladybug.svg' },
+      { id: 'bumblebee', name: 'Bumblebee', file: 'Bumblebee.svg', path: 'Animals/Insects/Bumblebee.svg' },
+      { id: 'caterpillar', name: 'Caterpillar', file: 'Caterpillar.svg', path: 'Animals/Insects/Caterpillar.svg' },
+      { id: 'dragonfly', name: 'Dragonfly', file: 'Dragonfly.svg', path: 'Animals/Insects/Dragonfly.svg' },
+      { id: 'snail_safe', name: 'Snail', file: 'snail.svg', path: 'Animals/Insects/snail.svg' },
+      { id: 'firefly', name: 'Firefly', file: 'Firefly.svg', path: 'Animals/Insects/Firefly.svg' },
+      { id: 'monarch_butterfly', name: 'Monarch Butterfly', file: 'Monarch_Butterfly.svg', path: 'Animals/Insects/Monarch_Butterfly.svg' },
+      { id: 'grasshopper_safe', name: 'Grasshopper', file: 'grasshopper.svg', path: 'Animals/Insects/grasshopper.svg' },
+      { id: 'roly_poly', name: 'Roly-Poly', file: 'roly_poly.svg', path: 'Animals/Insects/roly_poly.svg' },
+      { id: 'blue_morpho', name: 'Blue Morpho', file: 'blue_morpho.svg', path: 'Animals/Insects/blue_morpho.svg' },
+      { id: 'ant', name: 'Ant', file: 'Ant.svg', path: 'Animals/Insects/Ant.svg' },
+      { id: 'spider_safe', name: 'Jumping Spider', file: 'spider.svg', path: 'Animals/Insects/spider.svg' },
+      { id: 'glowworm', name: 'Glowworm', file: 'glowworm.svg', path: 'Animals/Insects/glowworm.svg' },
+      { id: 'silkworm', name: 'Silkworm', file: 'Silkworm.svg', path: 'Animals/Insects/Silkworm.svg' },
+      { id: 'swallowtail_butterfly', name: 'Swallowtail', file: 'swallowtail_butterfly.svg', path: 'Animals/Insects/swallowtail_butterfly.svg' },
+      { id: 'peacock_butterfly', name: 'Peacock Butterfly', file: 'peacock_butterfly.svg', path: 'Animals/Insects/peacock_butterfly.svg' },
+      { id: 'damselfly', name: 'Damselfly', file: 'damselfly.svg', path: 'Animals/Insects/damselfly.svg' },
+      { id: 'cricket', name: 'Cricket', file: 'Cricket.svg', path: 'Animals/Insects/Cricket.svg' },
+      { id: 'rhinoceros_beetle', name: 'Rhinoceros Beetle', file: 'Rhinoceros_Beetle.svg', path: 'Animals/Insects/Rhinoceros_Beetle.svg' },
+      { id: 'luna_moth', name: 'Luna Moth', file: 'Luna_Moth.svg', path: 'Animals/Insects/Luna_Moth.svg' },
+      { id: 'atlas_moth', name: 'Atlas Moth', file: 'atlas_moth.svg', path: 'Animals/Insects/atlas_moth.svg' },
+      { id: 'jewel_beetle', name: 'Jewel Beetle', file: 'Jewel_Beetle.svg', path: 'Animals/Insects/Jewel_Beetle.svg' },
+      { id: 'bee_wild', name: 'Honey Bee', file: 'Bee.svg', path: 'Animals/Insects/Bee.svg' },
+      { id: 'hercules_beetle', name: 'Hercules Beetle', file: 'Hercules_Beetle.svg', path: 'Animals/Insects/Hercules_Beetle.svg' },
+      { id: 'stag_beetle', name: 'Stag Beetle', file: 'Stag_Beetle.svg', path: 'Animals/Insects/Stag_Beetle.svg' },
+      { id: 'tortoise_beetle', name: 'Tortoise Beetle', file: 'tortoise_beetle.svg', path: 'Animals/Insects/tortoise_beetle.svg' },
+      { id: 'leaf_insect', name: 'Leaf Insect', file: 'leaf_insect.svg', path: 'Animals/Insects/leaf_insect.svg' },
+      { id: 'fairy_bug', name: 'Fairy Bug', file: 'fairy_bug.svg', path: 'Animals/Insects/fairy_bug.svg' },
+      { id: 'woolly_bear', name: 'Woolly Bear', file: 'woolly_bear.svg', path: 'Animals/Insects/woolly_bear.svg' },
+      { id: 'acorn_weevil', name: 'Acorn Weevil', file: 'acorn_weevil.svg', path: 'Animals/Insects/acorn_weevil.svg' },
+      { id: 'beetle', name: 'Garden Beetle', file: 'Beetle.svg', path: 'Animals/Insects/Beetle.svg' },
+      { id: 'shield_bug', name: 'Shield Bug', file: 'Shield_Bug.svg', path: 'Animals/Insects/Shield_Bug.svg' },
+      { id: 'cicada', name: 'Cicada', file: 'Cicada.svg', path: 'Animals/Insects/Cicada.svg' },
+      { id: 'walking_stick', name: 'Walking Stick', file: 'walking_stick.svg', path: 'Animals/Insects/walking_stick.svg' },
+      { id: 'water_strider', name: 'Water Strider', file: 'Water_Strider.svg', path: 'Animals/Insects/Water_Strider.svg' },
+      { id: 'water_boatman', name: 'Water Boatman', file: 'water_boatman.svg', path: 'Animals/Insects/water_boatman.svg' },
+      { id: 'june_bug', name: 'June Bug', file: 'june_bug.svg', path: 'Animals/Insects/june_bug.svg' },
+      { id: 'katydid', name: 'Katydid', file: 'katydid.svg', path: 'Animals/Insects/katydid.svg' },
+      { id: 'praying_mantis', name: 'Praying Mantis', file: 'Praying_Mantis.svg', path: 'Animals/Insects/Praying_Mantis.svg' },
+      { id: 'millipede_01', name: 'Little Millipede', file: 'Millipede_01.svg', path: 'Animals/Insects/Millipede_01.svg' },
+    ]
+  }
+];
+
+// Double-lock sanitizer: strictly filters out any Black or White from the 3 quick primary crayons
+function sanitizePrimaryPalette(palette) {
+  const BLACK_LIST = ['#000000', '#1e293b', '#0f172a', '#111827', '#18181b', '#27272a'];
+  const WHITE_LIST = ['#ffffff', '#fff', '#fefefe', '#fafafa', '#f8fafc', '#faf8f5'];
+  const VIBRANTS = [
+    { hex: '#f97316', name: 'Warm Orange' },
+    { hex: '#eab308', name: 'Sunny Yellow' },
+    { hex: '#22c55e', name: 'Meadow Green' },
+    { hex: '#3b82f6', name: 'Sky Blue' },
+    { hex: '#ec4899', name: 'Candy Pink' },
+    { hex: '#a855f7', name: 'Violet Purple' },
+    { hex: '#14b8a6', name: 'Ocean Teal' }
+  ];
+  let repIdx = 0;
+
+  return palette.map(c => {
+    const hex = (c.hex || '').toLowerCase();
+    const isBlack = BLACK_LIST.includes(hex) || hex.startsWith('#1e29');
+    const isWhite = c.isWhite || WHITE_LIST.includes(hex);
+    if (isBlack || isWhite) {
+      const fb = VIBRANTS[repIdx++ % VIBRANTS.length];
+      return { hex: fb.hex, name: fb.name };
+    }
+    return c;
+  });
+}
+
+// Returns 3 vibrant curated animal-specific colors with NO Black and NO White
+export function getAnimalColors(animal, categoryId) {
+  const raw = `${animal?.name || ''} ${animal?.id || ''} ${animal?.file || ''}`.toLowerCase();
+  const name = raw.replace(/[-_]/g, ' ');
+
+  // === 1. ROOSTER, CHICKEN, HEN, CHICK ===
+  if (name.includes('rooster')) {
+    return sanitizePrimaryPalette([
+      { hex: '#ef4444', name: 'Crimson Red' },
+      { hex: '#f59e0b', name: 'Amber Gold' },
+      { hex: '#ea580c', name: 'Deep Orange' }
+    ]);
+  }
+  if (name.includes('chicken') || name.includes('hen') || name.includes('bantam')) {
+    return sanitizePrimaryPalette([
+      { hex: '#ef4444', name: 'Comb Red' },
+      { hex: '#f97316', name: 'Warm Orange' },
+      { hex: '#facc15', name: 'Sunny Gold' }
+    ]);
+  }
+  if (name.includes('chick')) {
+    return sanitizePrimaryPalette([
+      { hex: '#fde047', name: 'Fluffy Yellow' },
+      { hex: '#f97316', name: 'Beak Orange' },
+      { hex: '#22c55e', name: 'Pasture Green' }
+    ]);
+  }
+
+  // === 2. HORSE, PONY, FOAL, MULE, DONKEY ===
+  if (name.includes('horse') || name.includes('foal') || name.includes('stallion')) {
+    return sanitizePrimaryPalette([
+      { hex: '#78350f', name: 'Chestnut Brown' },
+      { hex: '#b45309', name: 'Light Brown' },
+      { hex: '#f59e0b', name: 'Caramel Gold' }
+    ]);
+  }
+  if (name.includes('pony')) {
+    return sanitizePrimaryPalette([
+      { hex: '#854d0e', name: 'Pony Brown' },
+      { hex: '#d97706', name: 'Warm Tan' },
+      { hex: '#f59e0b', name: 'Honey Gold' }
+    ]);
+  }
+  if (name.includes('donkey') || name.includes('mule')) {
+    return sanitizePrimaryPalette([
+      { hex: '#64748b', name: 'Slate Gray' },
+      { hex: '#d97706', name: 'Warm Tan' },
+      { hex: '#f59e0b', name: 'Muzzle Gold' }
+    ]);
+  }
+
+  // === 3. CATTLE: COW, CALF, HIGHLAND, OX, YAK, BUFFALO, BISON, ZEBU ===
+  if (name.includes('highland')) {
+    return sanitizePrimaryPalette([
+      { hex: '#78350f', name: 'Deep Auburn' },
+      { hex: '#ea580c', name: 'Highland Rust' },
+      { hex: '#f59e0b', name: 'Horn Gold' }
+    ]);
+  }
+  if (name.includes('ox') || name.includes('yak') || name.includes('buffalo') || name.includes('bison')) {
+    return sanitizePrimaryPalette([
+      { hex: '#78350f', name: 'Shaggy Brown' },
+      { hex: '#b45309', name: 'Light Brown' },
+      { hex: '#f59e0b', name: 'Horn Gold' }
+    ]);
+  }
+  if (name.includes('cow') || name.includes('calf') || name.includes('zebu')) {
+    return sanitizePrimaryPalette([
+      { hex: '#d97706', name: 'Tan Patch' },
+      { hex: '#f472b6', name: 'Snout Pink' },
+      { hex: '#22c55e', name: 'Pasture Green' }
+    ]);
+  }
+
+  // === 4. SHEEP, LAMB, GOAT ===
+  if (name.includes('sheep') || name.includes('lamb')) {
+    return sanitizePrimaryPalette([
+      { hex: '#38bdf8', name: 'Sky Cyan' },
+      { hex: '#f472b6', name: 'Ear Pink' },
+      { hex: '#22c55e', name: 'Meadow Green' }
+    ]);
+  }
+  if (name.includes('goat')) {
+    return sanitizePrimaryPalette([
+      { hex: '#b45309', name: 'Light Brown' },
+      { hex: '#f59e0b', name: 'Horn Amber' },
+      { hex: '#22c55e', name: 'Grass Green' }
+    ]);
+  }
+
+  // === 5. PIG & HOG ===
+  if (name.includes('pig') || name.includes('hog') || name.includes('warthog')) {
+    return sanitizePrimaryPalette([
+      { hex: '#ec4899', name: 'Rosy Pink' },
+      { hex: '#fb7185', name: 'Cheek Rose' },
+      { hex: '#d97706', name: 'Mud Tan' }
+    ]);
+  }
+
+  // === 6. CAMEL, ALPACA, LLAMA, VICUNA, GUANACO ===
+  if (name.includes('camel')) {
+    return sanitizePrimaryPalette([
+      { hex: '#d97706', name: 'Desert Tan' },
+      { hex: '#f59e0b', name: 'Warm Amber' },
+      { hex: '#14b8a6', name: 'Oasis Teal' }
+    ]);
+  }
+  if (name.includes('alpaca') || name.includes('llama') || name.includes('vicuna') || name.includes('guanaco')) {
+    return sanitizePrimaryPalette([
+      { hex: '#b45309', name: 'Light Brown' },
+      { hex: '#f59e0b', name: 'Wool Gold' },
+      { hex: '#f472b6', name: 'Rosy Ear' }
+    ]);
+  }
+
+  // === 7. RABBIT & BUNNY ===
+  if (name.includes('rabbit') || name.includes('bunny') || name.includes('hare')) {
+    return sanitizePrimaryPalette([
+      { hex: '#f472b6', name: 'Ear Pink' },
+      { hex: '#f97316', name: 'Carrot Orange' },
+      { hex: '#38bdf8', name: 'Sky Cyan' }
+    ]);
+  }
+
+  // === 8. WATERFOWL: DUCK, DUCKLING, GOOSE, SWAN, TURKEY ===
+  if (name.includes('duck') || name.includes('duckling') || name.includes('mallard')) {
+    return sanitizePrimaryPalette([
+      { hex: '#facc15', name: 'Sunny Yellow' },
+      { hex: '#f97316', name: 'Bill Orange' },
+      { hex: '#15803d', name: 'Mallard Green' }
+    ]);
+  }
+  if (name.includes('goose') || name.includes('gosling')) {
+    return sanitizePrimaryPalette([
+      { hex: '#f97316', name: 'Beak Orange' },
+      { hex: '#38bdf8', name: 'Pond Blue' },
+      { hex: '#22c55e', name: 'Reed Green' }
+    ]);
+  }
+  if (name.includes('swan')) {
+    return sanitizePrimaryPalette([
+      { hex: '#38bdf8', name: 'Lake Aqua' },
+      { hex: '#f97316', name: 'Beak Orange' },
+      { hex: '#f472b6', name: 'Lotus Pink' }
+    ]);
+  }
+  if (name.includes('turkey')) {
+    return sanitizePrimaryPalette([
+      { hex: '#ef4444', name: 'Wattle Red' },
+      { hex: '#b45309', name: 'Feather Brown' },
+      { hex: '#f59e0b', name: 'Harvest Gold' }
+    ]);
+  }
+
+  // === 9. DOGS & PUPS ===
+  if (name.includes('retriever') || name.includes('corgi') || name.includes('pomeranian')) {
+    return sanitizePrimaryPalette([
+      { hex: '#eab308', name: 'Golden Fur' },
+      { hex: '#d97706', name: 'Warm Tan' },
+      { hex: '#ef4444', name: 'Collar Red' }
+    ]);
+  }
+  if (name.includes('bulldog') || name.includes('pug') || name.includes('basset') || name.includes('beagle') || name.includes('hound') || name.includes('saint bernard') || name.includes('collie') || name.includes('dachshund')) {
+    return sanitizePrimaryPalette([
+      { hex: '#854d0e', name: 'Saddle Brown' },
+      { hex: '#d97706', name: 'Tan Snout' },
+      { hex: '#3b82f6', name: 'Collar Blue' }
+    ]);
+  }
+  if (name.includes('husky') || name.includes('dalmatian') || name.includes('poodle') || name.includes('chihuahua') || name.includes('shih tzu') || name.includes('shihtzu') || name.includes('yorkie') || name.includes('dog')) {
+    return sanitizePrimaryPalette([
+      { hex: '#2563eb', name: 'Collar Royal Blue' },
+      { hex: '#d97706', name: 'Warm Tan' },
+      { hex: '#ef4444', name: 'Collar Red' }
+    ]);
+  }
+
+  // === 10. CATS & KITTENS ===
+  if (name.includes('ginger') || name.includes('munchkin')) {
+    return sanitizePrimaryPalette([
+      { hex: '#f97316', name: 'Ginger Orange' },
+      { hex: '#facc15', name: 'Honey Gold' },
+      { hex: '#f472b6', name: 'Snout Pink' }
+    ]);
+  }
+  if (name.includes('cat') || name.includes('kitten')) {
+    return sanitizePrimaryPalette([
+      { hex: '#d97706', name: 'Calico Tan' },
+      { hex: '#0284c7', name: 'Jewel Blue' },
+      { hex: '#f472b6', name: 'Nose Pink' }
+    ]);
+  }
+
+  // === 11. SMALL PETS & WOODLAND CRITTERS ===
+  if (name.includes('hedgehog') || name.includes('porcupine')) {
+    return sanitizePrimaryPalette([
+      { hex: '#78350f', name: 'Quill Brown' },
+      { hex: '#d97706', name: 'Belly Tan' },
+      { hex: '#22c55e', name: 'Apple Green' }
+    ]);
+  }
+  if (name.includes('mouse') || name.includes('hamster') || name.includes('guinea') || name.includes('ferret') || name.includes('chinchilla') || name.includes('gerbil') || name.includes('sugar glider')) {
+    return sanitizePrimaryPalette([
+      { hex: '#d97706', name: 'Warm Tan' },
+      { hex: '#f472b6', name: 'Nose Pink' },
+      { hex: '#facc15', name: 'Seed Gold' }
+    ]);
+  }
+  if (name.includes('squirrel') || name.includes('chipmunk')) {
+    return sanitizePrimaryPalette([
+      { hex: '#854d0e', name: 'Acorn Brown' },
+      { hex: '#b45309', name: 'Light Brown' },
+      { hex: '#f59e0b', name: 'Belly Gold' }
+    ]);
+  }
+  if (name.includes('beaver') || name.includes('platypus') || name.includes('otter') || name.includes('capybara')) {
+    return sanitizePrimaryPalette([
+      { hex: '#78350f', name: 'River Brown' },
+      { hex: '#b45309', name: 'Light Brown' },
+      { hex: '#38bdf8', name: 'Stream Aqua' }
+    ]);
+  }
+  if (name.includes('sloth')) {
+    return sanitizePrimaryPalette([
+      { hex: '#854d0e', name: 'Cozy Brown' },
+      { hex: '#b45309', name: 'Light Brown' },
+      { hex: '#22c55e', name: 'Canopy Green' }
+    ]);
+  }
+  if (name.includes('armadillo') || name.includes('pangolin') || name.includes('tamandua') || name.includes('anteater') || name.includes('aardvark') || name.includes('paca') || name.includes('agouti')) {
+    return sanitizePrimaryPalette([
+      { hex: '#854d0e', name: 'Shell Brown' },
+      { hex: '#d97706', name: 'Warm Tan' },
+      { hex: '#f59e0b', name: 'Golden Amber' }
+    ]);
+  }
+  if (name.includes('skunk') || name.includes('badger') || name.includes('raccoon') || name.includes('opossum') || name.includes('zorilla') || name.includes('tasmanian devil') || name.includes('aye aye')) {
+    return sanitizePrimaryPalette([
+      { hex: '#4338ca', name: 'Midnight Indigo' },
+      { hex: '#8b5cf6', name: 'Striped Violet' },
+      { hex: '#facc15', name: 'Moon Gold' }
+    ]);
+  }
+  if (name.includes('meerkat')) {
+    return sanitizePrimaryPalette([
+      { hex: '#d97706', name: 'Desert Amber' },
+      { hex: '#eab308', name: 'Sun Sand' },
+      { hex: '#854d0e', name: 'Earth Brown' }
+    ]);
+  }
+  if (name.includes('bat')) {
+    return sanitizePrimaryPalette([
+      { hex: '#6366f1', name: 'Wing Indigo' },
+      { hex: '#a855f7', name: 'Night Violet' },
+      { hex: '#facc15', name: 'Moon Gold' }
+    ]);
+  }
+  if (name.includes('okapi')) {
+    return sanitizePrimaryPalette([
+      { hex: '#78350f', name: 'Rich Mahogany' },
+      { hex: '#3b82f6', name: 'Leg Indigo' },
+      { hex: '#f59e0b', name: 'Warm Gold' }
+    ]);
+  }
+  if (name.includes('tapir')) {
+    return sanitizePrimaryPalette([
+      { hex: '#854d0e', name: 'Earth Brown' },
+      { hex: '#fb7185', name: 'Cheek Peach' },
+      { hex: '#22c55e', name: 'Forest Green' }
+    ]);
+  }
+  if (name.includes('kinkajou') || name.includes('coatimundi') || name.includes('binturong') || name.includes('colugo') || name.includes('fossa')) {
+    return sanitizePrimaryPalette([
+      { hex: '#854d0e', name: 'Jungle Brown' },
+      { hex: '#b45309', name: 'Light Brown' },
+      { hex: '#facc15', name: 'Honey Amber' }
+    ]);
+  }
+
+  // === 12. JUNGLE BIG CATS ===
+  if (name.includes('lion')) {
+    return sanitizePrimaryPalette([
+      { hex: '#eab308', name: 'Golden Fur' },
+      { hex: '#ea580c', name: 'Mane Amber' },
+      { hex: '#d97706', name: 'Warm Tan' }
+    ]);
+  }
+  if (name.includes('tiger') || name.includes('sabertooth')) {
+    return sanitizePrimaryPalette([
+      { hex: '#f97316', name: 'Tiger Orange' },
+      { hex: '#eab308', name: 'Sunburst Gold' },
+      { hex: '#ea580c', name: 'Amber Rust' }
+    ]);
+  }
+  if (name.includes('cheetah') || name.includes('leopard') || name.includes('jaguar')) {
+    return sanitizePrimaryPalette([
+      { hex: '#facc15', name: 'Cheetah Gold' },
+      { hex: '#ea580c', name: 'Amber Spot' },
+      { hex: '#b45309', name: 'Savannah Tan' }
+    ]);
+  }
+  if (name.includes('panther')) {
+    return sanitizePrimaryPalette([
+      { hex: '#4338ca', name: 'Midnight Indigo' },
+      { hex: '#eab308', name: 'Gold Eyes' },
+      { hex: '#10b981', name: 'Jungle Emerald' }
+    ]);
+  }
+
+  // === 13. ELEPHANTS, RHINOS, HIPPOS ===
+  if (name.includes('elephant')) {
+    return sanitizePrimaryPalette([
+      { hex: '#38bdf8', name: 'Sky Aqua' },
+      { hex: '#f472b6', name: 'Rosy Cheek' },
+      { hex: '#facc15', name: 'Safari Gold' }
+    ]);
+  }
+  if (name.includes('hippo')) {
+    return sanitizePrimaryPalette([
+      { hex: '#60a5fa', name: 'River Blue' },
+      { hex: '#f472b6', name: 'Blossom Pink' },
+      { hex: '#22c55e', name: 'Grass Green' }
+    ]);
+  }
+  if (name.includes('rhino')) {
+    return sanitizePrimaryPalette([
+      { hex: '#60a5fa', name: 'Savannah Blue' },
+      { hex: '#f59e0b', name: 'Horn Gold' },
+      { hex: '#d97706', name: 'Earth Amber' }
+    ]);
+  }
+
+  // === 14. GIRAFFE & ZEBRA ===
+  if (name.includes('giraffe')) {
+    return sanitizePrimaryPalette([
+      { hex: '#eab308', name: 'Giraffe Yellow' },
+      { hex: '#78350f', name: 'Patch Brown' },
+      { hex: '#d97706', name: 'Warm Tan' }
+    ]);
+  }
+  if (name.includes('zebra')) {
+    return sanitizePrimaryPalette([
+      { hex: '#2563eb', name: 'Safari Blue' },
+      { hex: '#f97316', name: 'Warm Orange' },
+      { hex: '#22c55e', name: 'Plains Green' }
+    ]);
+  }
+
+  // === 15. BEARS ===
+  if (name.includes('polar')) {
+    return sanitizePrimaryPalette([
+      { hex: '#38bdf8', name: 'Arctic Ice Blue' },
+      { hex: '#06b6d4', name: 'Frost Cyan' },
+      { hex: '#facc15', name: 'Sun Gold' }
+    ]);
+  }
+  if (name.includes('panda')) {
+    return sanitizePrimaryPalette([
+      { hex: '#22c55e', name: 'Bamboo Green' },
+      { hex: '#facc15', name: 'Honey Gold' },
+      { hex: '#f472b6', name: 'Blossom Pink' }
+    ]);
+  }
+  if (name.includes('bear')) {
+    return sanitizePrimaryPalette([
+      { hex: '#78350f', name: 'Bear Brown' },
+      { hex: '#b45309', name: 'Light Brown' },
+      { hex: '#f59e0b', name: 'Honey Amber' }
+    ]);
+  }
+
+  // === 16. PRIMATES ===
+  if (name.includes('tamarin')) {
+    return sanitizePrimaryPalette([
+      { hex: '#f59e0b', name: 'Golden Fur' },
+      { hex: '#ea580c', name: 'Mane Orange' },
+      { hex: '#22c55e', name: 'Canopy Green' }
+    ]);
+  }
+  if (name.includes('lemur') || name.includes('loris')) {
+    return sanitizePrimaryPalette([
+      { hex: '#f59e0b', name: 'Amber Eyes' },
+      { hex: '#8b5cf6', name: 'Velvet Violet' },
+      { hex: '#22c55e', name: 'Jungle Leaf' }
+    ]);
+  }
+  if (name.includes('monkey') || name.includes('chimp') || name.includes('baboon') || name.includes('gorilla') || name.includes('langur') || name.includes('proboscis') || name.includes('uakari') || name.includes('ape')) {
+    return sanitizePrimaryPalette([
+      { hex: '#78350f', name: 'Deep Brown' },
+      { hex: '#d97706', name: 'Tan Face' },
+      { hex: '#facc15', name: 'Banana Yellow' }
+    ]);
+  }
+
+  // === 17. DEER, FAWN, GAZELLE, MOOSE, DIK-DIK ===
+  if (name.includes('moose')) {
+    return sanitizePrimaryPalette([
+      { hex: '#78350f', name: 'Forest Brown' },
+      { hex: '#b45309', name: 'Antler Tan' },
+      { hex: '#16a34a', name: 'Pine Green' }
+    ]);
+  }
+  if (name.includes('deer') || name.includes('fawn') || name.includes('gazelle') || name.includes('antelope') || name.includes('dik dik') || name.includes('mara')) {
+    return sanitizePrimaryPalette([
+      { hex: '#854d0e', name: 'Fawn Brown' },
+      { hex: '#b45309', name: 'Light Tan' },
+      { hex: '#f59e0b', name: 'Amber Gold' }
+    ]);
+  }
+
+  // === 18. KANGAROO, KOALA, WOMBAT, QUOKKA ===
+  if (name.includes('koala')) {
+    return sanitizePrimaryPalette([
+      { hex: '#22c55e', name: 'Eucalyptus Green' },
+      { hex: '#a855f7', name: 'Lilac' },
+      { hex: '#f472b6', name: 'Ear Pink' }
+    ]);
+  }
+  if (name.includes('kangaroo') || name.includes('quokka') || name.includes('wombat') || name.includes('cuscus') || name.includes('wallaby')) {
+    return sanitizePrimaryPalette([
+      { hex: '#854d0e', name: 'Bush Brown' },
+      { hex: '#b45309', name: 'Light Brown' },
+      { hex: '#f59e0b', name: 'Outback Gold' }
+    ]);
+  }
+
+  // === 19. FOX & WOLF ===
+  if (name.includes('wolf') || name.includes('hyena') || name.includes('jackal')) {
+    return sanitizePrimaryPalette([
+      { hex: '#60a5fa', name: 'Sky Blue' },
+      { hex: '#854d0e', name: 'Coat Brown' },
+      { hex: '#f59e0b', name: 'Amber Gold' }
+    ]);
+  }
+  if (name.includes('fox')) {
+    return sanitizePrimaryPalette([
+      { hex: '#ea580c', name: 'Fox Red' },
+      { hex: '#f97316', name: 'Warm Orange' },
+      { hex: '#facc15', name: 'Chest Gold' }
+    ]);
+  }
+
+  // === 20. REPTILES & AMPHIBIANS ===
+  if (name.includes('crocodile') || name.includes('alligator') || name.includes('gharial')) {
+    return sanitizePrimaryPalette([
+      { hex: '#15803d', name: 'Croc Green' },
+      { hex: '#84cc16', name: 'Olive Lime' },
+      { hex: '#eab308', name: 'Eye Gold' }
+    ]);
+  }
+  if (name.includes('chameleon') || name.includes('gecko') || name.includes('iguana') || name.includes('lizard') || name.includes('komodo')) {
+    return sanitizePrimaryPalette([
+      { hex: '#10b981', name: 'Emerald Green' },
+      { hex: '#facc15', name: 'Sun Yellow' },
+      { hex: '#06b6d4', name: 'Vibrant Cyan' }
+    ]);
+  }
+  if (name.includes('frog') || name.includes('toad')) {
+    return sanitizePrimaryPalette([
+      { hex: '#16a34a', name: 'Tree Frog Green' },
+      { hex: '#84cc16', name: 'Spring Lime' },
+      { hex: '#facc15', name: 'Sunny Yellow' }
+    ]);
+  }
+
+  // === 21. AQUATIC ANIMALS ===
+  if (name.includes('axolotl')) {
+    return sanitizePrimaryPalette([
+      { hex: '#f472b6', name: 'Axolotl Pink' },
+      { hex: '#fb7185', name: 'Gill Rose' },
+      { hex: '#06b6d4', name: 'Glow Cyan' }
+    ]);
+  }
+  if (name.includes('manatee')) {
+    return sanitizePrimaryPalette([
+      { hex: '#60a5fa', name: 'Ocean Slate' },
+      { hex: '#38bdf8', name: 'Marine Aqua' },
+      { hex: '#22c55e', name: 'Seaweed Green' }
+    ]);
+  }
+  if (name.includes('leafy sea dragon')) {
+    return sanitizePrimaryPalette([
+      { hex: '#10b981', name: 'Emerald Leaf' },
+      { hex: '#06b6d4', name: 'Ocean Cyan' },
+      { hex: '#facc15', name: 'Coral Gold' }
+    ]);
+  }
+  if (name.includes('shell') || name.includes('conch') || name.includes('scallop') || name.includes('nautilus')) {
+    return sanitizePrimaryPalette([
+      { hex: '#fb7185', name: 'Peach Coral' },
+      { hex: '#facc15', name: 'Sand Gold' },
+      { hex: '#14b8a6', name: 'Seafoam Teal' }
+    ]);
+  }
+  if (name.includes('dolphin')) {
+    return sanitizePrimaryPalette([
+      { hex: '#38bdf8', name: 'Dolphin Blue' },
+      { hex: '#0284c7', name: 'Deep Ocean' },
+      { hex: '#f97316', name: 'Sunny Coral' }
+    ]);
+  }
+  if (name.includes('whale') || name.includes('beluga') || name.includes('narwhal')) {
+    return sanitizePrimaryPalette([
+      { hex: '#0284c7', name: 'Whale Blue' },
+      { hex: '#38bdf8', name: 'Iceberg Aqua' },
+      { hex: '#fb7185', name: 'Coral Pink' }
+    ]);
+  }
+  if (name.includes('shark') || name.includes('megalodon')) {
+    return sanitizePrimaryPalette([
+      { hex: '#0284c7', name: 'Deep Navy' },
+      { hex: '#38bdf8', name: 'Fin Aqua' },
+      { hex: '#fb7185', name: 'Coral Rose' }
+    ]);
+  }
+  if (name.includes('clown')) {
+    return sanitizePrimaryPalette([
+      { hex: '#f97316', name: 'Clown Orange' },
+      { hex: '#facc15', name: 'Sun Gold' },
+      { hex: '#06b6d4', name: 'Reef Cyan' }
+    ]);
+  }
+  if (name.includes('goldfish')) {
+    return sanitizePrimaryPalette([
+      { hex: '#f59e0b', name: 'Goldfish Shimmer' },
+      { hex: '#f97316', name: 'Fin Orange' },
+      { hex: '#38bdf8', name: 'Water Aqua' }
+    ]);
+  }
+  if (name.includes('angelfish') || name.includes('tang') || name.includes('betta') || name.includes('fish') || name.includes('manta') || (name.includes('ray') && !name.includes('praying'))) {
+    return sanitizePrimaryPalette([
+      { hex: '#06b6d4', name: 'Tropical Cyan' },
+      { hex: '#facc15', name: 'Radiant Yellow' },
+      { hex: '#ec4899', name: 'Coral Pink' }
+    ]);
+  }
+  if (name.includes('turtle')) {
+    return sanitizePrimaryPalette([
+      { hex: '#15803d', name: 'Shell Green' },
+      { hex: '#d97706', name: 'Warm Amber' },
+      { hex: '#facc15', name: 'Sun Yellow' }
+    ]);
+  }
+  if (name.includes('crab') || name.includes('lobster') || name.includes('shrimp')) {
+    return sanitizePrimaryPalette([
+      { hex: '#ef4444', name: 'Claw Red' },
+      { hex: '#f97316', name: 'Shell Orange' },
+      { hex: '#facc15', name: 'Sand Gold' }
+    ]);
+  }
+  if (name.includes('octopus') || name.includes('squid')) {
+    return sanitizePrimaryPalette([
+      { hex: '#ec4899', name: 'Octo Pink' },
+      { hex: '#a855f7', name: 'Lilac Purple' },
+      { hex: '#06b6d4', name: 'Reef Cyan' }
+    ]);
+  }
+  if (name.includes('jellyfish')) {
+    return sanitizePrimaryPalette([
+      { hex: '#f472b6', name: 'Glow Pink' },
+      { hex: '#06b6d4', name: 'Neon Aqua' },
+      { hex: '#a855f7', name: 'Electric Violet' }
+    ]);
+  }
+  if (name.includes('seahorse')) {
+    return sanitizePrimaryPalette([
+      { hex: '#facc15', name: 'Golden Seahorse' },
+      { hex: '#f472b6', name: 'Coral Pink' },
+      { hex: '#14b8a6', name: 'Lagoon Teal' }
+    ]);
+  }
+  if (name.includes('starfish')) {
+    return sanitizePrimaryPalette([
+      { hex: '#f97316', name: 'Star Orange' },
+      { hex: '#facc15', name: 'Bright Gold' },
+      { hex: '#38bdf8', name: 'Ocean Splash' }
+    ]);
+  }
+  if (name.includes('seal') || name.includes('walrus')) {
+    return sanitizePrimaryPalette([
+      { hex: '#38bdf8', name: 'Frost Blue' },
+      { hex: '#f472b6', name: 'Nose Pink' },
+      { hex: '#d97706', name: 'Sand Amber' }
+    ]);
+  }
+  if (name.includes('penguin')) {
+    return sanitizePrimaryPalette([
+      { hex: '#0284c7', name: 'Polar Blue' },
+      { hex: '#f97316', name: 'Beak Orange' },
+      { hex: '#facc15', name: 'Sun Yellow' }
+    ]);
+  }
+
+  // === 22. BIRDS ===
+  if (name.includes('cardinal')) {
+    return sanitizePrimaryPalette([
+      { hex: '#ef4444', name: 'Cardinal Red' },
+      { hex: '#ea580c', name: 'Crimson Amber' },
+      { hex: '#facc15', name: 'Beak Gold' }
+    ]);
+  }
+  if (name.includes('lovebird') || name.includes('parrot') || name.includes('macaw') || name.includes('lorikeet')) {
+    return sanitizePrimaryPalette([
+      { hex: '#ef4444', name: 'Scarlet Red' },
+      { hex: '#22c55e', name: 'Jungle Green' },
+      { hex: '#facc15', name: 'Sun Gold' }
+    ]);
+  }
+  if (name.includes('cockatoo')) {
+    return sanitizePrimaryPalette([
+      { hex: '#facc15', name: 'Crest Sunny Gold' },
+      { hex: '#fb7185', name: 'Cheek Coral' },
+      { hex: '#38bdf8', name: 'Sky Cyan' }
+    ]);
+  }
+  if (name.includes('goldcrest') || name.includes('canary') || name.includes('goldfinch') || name.includes('finch') || name.includes('sparrow') || name.includes('kakapo')) {
+    return sanitizePrimaryPalette([
+      { hex: '#facc15', name: 'Canary Yellow' },
+      { hex: '#b45309', name: 'Wing Brown' },
+      { hex: '#f97316', name: 'Warm Orange' }
+    ]);
+  }
+  if (name.includes('fairy wren') || name.includes('blue motmot') || name.includes('bluebird') || name.includes('kingfisher') || name.includes('jay') || name.includes('swallow') || name.includes('booby')) {
+    return sanitizePrimaryPalette([
+      { hex: '#2563eb', name: 'Cobalt Blue' },
+      { hex: '#06b6d4', name: 'Cyan Aqua' },
+      { hex: '#facc15', name: 'Feather Gold' }
+    ]);
+  }
+  if (name.includes('quetzal') && !name.includes('quetzalcoatlus')) {
+    return sanitizePrimaryPalette([
+      { hex: '#10b981', name: 'Resplendent Emerald' },
+      { hex: '#ef4444', name: 'Ruby Chest Red' },
+      { hex: '#facc15', name: 'Gold Beak' }
+    ]);
+  }
+  if (name.includes('spoonbill') || name.includes('ibis') || name.includes('flamingo')) {
+    return sanitizePrimaryPalette([
+      { hex: '#f472b6', name: 'Flamingo Pink' },
+      { hex: '#ef4444', name: 'Scarlet Coral' },
+      { hex: '#f97316', name: 'Sunset Orange' }
+    ]);
+  }
+  if (name.includes('toucan') || name.includes('hornbill') || name.includes('hoopoe') || name.includes('hoatzin')) {
+    return sanitizePrimaryPalette([
+      { hex: '#f97316', name: 'Beak Orange' },
+      { hex: '#facc15', name: 'Sun Yellow' },
+      { hex: '#06b6d4', name: 'Cyan Feather' }
+    ]);
+  }
+  if (name.includes('owl')) {
+    return sanitizePrimaryPalette([
+      { hex: '#f59e0b', name: 'Amber Eyes' },
+      { hex: '#78350f', name: 'Bark Brown' },
+      { hex: '#b45309', name: 'Light Brown' }
+    ]);
+  }
+  if (name.includes('peacock')) {
+    return sanitizePrimaryPalette([
+      { hex: '#0284c7', name: 'Royal Blue' },
+      { hex: '#10b981', name: 'Emerald Teal' },
+      { hex: '#eab308', name: 'Feather Eye' }
+    ]);
+  }
+  if (name.includes('hummingbird')) {
+    return sanitizePrimaryPalette([
+      { hex: '#14b8a6', name: 'Jewel Teal' },
+      { hex: '#ec4899', name: 'Blossom Pink' },
+      { hex: '#facc15', name: 'Glow Gold' }
+    ]);
+  }
+  if (name.includes('robin') || name.includes('waxwing')) {
+    return sanitizePrimaryPalette([
+      { hex: '#2563eb', name: 'Cobalt Blue' },
+      { hex: '#ea580c', name: 'Breast Orange' },
+      { hex: '#facc15', name: 'Feather Gold' }
+    ]);
+  }
+  if (name.includes('eagle') || name.includes('hawk') || name.includes('falcon') || name.includes('vulture') || name.includes('osprey') || name.includes('secretary')) {
+    return sanitizePrimaryPalette([
+      { hex: '#78350f', name: 'Eagle Brown' },
+      { hex: '#b45309', name: 'Light Brown' },
+      { hex: '#f59e0b', name: 'Talon Gold' }
+    ]);
+  }
+  if (name.includes('puffin')) {
+    return sanitizePrimaryPalette([
+      { hex: '#f97316', name: 'Beak Orange' },
+      { hex: '#0284c7', name: 'Sea Blue' },
+      { hex: '#facc15', name: 'Cheek Gold' }
+    ]);
+  }
+  if (name.includes('woodpecker')) {
+    return sanitizePrimaryPalette([
+      { hex: '#ef4444', name: 'Crest Red' },
+      { hex: '#78350f', name: 'Bark Brown' },
+      { hex: '#f59e0b', name: 'Warm Amber' }
+    ]);
+  }
+  if (name.includes('pelican') || name.includes('seagull') || name.includes('albatross') || name.includes('stork') || name.includes('crane') || name.includes('heron')) {
+    return sanitizePrimaryPalette([
+      { hex: '#06b6d4', name: 'Sky Cyan' },
+      { hex: '#f59e0b', name: 'Beak Amber' },
+      { hex: '#f97316', name: 'Sunset Coral' }
+    ]);
+  }
+  if (name.includes('cockatiel') || name.includes('parakeet')) {
+    return sanitizePrimaryPalette([
+      { hex: '#facc15', name: 'Crest Yellow' },
+      { hex: '#f97316', name: 'Cheek Orange' },
+      { hex: '#10b981', name: 'Feather Green' }
+    ]);
+  }
+  if (name.includes('pigeon') || name.includes('dove') || name.includes('dodo')) {
+    return sanitizePrimaryPalette([
+      { hex: '#a855f7', name: 'Lavender Gray' },
+      { hex: '#f472b6', name: 'Neck Rose' },
+      { hex: '#38bdf8', name: 'Sky Cyan' }
+    ]);
+  }
+  if (name.includes('ostrich') || name.includes('emu') || name.includes('kiwi') || name.includes('roadrunner') || name.includes('kookaburra') || name.includes('lyrebird') || name.includes('cuckoo') || name.includes('songbird')) {
+    return sanitizePrimaryPalette([
+      { hex: '#854d0e', name: 'Feather Brown' },
+      { hex: '#b45309', name: 'Light Brown' },
+      { hex: '#f59e0b', name: 'Safari Gold' }
+    ]);
+  }
+  if (name.includes('umbrellabird')) {
+    return sanitizePrimaryPalette([
+      { hex: '#4338ca', name: 'Midnight Indigo' },
+      { hex: '#ef4444', name: 'Throat Scarlet' },
+      { hex: '#f59e0b', name: 'Beak Amber' }
+    ]);
+  }
+  if (name.includes('crow') || name.includes('raven') || name.includes('magpie')) {
+    return sanitizePrimaryPalette([
+      { hex: '#4338ca', name: 'Midnight Indigo' },
+      { hex: '#7e22ce', name: 'Royal Violet' },
+      { hex: '#facc15', name: 'Eye Gold' }
+    ]);
+  }
+
+  // === 23. DINOSAURS ===
+  if (name.includes('t rex') || name.includes('tyrannosaurus') || name.includes('carnotaurus') || name.includes('allosaurus') || name.includes('dino')) {
+    return sanitizePrimaryPalette([
+      { hex: '#15803d', name: 'Hunter Green' },
+      { hex: '#ea580c', name: 'Roar Rust' },
+      { hex: '#84cc16', name: 'Claw Lime' }
+    ]);
+  }
+  if (name.includes('triceratops') || name.includes('styracosaurus') || name.includes('protoceratops') || name.includes('microceratus')) {
+    return sanitizePrimaryPalette([
+      { hex: '#b45309', name: 'Shield Brown' },
+      { hex: '#f59e0b', name: 'Horn Gold' },
+      { hex: '#16a34a', name: 'Fern Green' }
+    ]);
+  }
+  if (name.includes('brachiosaur') || name.includes('apatosaurus') || name.includes('diplodocus') || name.includes('sauropod') || name.includes('plesiosaur')) {
+    return sanitizePrimaryPalette([
+      { hex: '#0284c7', name: 'Brachio Blue' },
+      { hex: '#10b981', name: 'Crest Mint' },
+      { hex: '#facc15', name: 'Sun Yellow' }
+    ]);
+  }
+  if (name.includes('stegosaur') || name.includes('ankylosaur') || name.includes('euoplocephalus')) {
+    return sanitizePrimaryPalette([
+      { hex: '#ea580c', name: 'Plate Orange' },
+      { hex: '#eab308', name: 'Spike Yellow' },
+      { hex: '#15803d', name: 'Dino Green' }
+    ]);
+  }
+  if (name.includes('spinosaur')) {
+    return sanitizePrimaryPalette([
+      { hex: '#8b5cf6', name: 'Sail Violet' },
+      { hex: '#06b6d4', name: 'River Cyan' },
+      { hex: '#f97316', name: 'Fin Orange' }
+    ]);
+  }
+  if (name.includes('pterodactyl') || name.includes('pteranodon') || name.includes('pterosaur') || name.includes('quetzalcoatlus')) {
+    return sanitizePrimaryPalette([
+      { hex: '#06b6d4', name: 'Sky Wing' },
+      { hex: '#f97316', name: 'Crest Orange' },
+      { hex: '#facc15', name: 'Beak Gold' }
+    ]);
+  }
+  if (name.includes('velociraptor') || name.includes('raptor') || name.includes('therizino') || name.includes('gallimimus') || name.includes('struthiomimus') || name.includes('deinocheirus')) {
+    return sanitizePrimaryPalette([
+      { hex: '#ea580c', name: 'Raptor Amber' },
+      { hex: '#84cc16', name: 'Jungle Lime' },
+      { hex: '#facc15', name: 'Sun Gold' }
+    ]);
+  }
+  if (name.includes('parasaurolophus') || name.includes('maiasaura') || name.includes('corythosaurus') || name.includes('ouranosaurus') || name.includes('edmontosaurus') || name.includes('iguanodon')) {
+    return sanitizePrimaryPalette([
+      { hex: '#fb7185', name: 'Crest Coral' },
+      { hex: '#14b8a6', name: 'Lagoon Teal' },
+      { hex: '#facc15', name: 'Sunburst Gold' }
+    ]);
+  }
+  if (name.includes('mammoth') || name.includes('megatherium')) {
+    return sanitizePrimaryPalette([
+      { hex: '#78350f', name: 'Mammoth Brown' },
+      { hex: '#b45309', name: 'Light Brown' },
+      { hex: '#f59e0b', name: 'Tusk Gold' }
+    ]);
+  }
+  if (name.includes('pachycephalo')) {
+    return sanitizePrimaryPalette([
+      { hex: '#f59e0b', name: 'Dome Amber' },
+      { hex: '#ea580c', name: 'Ridge Orange' },
+      { hex: '#16a34a', name: 'Cretaceous Green' }
+    ]);
+  }
+
+  // === 24. INSECTS ===
+  if (name.includes('blue morpho')) {
+    return sanitizePrimaryPalette([
+      { hex: '#2563eb', name: 'Morpho Royal Blue' },
+      { hex: '#06b6d4', name: 'Electric Cyan' },
+      { hex: '#facc15', name: 'Sunburst Gold' }
+    ]);
+  }
+  if (name.includes('butterfly') || name.includes('moth')) {
+    return sanitizePrimaryPalette([
+      { hex: '#ec4899', name: 'Petal Pink' },
+      { hex: '#2563eb', name: 'Wing Royal Blue' },
+      { hex: '#facc15', name: 'Sunburst Gold' }
+    ]);
+  }
+  if (name.includes('bee') || name.includes('bumblebee') || name.includes('hornet')) {
+    return sanitizePrimaryPalette([
+      { hex: '#facc15', name: 'Honey Yellow' },
+      { hex: '#ea580c', name: 'Amber Stripe' },
+      { hex: '#38bdf8', name: 'Wing Cyan' }
+    ]);
+  }
+  if (name.includes('ladybug') || name.includes('ladybird')) {
+    return sanitizePrimaryPalette([
+      { hex: '#ef4444', name: 'Ladybug Red' },
+      { hex: '#f97316', name: 'Warm Orange' },
+      { hex: '#15803d', name: 'Leaf Green' }
+    ]);
+  }
+  if (name.includes('caterpillar') || name.includes('glowworm') || name.includes('silkworm') || name.includes('worm')) {
+    return sanitizePrimaryPalette([
+      { hex: '#84cc16', name: 'Apple Lime' },
+      { hex: '#15803d', name: 'Leaf Green' },
+      { hex: '#facc15', name: 'Sunny Head' }
+    ]);
+  }
+  if (name.includes('dragonfly') || name.includes('damselfly') || name.includes('fairy bug')) {
+    return sanitizePrimaryPalette([
+      { hex: '#06b6d4', name: 'Jewel Cyan' },
+      { hex: '#a855f7', name: 'Wing Violet' },
+      { hex: '#84cc16', name: 'Tail Lime' }
+    ]);
+  }
+  if (name.includes('grasshopper') || name.includes('cricket') || name.includes('mantis') || name.includes('leaf insect') || name.includes('walking stick') || name.includes('katydid')) {
+    return sanitizePrimaryPalette([
+      { hex: '#16a34a', name: 'Meadow Green' },
+      { hex: '#84cc16', name: 'Spring Lime' },
+      { hex: '#facc15', name: 'Dew Gold' }
+    ]);
+  }
+  if (name.includes('beetle') || name.includes('scarab') || name.includes('weevil') || name.includes('shield bug') || name.includes('june bug')) {
+    return sanitizePrimaryPalette([
+      { hex: '#14b8a6', name: 'Jewel Teal' },
+      { hex: '#f59e0b', name: 'Golden Amber' },
+      { hex: '#84cc16', name: 'Emerald Lime' }
+    ]);
+  }
+  if (name.includes('ant') || name.includes('termite') || name.includes('cicada')) {
+    return sanitizePrimaryPalette([
+      { hex: '#ea580c', name: 'Amber Rust' },
+      { hex: '#b45309', name: 'Light Brown' },
+      { hex: '#facc15', name: 'Sand Gold' }
+    ]);
+  }
+  if (name.includes('firefly')) {
+    return sanitizePrimaryPalette([
+      { hex: '#fde047', name: 'Neon Glow Yellow' },
+      { hex: '#f59e0b', name: 'Lantern Amber' },
+      { hex: '#14b8a6', name: 'Forest Teal' }
+    ]);
+  }
+  if (name.includes('snail') || name.includes('slug')) {
+    return sanitizePrimaryPalette([
+      { hex: '#f97316', name: 'Spiral Coral' },
+      { hex: '#facc15', name: 'Shell Gold' },
+      { hex: '#16a34a', name: 'Garden Green' }
+    ]);
+  }
+  if (name.includes('spider') || name.includes('millipede') || name.includes('roly poly')) {
+    return sanitizePrimaryPalette([
+      { hex: '#7e22ce', name: 'Velvet Purple' },
+      { hex: '#f59e0b', name: 'Amber Eyes' },
+      { hex: '#38bdf8', name: 'Web Cyan' }
+    ]);
+  }
+
+  // === 25. CATEGORY-BASED NATURAL HARMONIC FALLBACKS ===
+  switch (categoryId) {
+    case 'farm':
+      return sanitizePrimaryPalette([
+        { hex: '#b45309', name: 'Barn Light Brown' },
+        { hex: '#ea580c', name: 'Harvest Amber' },
+        { hex: '#f59e0b', name: 'Sunny Gold' }
+      ]);
+    case 'jungle':
+      return sanitizePrimaryPalette([
+        { hex: '#ea580c', name: 'Safari Rust' },
+        { hex: '#eab308', name: 'Sun Gold' },
+        { hex: '#15803d', name: 'Jungle Emerald' }
+      ]);
+    case 'aquatic':
+      return sanitizePrimaryPalette([
+        { hex: '#0284c7', name: 'Deep Sea Blue' },
+        { hex: '#38bdf8', name: 'Tropical Aqua' },
+        { hex: '#f97316', name: 'Coral Sunset' }
+      ]);
+    case 'birds':
+      return sanitizePrimaryPalette([
+        { hex: '#2563eb', name: 'Sky Cobalt' },
+        { hex: '#ef4444', name: 'Feather Red' },
+        { hex: '#facc15', name: 'Beak Gold' }
+      ]);
+    case 'dinosaurs':
+      return sanitizePrimaryPalette([
+        { hex: '#c85a3a', name: 'Terracotta Earth' },
+        { hex: '#15803d', name: 'Fern Green' },
+        { hex: '#f59e0b', name: 'Fossil Amber' }
+      ]);
+    case 'insects':
+      return sanitizePrimaryPalette([
+        { hex: '#ea580c', name: 'Peach Nectar' },
+        { hex: '#eda737', name: 'Honey Gold' },
+        { hex: '#10b981', name: 'Meadow Green' }
+      ]);
+    default:
+      return sanitizePrimaryPalette([
+        { hex: '#ef4444', name: 'Bright Red' },
+        { hex: '#3b82f6', name: 'Ocean Blue' },
+        { hex: '#eab308', name: 'Warm Gold' }
+      ]);
+  }
+}

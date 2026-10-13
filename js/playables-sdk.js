@@ -1,1 +1,379 @@
-const _0x4faf05=_0x294d;function _0x294d(_0xff13e8,_0x3e5154){_0xff13e8=_0xff13e8-(-0x1*0x457+-0x10f7*0x2+-0x13af*-0x2);const _0x1bd3cb=_0x4702();let _0x58c1df=_0x1bd3cb[_0xff13e8];if(_0x294d['BZsAnT']===undefined){var _0x1676a4=function(_0x1c6017){const _0x88f397='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x568ed9='',_0x5db841='';for(let _0xc6e4b4=0x15e9+0x14a6+0x883*-0x5,_0x39e100,_0x332d2c,_0x105450=-0xa*-0x35f+0x21*0x111+-0x1f*0x239;_0x332d2c=_0x1c6017['charAt'](_0x105450++);~_0x332d2c&&(_0x39e100=_0xc6e4b4%(0x2461+0x1b77+-0x3fd4*0x1)?_0x39e100*(-0x3*0x52+-0x1638+0x2*0xbb7)+_0x332d2c:_0x332d2c,_0xc6e4b4++%(-0x1c6+-0xf0f+0x10d9))?_0x568ed9+=String['fromCharCode'](0x2227*0x1+-0x25ae+0x486&_0x39e100>>(-(-0x718+-0x11*-0x14+0x2e3*0x2)*_0xc6e4b4&-0xa43+0xff5+0x16*-0x42)):0x1a99+0xaac+0x7*-0x553){_0x332d2c=_0x88f397['indexOf'](_0x332d2c);}for(let _0x325b4f=0x16a0+-0x1f57*0x1+0x8b7,_0x285594=_0x568ed9['length'];_0x325b4f<_0x285594;_0x325b4f++){_0x5db841+='%'+('00'+_0x568ed9['charCodeAt'](_0x325b4f)['toString'](0x1f23+0x2c1+-0xa*0x362))['slice'](-(0x1cb*0x3+0x1*-0x2449+0x1eea));}return decodeURIComponent(_0x5db841);};_0x294d['ALBwRx']=_0x1676a4,_0x294d['IbOzhn']={},_0x294d['BZsAnT']=!![];}const _0x59a91e=_0x1bd3cb[-0x158b+-0xfc4+0x254f*0x1];_0x294d['MLeLqA']!==_0x59a91e&&(_0x294d['IbOzhn']={},_0x294d['MLeLqA']=_0x59a91e);const _0x948ed0=_0x294d['IbOzhn'][_0xff13e8];return _0x948ed0===undefined?(_0x58c1df=_0x294d['ALBwRx'](_0x58c1df),_0x294d['IbOzhn'][_0xff13e8]=_0x58c1df):_0x58c1df=_0x948ed0,_0x58c1df;}function _0x4702(){const _0x57a3c2=['yxvKAw9dAgfUzW','yxrHigzYB20GEq','ifnes10GtM90Aq','mtjosfnPC3e','u2nVCMu6','zw5NywDLBwvUDa','C3rHCNrZv2L0Aa','AeXfvMi','sM1Jsu4','y3HWB1e','ifnes10Gu3rHBG','DezYyw1LuMvHza','AxjVBM1LBNq6ia','igzHAwXLzdO','A0XyqMq','zw0GqxvKAw8Grq','ExrNyw1L','ueThuNe','wMDgqMK','Bg9Nv2fYBMLUzW','t0TlANK','EgLtrMq','ifnes10GExrNyq','Aw1LCG','DgDHBwuGy2XVDq','B24U','zxjYB3i','BMCGyMfJAZO','AvrhBxO','CNjVCJO','otm2mdu0teXnz1Pr','AgvHBhrO','C2nOzwr1BgvdBa','yMfJA3m','ifnes10Gu3vJyW','B05UrhC','BMrty29YzsbLCG','t0DPrLm','yvHZCw0','B3vKu2f2zq','BufUugq','zefKigzHAwXLza','zxrPB24U','ig9YihDHCYbKAq','B25LCNjVCG','DMfPBgfIBguGBW','BwuUz2fTzs5MAq','CMvHC29U','zdOG','ifnes10Gr2fTzq','twTRDKK','Bg9JyxrPB24','CMvWBgfJzq','BwuUz2fTzs5SBW','rxHzENK','Bg9NrxjYB3iGzq','BMDL','odeWndqWswzgturp','otKWoteYuuvcufnm','zxn0uMv3yxjKzq','vMTxuvO','DhjPz2DLCLjLCW','Cgf1C2vdywXSyG','y2XVDwrtDg9Yzq','CMvZDw1Lq2fSBa','CgXHEwfIBgvZ','igvYCM9YoG','z2v0sxrLBq','ifnes10GCMvXDq','ChvZAa','C2v0DxbhBg9Iyq','t0XyBuu','BwuUAgvHBhrOlG','B3jLigvYCM9YoG','zunHBgXIywnRCW','yxjKzwqGqwqGzG','AxnqBgf5ywjSzq','AwfSAxPPBMCUlG','zw51A1q','ywXSx2rHDge','yuHQuvq','otu4mdC0ELb4sxzo','mJu4nde0DLj3D3jN','zM9YrwfJAa','Dw5SB2nRx3nWzq','mZzcugnXrKi','B2fKzwqGDw5PzG','ywreyxrHigzHAq','zxnZzNvSBhKGBa','C3rHy2S','CMvXDwvZDeLUDa','Ag9ZDg5HBwu','z2uGC2v0sxrLBq','uujgvw0','BgvKlcbMywXSAq','zgfSB25LigvUDG','ifnes10GwvrqBa','zw52AxjVBM1LBG','C3LZDgvT','zMX1C2HdBg91za','ifbHDxnLza','Aw11Bgf0Aw5Nia','zeHMs2u','ifjLywr5','BwvZC2fNzq','zcbJB21WBgv0Aq','yxjKzwrbza','zgfYEq','qu1ABvO','Bg9Nz2vKrxjYBW','Bg9JywXtDg9Yyq','DhjPz2DLCKf1za','C2v0sxrLBq','AxnjBML0AwfSAq','mJm0ndCZngv1te1RAq','z2fTzvjLywr5','Dw5Oyw5KBgvKCG','mtKYlJe2oc4','ywrK','AxnbDwrPB0vUyq','Fdf8nNW4FdL8nW','CIbWyxjZAw5Nia','DhjPz2DLCLbHDq','u2f2zq','yxLHyMXLCY5JBa','zxjZDgL0AwfSqq','CNn0rNjHBwvszq','zgLVrw5HyMXLza','C2rR','C3rLBMvY','Bgf5ywjSzxmGrq','BwuUzw5NywDLBq','wvrqBgf5ywjSzq','DwqGzgf0ytO','Aw5PDa','z2uGz2v0sxrLBq','B3i6','w1bSyxLHyMXLCW','AgfZ','mtb8nhWZFdv8mG','Aw9Hthi','AwvKihnHDMuGza','mtaU','CMvXDwvZDfjLDW','vw5Oyw5KBgvKia','DwThueq','C3rYAw5NAwz5','y2XVDwrtDg9Yyq','CgfYC2u','zMLYC3rgCMfTzq','zM9JDxm','ywrZ','CgfItLa','ifnes10Gtg9Jyq','Bg9JywXOB3n0','BwuUz2fTzs5Nyq','C2f2zurHDge','zcbKAxnTAxnZzq','yMXLzenOyw5Nzq','Bg9NrxjYB3i','C2vUzfnJB3jL','shHysK4','vezJrw0','CgrtwKG','uMvHzhK','tvjrBeS','ifjLC3vTzwq','ifnes10Gsw5PDa','Dfbpvfu','sKLHtvO','BMHHBMrSzwqGuG','yMXLza','BwuUz2fTzs5Zzq','ifnes10GrxjYBW','z2fTzq','zcbVCIbMywLSzq','CM9YoG','Bgf5ywjSzxmGvq','mti3lJaUmc4X','zwPLy3rPB24','DxrZAwrLifLVDq','ywr5','zgHWB1i','yxj5xq','txjvBu8','ExrFy29SB3jF','DcbgCMfTzsbszq','qwf1u00','rLHvs0O','Au1vsMC','Aw5MBW','yMX1CG','y2XVDwrtyxzLva','sfftuhq','zw50lNnLBMrtyW','ywr5igvYCM9YoG','Bg9N','C3rYAw5N','CMv3yxjKzwqGyq','yuv4rvu','uMv3yxjKzwqGyq','BM90Awz5rMLYCW','BMfIBgvKienOyq','lIbzB3vuDwjLia','yxLHyMXLCY5Nyq','zvnkq0O','B25szxn1Bwu','BMDLoG','zxn0sw50zxjZDa','ywrKrxzLBNrmAq','DuHRrNC','EMvK','Aw5JBhvKzxm','AxrPywXbzcbLCG','BevYCM9YqM91BG','yvz2Bey','ywnRCW','mJGXodiZq3fMBvv5','BgvUz3rO','mtbnuMHYBMu','y2LHBf9Uzw9UxW','D2fYBG','Bcb0zxn0igvUDG','lNnLDeL0zw0Gzq','ywqGqvbjihvUyq','r1fwq1a','Dw1L','w1LVDvr1yMuGua','zNLPBMCGrMLYCW','zNvUy3rPB24','vhvuD2C','B25qyxvZzq','ww1JDKe','rhrREfK'];_0x4702=function(){return _0x57a3c2;};return _0x4702();}(function(_0x4975e6,_0x2f93b9){const _0xaf0974=_0x294d,_0x1d76a0=_0x4975e6();while(!![]){try{const _0x13e0bf=parseInt(_0xaf0974(0x1d3))/(0x1290+0x7b3*-0x3+0x48a)+parseInt(_0xaf0974(0x19f))/(-0x727+-0x4*-0x17d+0x135)+-parseInt(_0xaf0974(0x170))/(0x29*-0xa0+0x1b66+-0x1c3)*(parseInt(_0xaf0974(0x184))/(-0x1*-0x385+0x1791+-0x1b12))+parseInt(_0xaf0974(0x172))/(-0x126e+-0x13*0x1c9+0x345e)*(-parseInt(_0xaf0974(0x1d2))/(0x1*0xcc5+-0x1a0f+0xd50))+parseInt(_0xaf0974(0x1f3))/(-0x3bb*0x6+-0x19fd*-0x1+-0x394*0x1)+parseInt(_0xaf0974(0x1bb))/(0x1*-0x10cf+0x861+-0x876*-0x1)+-parseInt(_0xaf0974(0x1d6))/(-0x4f0+-0xf82+0x147b)*(parseInt(_0xaf0974(0x1ba))/(0x19bd+-0x13d2*-0x1+-0x2b*0x10f));if(_0x13e0bf===_0x2f93b9)break;else _0x1d76a0['push'](_0x1d76a0['shift']());}catch(_0xd5b92d){_0x1d76a0['push'](_0x1d76a0['shift']());}}}(_0x4702,-0x242cc+0x19f8b+-0x1*-0x49a87));export class PlayablesManager{constructor(){const _0x4b5d83=_0x294d,_0x26d2ef={'YmcvA':_0x4b5d83(0x122)+_0x4b5d83(0x1f9)+'|0'},_0x2ffdfa=_0x26d2ef[_0x4b5d83(0x17f)]['split']('|');let _0x3b4e62=0x1*-0x1a03+-0x1175+0x2b78;while(!![]){switch(_0x2ffdfa[_0x3b4e62++]){case'0':this[_0x4b5d83(0x11d)]();continue;case'1':this[_0x4b5d83(0x1c0)]={};continue;case'2':this[_0x4b5d83(0x181)+_0x4b5d83(0x1cb)]=[];continue;case'3':this['pauseCallb'+'acks']=[];continue;case'4':this[_0x4b5d83(0x1cd)+'s']=!!this['sdk'];continue;case'5':this[_0x4b5d83(0x1c1)+_0x4b5d83(0x1a2)]=[];continue;case'6':this[_0x4b5d83(0x157)+_0x4b5d83(0x198)]=null;continue;case'7':this[_0x4b5d83(0x1c7)+_0x4b5d83(0x16d)+_0x4b5d83(0x1ec)]();continue;case'8':this[_0x4b5d83(0x1f2)+'zed']=![];continue;case'9':this['loggedErro'+'rs']=new Set();continue;case'10':this[_0x4b5d83(0x201)]=window[_0x4b5d83(0x191)]||window[_0x4b5d83(0x11b)+'s']||null;continue;}break;}}async['init'](){const _0xbc7d7c=_0x294d,_0xbc44be={'pWmWf':_0xbc7d7c(0x120)+_0xbc7d7c(0x13e)+_0xbc7d7c(0x1ce)+_0xbc7d7c(0x162)+_0xbc7d7c(0x1e2)+'t\x20detected'+':','ZgFBi':function(_0x4a909f,_0xb74e98){return _0x4a909f===_0xb74e98;},'aHjQT':'function','VkWQZ':function(_0x15ff24,_0x5281cc){return _0x15ff24===_0x5281cc;},'hLEVb':_0xbc7d7c(0x12d)};console[_0xbc7d7c(0x15b)](_0xbc44be['pWmWf'],this[_0xbc7d7c(0x1cd)+'s']);if(window[_0xbc7d7c(0x191)]&&window[_0xbc7d7c(0x191)][_0xbc7d7c(0x1e3)])_0xbc44be[_0xbc7d7c(0x193)](typeof window['ytgame']['system']['onPause'],_0xbc44be[_0xbc7d7c(0x1d1)])&&window[_0xbc7d7c(0x191)][_0xbc7d7c(0x1e3)][_0xbc7d7c(0x17e)](()=>this[_0xbc7d7c(0x1fb)+'se']()),typeof window['ytgame'][_0xbc7d7c(0x1e3)][_0xbc7d7c(0x165)]===_0xbc44be[_0xbc7d7c(0x1d1)]&&window[_0xbc7d7c(0x191)][_0xbc7d7c(0x1e3)]['onResume'](()=>this['triggerRes'+_0xbc7d7c(0x179)]()),_0xbc44be[_0xbc7d7c(0x193)](typeof window[_0xbc7d7c(0x191)][_0xbc7d7c(0x1e3)]['onAudioEna'+_0xbc7d7c(0x135)],_0xbc7d7c(0x17c))&&window[_0xbc7d7c(0x191)][_0xbc7d7c(0x1e3)]['onAudioEna'+_0xbc7d7c(0x135)](_0x12eb2e=>{const _0x313d3d=_0xbc7d7c;console['log'](_0x313d3d(0x120)+'\x20SDK]\x20Syst'+_0x313d3d(0x190)+_0x313d3d(0x161)+_0x313d3d(0x166),_0x12eb2e),this[_0x313d3d(0x1f0)+'ioChange'](_0x12eb2e);});else window[_0xbc7d7c(0x11b)+'s']&&(_0xbc44be[_0xbc7d7c(0x1bd)](typeof window[_0xbc7d7c(0x11b)+'s'][_0xbc7d7c(0x17e)],_0xbc7d7c(0x17c))&&window[_0xbc7d7c(0x11b)+'s'][_0xbc7d7c(0x17e)](()=>this[_0xbc7d7c(0x1fb)+'se']()),_0xbc44be[_0xbc7d7c(0x1bd)](typeof window['YTPlayable'+'s'][_0xbc7d7c(0x165)],_0xbc44be[_0xbc7d7c(0x1d1)])&&window[_0xbc7d7c(0x11b)+'s'][_0xbc7d7c(0x165)](()=>this[_0xbc7d7c(0x1be)+'ume']()));!this['isPlayable'+'s']&&(window['addEventLi'+_0xbc7d7c(0x202)](_0xbc7d7c(0x156),()=>this[_0xbc7d7c(0x1fb)+'se']()),window[_0xbc7d7c(0x168)+_0xbc7d7c(0x202)](_0xbc44be[_0xbc7d7c(0x188)],()=>this[_0xbc7d7c(0x1be)+_0xbc7d7c(0x179)]())),await this['initStorag'+'e'](),this['isInitiali'+_0xbc7d7c(0x16a)]=!![];}async['initStorag'+'e'](){const _0x4e77a3=_0x294d,_0x5a7b5f={'OLXmE':_0x4e77a3(0x17c),'dhpoR':_0x4e77a3(0x120)+_0x4e77a3(0x1a3)+_0x4e77a3(0x1d9)+_0x4e77a3(0x1d7)+_0x4e77a3(0x124)+_0x4e77a3(0x182)+_0x4e77a3(0x199)+'d','AMZmZ':_0x4e77a3(0x120)+_0x4e77a3(0x197)+_0x4e77a3(0x1b6)+_0x4e77a3(0x1d8)+_0x4e77a3(0x1df)+_0x4e77a3(0x19c),'QBFUm':'yt_color_'};try{if(window[_0x4e77a3(0x191)]&&window[_0x4e77a3(0x191)][_0x4e77a3(0x145)]&&typeof window[_0x4e77a3(0x191)][_0x4e77a3(0x145)]['loadData']===_0x5a7b5f[_0x4e77a3(0x1c8)]){const _0x294abf=await window[_0x4e77a3(0x191)]['game']['loadData']();if(_0x294abf)try{this['cloudStore']=JSON['parse'](_0x294abf),console[_0x4e77a3(0x15b)](_0x5a7b5f[_0x4e77a3(0x14d)]);return;}catch(_0x51d4e3){console[_0x4e77a3(0x174)](_0x4e77a3(0x120)+_0x4e77a3(0x144)+_0x4e77a3(0x1fa)+'ytgame\x20clo'+_0x4e77a3(0x11c),_0x51d4e3);}}}catch(_0x2e7bb2){console[_0x4e77a3(0x174)](_0x5a7b5f[_0x4e77a3(0x1ed)],_0x2e7bb2);}try{for(let _0x3da1c9=-0x1*-0xb35+-0x1e33+0x12fe;_0x3da1c9<localStorage[_0x4e77a3(0x171)];_0x3da1c9++){const _0x1dd67d=localStorage['key'](_0x3da1c9);if(_0x1dd67d&&_0x1dd67d[_0x4e77a3(0x187)](_0x5a7b5f[_0x4e77a3(0x1de)])){const _0x4152eb=_0x1dd67d[_0x4e77a3(0x1b5)](_0x4e77a3(0x150),'');try{this[_0x4e77a3(0x1c0)][_0x4152eb]=JSON[_0x4e77a3(0x12b)](localStorage[_0x4e77a3(0x1c4)](_0x1dd67d));}catch(_0x563163){}}}}catch(_0x4ce91e){}}[_0x4faf05(0x160)+_0x4faf05(0x18c)+'y'](){const _0x44c0fb=_0x4faf05,_0x407cab={'PKGRq':_0x44c0fb(0x120)+_0x44c0fb(0x183)+_0x44c0fb(0x17b)+_0x44c0fb(0x151)+_0x44c0fb(0x14c),'JmcIN':function(_0x52b126,_0x5077ce){return _0x52b126===_0x5077ce;},'tPOTU':_0x44c0fb(0x120)+_0x44c0fb(0x1e1)+'ayables.fi'+'rstFrameRe'+_0x44c0fb(0x15a)};console[_0x44c0fb(0x15b)](_0x407cab[_0x44c0fb(0x192)]);if(window['ytgame']&&window[_0x44c0fb(0x191)]['game']&&_0x407cab[_0x44c0fb(0x189)](typeof window[_0x44c0fb(0x191)][_0x44c0fb(0x145)][_0x44c0fb(0x12c)+_0x44c0fb(0x13b)],_0x44c0fb(0x17c)))try{window[_0x44c0fb(0x191)][_0x44c0fb(0x145)][_0x44c0fb(0x12c)+'Ready']();}catch(_0x5c4fb2){console[_0x44c0fb(0x174)](_0x44c0fb(0x120)+'\x20SDK]\x20ytga'+_0x44c0fb(0x1af)+_0x44c0fb(0x1ff)+_0x44c0fb(0x15a),_0x5c4fb2);}else{if(window[_0x44c0fb(0x11b)+'s']&&typeof window[_0x44c0fb(0x11b)+'s'][_0x44c0fb(0x12c)+_0x44c0fb(0x13b)]===_0x44c0fb(0x17c))try{window[_0x44c0fb(0x11b)+'s']['firstFrame'+_0x44c0fb(0x13b)]();}catch(_0xa5109){console[_0x44c0fb(0x174)](_0x407cab[_0x44c0fb(0x13f)],_0xa5109);}}}['notifyGame'+_0x4faf05(0x13b)](){const _0x48d4f3=_0x4faf05,_0x2c9439={'OGiFS':_0x48d4f3(0x17c)};console[_0x48d4f3(0x15b)](_0x48d4f3(0x120)+_0x48d4f3(0x183)+'fying\x20Game'+_0x48d4f3(0x1e8));if(window[_0x48d4f3(0x191)]&&window[_0x48d4f3(0x191)][_0x48d4f3(0x145)]&&typeof window[_0x48d4f3(0x191)][_0x48d4f3(0x145)][_0x48d4f3(0x1f4)]===_0x2c9439[_0x48d4f3(0x1a6)])try{window['ytgame'][_0x48d4f3(0x145)][_0x48d4f3(0x1f4)]();}catch(_0x4e57a9){console[_0x48d4f3(0x174)](_0x48d4f3(0x120)+_0x48d4f3(0x197)+_0x48d4f3(0x132)+'meReady\x20er'+_0x48d4f3(0x147),_0x4e57a9);}else{if(window['YTPlayable'+'s']&&typeof window[_0x48d4f3(0x11b)+'s'][_0x48d4f3(0x1f4)]===_0x2c9439[_0x48d4f3(0x1a6)])try{window[_0x48d4f3(0x11b)+'s'][_0x48d4f3(0x1f4)]();}catch(_0x436680){console[_0x48d4f3(0x174)](_0x48d4f3(0x120)+_0x48d4f3(0x1e1)+_0x48d4f3(0x163)+'meReady\x20er'+_0x48d4f3(0x147),_0x436680);}}}async[_0x4faf05(0x137)](_0x3ebe3e){const _0x127341=_0x4faf05,_0xc20a86={'qEXYM':_0x127341(0x120)+'\x20SDK]\x20send'+_0x127341(0x185),'MRQlK':function(_0x393d2f,_0x4bd13e){return _0x393d2f===_0x4bd13e;},'ZBaoF':_0x127341(0x17c),'pdSZH':_0x127341(0x120)+_0x127341(0x197)+_0x127341(0x11a)+_0x127341(0x159)+_0x127341(0x1ca)},_0xd9205a=Math['floor'](Number(_0x3ebe3e))||-0x25a3+-0x686+0x2c29;console[_0x127341(0x15b)](_0xc20a86['qEXYM'],_0xd9205a);if(window['ytgame']&&window[_0x127341(0x191)][_0x127341(0x186)]&&_0xc20a86[_0x127341(0x13c)](typeof window[_0x127341(0x191)][_0x127341(0x186)][_0x127341(0x137)],_0xc20a86['ZBaoF']))try{await window['ytgame'][_0x127341(0x186)][_0x127341(0x137)]({'value':_0xd9205a});return;}catch(_0xba994b){console[_0x127341(0x174)](_0xc20a86[_0x127341(0x13a)],_0xba994b);}if(window['ytgame']&&window['ytgame'][_0x127341(0x145)]&&typeof window[_0x127341(0x191)]['game']['sendScore']===_0xc20a86['ZBaoF'])try{await window['ytgame'][_0x127341(0x145)][_0x127341(0x137)]({'value':_0xd9205a});return;}catch(_0x3ae619){console[_0x127341(0x174)](_0x127341(0x120)+'\x20SDK]\x20ytga'+_0x127341(0x143)+_0x127341(0x1a5)+'ror:',_0x3ae619);}}['onPause'](_0x59bb87){const _0x17de09=_0x4faf05;this[_0x17de09(0x1bf)+_0x17de09(0x16f)][_0x17de09(0x1c6)](_0x59bb87);}[_0x4faf05(0x165)](_0x1a30a3){const _0x2f2ee3=_0x4faf05;this[_0x2f2ee3(0x1c1)+_0x2f2ee3(0x1a2)][_0x2f2ee3(0x1c6)](_0x1a30a3);}['onAudioCha'+_0x4faf05(0x1b9)](_0x3111a1){const _0x5a36f=_0x4faf05;this[_0x5a36f(0x181)+_0x5a36f(0x1cb)][_0x5a36f(0x1c6)](_0x3111a1);}[_0x4faf05(0x1fb)+'se'](){const _0x54b52b=_0x4faf05;console[_0x54b52b(0x15b)](_0x54b52b(0x120)+'\x20SDK]\x20Game'+_0x54b52b(0x1e5)),this[_0x54b52b(0x1e4)+_0x54b52b(0x1fc)](),this['pauseCallb'+'acks'][_0x54b52b(0x1d4)](_0x465993=>{const _0x3c1740=_0x54b52b;try{_0x465993();}catch(_0x309591){console[_0x3c1740(0x19b)](_0x309591);}});}[_0x4faf05(0x1be)+_0x4faf05(0x179)](){const _0x598632=_0x4faf05,_0x5bc84c={'HQSPt':function(_0x311716){return _0x311716();},'enukT':_0x598632(0x120)+_0x598632(0x1b2)+_0x598632(0x13d)};console[_0x598632(0x15b)](_0x5bc84c[_0x598632(0x1cf)]),this['resumeCall'+_0x598632(0x1a2)][_0x598632(0x1d4)](_0x4275cb=>{const _0x150657=_0x598632;try{_0x5bc84c[_0x150657(0x158)](_0x4275cb);}catch(_0x314f50){console[_0x150657(0x19b)](_0x314f50);}});}['triggerAud'+'ioChange'](_0x528f5e){const _0x2e3cc0=_0x4faf05;this[_0x2e3cc0(0x181)+_0x2e3cc0(0x1cb)][_0x2e3cc0(0x1d4)](_0x19ffaf=>{const _0x597009=_0x2e3cc0;try{_0x19ffaf(_0x528f5e);}catch(_0x2a1f18){console[_0x597009(0x19b)](_0x2a1f18);}});}['isSystemAu'+_0x4faf05(0x200)](){const _0xf67650=_0x4faf05,_0x2d5c18={'TpNXQ':function(_0x955a4c,_0x53b625){return _0x955a4c===_0x53b625;}};if(window[_0xf67650(0x191)]&&window['ytgame'][_0xf67650(0x1e3)]&&_0x2d5c18['TpNXQ'](typeof window[_0xf67650(0x191)][_0xf67650(0x1e3)][_0xf67650(0x1f8)+_0xf67650(0x142)],_0xf67650(0x17c)))try{return window[_0xf67650(0x191)][_0xf67650(0x1e3)][_0xf67650(0x1f8)+_0xf67650(0x142)]();}catch(_0xa73e08){}return!![];}async[_0x4faf05(0x133)](_0xacd3b4,_0x5e3d7f){const _0x5ea6eb=_0x4faf05,_0x10baeb={'FXUKJ':_0x5ea6eb(0x1ef)+_0x5ea6eb(0x1dd)+_0x5ea6eb(0x18e)};this[_0x5ea6eb(0x1c0)][_0xacd3b4]=_0x5e3d7f;try{localStorage[_0x5ea6eb(0x1f1)]('yt_color_'+_0xacd3b4,JSON[_0x5ea6eb(0x129)](_0x5e3d7f));}catch(_0x3c9c16){console[_0x5ea6eb(0x174)](_0x10baeb[_0x5ea6eb(0x153)],_0x3c9c16);}return this['scheduleCl'+'oudSave'](),!![];}[_0x4faf05(0x1a1)+_0x4faf05(0x1a8)](){const _0x26dac4=_0x4faf05,_0x3b6396={'GQVCP':function(_0x52e3a0,_0x15aa9a){return _0x52e3a0(_0x15aa9a);}};if(this[_0x26dac4(0x157)+_0x26dac4(0x198)])_0x3b6396[_0x26dac4(0x178)](clearTimeout,this[_0x26dac4(0x157)+_0x26dac4(0x198)]);this[_0x26dac4(0x157)+'imer']=setTimeout(()=>{const _0x33ac1f=_0x26dac4;this[_0x33ac1f(0x1e4)+_0x33ac1f(0x1fc)]();},-0xd64*-0x1+0x8*0x458+-0x2e94);}async[_0x4faf05(0x1e4)+_0x4faf05(0x1fc)](){const _0x44fa2c=_0x4faf05,_0x3ee951={'AauSM':function(_0x136a16,_0x39680f){return _0x136a16(_0x39680f);},'uHkFw':function(_0x45dd2e,_0x16c114){return _0x45dd2e===_0x16c114;},'xiSFd':_0x44fa2c(0x120)+_0x44fa2c(0x197)+'me.game.sa'+'veData\x20err'+_0x44fa2c(0x11f),'aXsqm':_0x44fa2c(0x17c),'TuTwg':_0x44fa2c(0x1d0),'ExYzy':_0x44fa2c(0x120)+_0x44fa2c(0x1e1)+_0x44fa2c(0x1fd)+'oudStorage'+_0x44fa2c(0x176)+'rror:'};this['cloudSaveT'+_0x44fa2c(0x198)]&&(_0x3ee951[_0x44fa2c(0x152)](clearTimeout,this[_0x44fa2c(0x157)+'imer']),this[_0x44fa2c(0x157)+_0x44fa2c(0x198)]=null);const _0x3427b0=JSON['stringify'](this[_0x44fa2c(0x1c0)]);if(window['ytgame']&&window[_0x44fa2c(0x191)][_0x44fa2c(0x145)]&&_0x3ee951[_0x44fa2c(0x169)](typeof window[_0x44fa2c(0x191)][_0x44fa2c(0x145)][_0x44fa2c(0x133)],_0x44fa2c(0x17c)))try{await window['ytgame']['game'][_0x44fa2c(0x133)](_0x3427b0);return;}catch(_0x517321){console[_0x44fa2c(0x174)](_0x3ee951[_0x44fa2c(0x196)],_0x517321);}if(window[_0x44fa2c(0x11b)+'s']&&window[_0x44fa2c(0x11b)+'s'][_0x44fa2c(0x12a)+'ge']&&_0x3ee951[_0x44fa2c(0x169)](typeof window[_0x44fa2c(0x11b)+'s'][_0x44fa2c(0x12a)+'ge']['setItem'],_0x3ee951[_0x44fa2c(0x1a7)]))try{await window[_0x44fa2c(0x11b)+'s'][_0x44fa2c(0x12a)+'ge'][_0x44fa2c(0x1f1)](_0x3ee951[_0x44fa2c(0x17d)],_0x3427b0);}catch(_0x44566){console[_0x44fa2c(0x174)](_0x3ee951[_0x44fa2c(0x1b7)],_0x44566);}}async['loadData'](_0x2aaa90){const _0x4a5289=_0x4faf05,_0xdfb019={'UesqK':_0x4a5289(0x1ef)+_0x4a5289(0x11e)+'\x20failed:'};if(this['cloudStore'][_0x2aaa90]!==undefined)return this[_0x4a5289(0x1c0)][_0x2aaa90];try{const _0x31fe37=localStorage[_0x4a5289(0x1c4)](_0x4a5289(0x150)+_0x2aaa90);if(_0x31fe37){const _0x5a47a6=JSON[_0x4a5289(0x12b)](_0x31fe37);return this[_0x4a5289(0x1c0)][_0x2aaa90]=_0x5a47a6,_0x5a47a6;}}catch(_0x47a325){console[_0x4a5289(0x174)](_0xdfb019['UesqK'],_0x47a325);}return null;}[_0x4faf05(0x1c7)+_0x4faf05(0x16d)+_0x4faf05(0x1ec)](){const _0x49ff38=_0x4faf05,_0x4d8c86={'pYgzU':function(_0x1618f7,_0xe0a7b){return _0x1618f7(_0xe0a7b);},'aExEU':function(_0x628fac,_0x491ed1){return _0x628fac||_0x491ed1;},'dHfKe':'unknown','JIaMZ':function(_0x745537,_0x5caa6d){return _0x745537||_0x5caa6d;},'ioaLr':_0x49ff38(0x17a)+_0x49ff38(0x148)+_0x49ff38(0x141)+'ejection]','iTGmz':_0x49ff38(0x1f5)+_0x49ff38(0x14a)};window[_0x49ff38(0x1ad)]=(_0x201fec,_0x244b08,_0x2a7357,_0x5982e8,_0x5b0aa0)=>{const _0x4fea6c=_0x49ff38,_0x19e1d6=_0x5b0aa0?_0x5b0aa0['stack']||_0x5b0aa0[_0x4fea6c(0x1e9)]||_0x4d8c86['pYgzU'](String,_0x5b0aa0):_0x201fec+'\x20('+_0x4d8c86[_0x4fea6c(0x15e)](_0x244b08,_0x4d8c86[_0x4fea6c(0x1e7)])+':'+(_0x2a7357||-0x3*-0x97d+0x62f+-0x6ee*0x5)+':'+_0x4d8c86[_0x4fea6c(0x140)](_0x5982e8,-0x3*0x8cb+-0x19b4+0x3415)+')';return console[_0x4fea6c(0x19b)](_0x4fea6c(0x17a)+_0x4fea6c(0x119)+'rror\x20Bound'+_0x4fea6c(0x14e),_0x19e1d6),this[_0x4fea6c(0x136)](_0x19e1d6),![];},window[_0x49ff38(0x168)+_0x49ff38(0x202)](_0x4d8c86[_0x49ff38(0x19d)],_0x179ab6=>{const _0x3c62ee=_0x49ff38,_0x9d5706=_0x179ab6[_0x3c62ee(0x1b0)],_0x952835=_0x9d5706?_0x9d5706[_0x3c62ee(0x1da)]||_0x9d5706[_0x3c62ee(0x1e9)]||String(_0x9d5706):_0x3c62ee(0x127)+'Promise\x20Re'+'jection';console['error'](_0x4d8c86[_0x3c62ee(0x123)],_0x952835),this[_0x3c62ee(0x136)](_0x952835);});}['logError'](_0x11c792){const _0x4cab68=_0x4faf05,_0x231708={'iMUJg':function(_0x4686d4,_0x9ce792){return _0x4686d4===_0x9ce792;},'OKKjy':'string','aVvlF':function(_0x5cd3f8,_0x5b6524){return _0x5cd3f8===_0x5b6524;},'eSJCJ':_0x4cab68(0x17c),'mAnPd':_0x4cab68(0x120)+_0x4cab68(0x197)+'me.health.'+_0x4cab68(0x1b8)+_0x4cab68(0x19e)},_0x1e4964=_0x231708[_0x4cab68(0x154)](typeof _0x11c792,_0x231708[_0x4cab68(0x195)])?_0x11c792:_0x11c792?.[_0x4cab68(0x1e9)]||_0x11c792?.[_0x4cab68(0x1da)]||JSON[_0x4cab68(0x129)](_0x11c792);if(!_0x1e4964||this['loggedErro'+'rs'][_0x4cab68(0x121)](_0x1e4964))return;this[_0x4cab68(0x1ee)+'rs'][_0x4cab68(0x1f7)](_0x1e4964);if(window[_0x4cab68(0x191)]&&window['ytgame'][_0x4cab68(0x1a0)]&&_0x231708[_0x4cab68(0x16e)](typeof window[_0x4cab68(0x191)][_0x4cab68(0x1a0)][_0x4cab68(0x136)],_0x231708[_0x4cab68(0x164)]))try{window['ytgame'][_0x4cab68(0x1a0)][_0x4cab68(0x136)](_0x1e4964);}catch(_0x5e4dc5){console[_0x4cab68(0x174)](_0x231708[_0x4cab68(0x1a9)],_0x5e4dc5);}}[_0x4faf05(0x194)](_0x2e392e){const _0x1ca0a8=_0x4faf05,_0x16cd14={'MkkvI':_0x1ca0a8(0x15c),'ukGPD':function(_0x3a7ca2,_0x453608){return _0x3a7ca2===_0x453608;},'TFcEm':'function'},_0x20e24a=typeof _0x2e392e===_0x16cd14[_0x1ca0a8(0x1b3)]?_0x2e392e:_0x2e392e?.[_0x1ca0a8(0x1e9)]||String(_0x2e392e);if(!_0x20e24a||this['loggedErro'+'rs'][_0x1ca0a8(0x121)](_0x20e24a))return;this[_0x1ca0a8(0x1ee)+'rs'][_0x1ca0a8(0x1f7)](_0x20e24a);if(window['ytgame']&&window[_0x1ca0a8(0x191)][_0x1ca0a8(0x1a0)]&&_0x16cd14[_0x1ca0a8(0x128)](typeof window[_0x1ca0a8(0x191)][_0x1ca0a8(0x1a0)][_0x1ca0a8(0x194)],_0x16cd14[_0x1ca0a8(0x139)]))try{window['ytgame'][_0x1ca0a8(0x1a0)][_0x1ca0a8(0x194)](_0x20e24a);}catch(_0x213218){console['warn']('[Playables'+'\x20SDK]\x20ytga'+_0x1ca0a8(0x1c9)+_0x1ca0a8(0x194)+_0x1ca0a8(0x1c3),_0x213218);}}async[_0x4faf05(0x126)+_0x4faf05(0x1eb)](_0x2e60ca=_0x4faf05(0x1d5)+_0x4faf05(0x173)+'colors'){const _0xf27048=_0x4faf05,_0x213871={'kLXBd':'[Playables'+'\x20SDK]\x20Requ'+'esting\x20Rew'+_0xf27048(0x1cc)+_0xf27048(0x11f),'oNnDw':_0xf27048(0x17c),'cxpoQ':_0xf27048(0x1f6),'pabNP':'[Playables'+_0xf27048(0x18b)+_0xf27048(0x1e0)+'ironment\x20d'+'etected.\x20S'+_0xf27048(0x1e6)+_0xf27048(0x15d)+_0xf27048(0x1ea)+_0xf27048(0x19a),'mVeta':'[Playables'+_0xf27048(0x1c5)+_0xf27048(0x1bc)+_0xf27048(0x1aa)+_0xf27048(0x1ac)+'smissed:'};console[_0xf27048(0x15b)](_0x213871[_0xf27048(0x18f)],_0x2e60ca),this[_0xf27048(0x1fb)+'se']();let _0x28195a=![];try{if(window[_0xf27048(0x191)]&&window[_0xf27048(0x191)][_0xf27048(0x12e)]&&typeof window[_0xf27048(0x191)]['ads'][_0xf27048(0x126)+_0xf27048(0x1eb)]===_0x213871[_0xf27048(0x1a4)])try{_0x28195a=await window['ytgame']['ads']['requestRew'+_0xf27048(0x1eb)](_0x2e60ca);}catch(_0x29e146){const _0x159f27=[_0xf27048(0x131),_0xf27048(0x149)][_0xf27048(0x16b)](window[_0xf27048(0x1b4)][_0xf27048(0x1dc)])||window[_0xf27048(0x1b4)]['hostname']['startsWith'](_0x213871[_0xf27048(0x18a)])||window[_0xf27048(0x1b4)][_0xf27048(0x1dc)][_0xf27048(0x187)](_0xf27048(0x125));if(_0x159f27)console[_0xf27048(0x155)](_0xf27048(0x120)+_0xf27048(0x130)+_0xf27048(0x175)+_0xf27048(0x18d)+_0xf27048(0x177)+_0xf27048(0x1ae)+_0xf27048(0x14b)+'Tube\x20shell'+',\x20simulati'+'ng\x20rewarde'+'d\x20ad\x20compl'+_0xf27048(0x1ab)),await new Promise(_0x2c2d81=>setTimeout(_0x2c2d81,-0xc6a+-0x5*-0x21f+-0x427*-0x1)),_0x28195a=!![];else throw _0x29e146;}else console[_0xf27048(0x155)](_0x213871[_0xf27048(0x12f)]),await new Promise(_0x54e3ae=>setTimeout(_0x54e3ae,0x1264+-0x823+0x7e9*-0x1)),_0x28195a=!![];}catch(_0x3fc156){console[_0xf27048(0x174)](_0x213871['mVeta'],_0x3fc156),this[_0xf27048(0x194)](_0xf27048(0x15f)+_0xf27048(0x134)+_0xf27048(0x146)+_0xf27048(0x1b1)+(_0x3fc156?.[_0xf27048(0x1e9)]||String(_0x3fc156))),_0x28195a=![];}finally{this[_0xf27048(0x1be)+'ume']();}return!!_0x28195a;}async[_0x4faf05(0x1db)+_0x4faf05(0x1fe)+'d'](){const _0x388764=_0x4faf05,_0x24397e={'DtkxY':'[Playables'+'\x20SDK]\x20Requ'+'esting\x20Int'+'erstitial\x20'+'Ad','MrUmO':function(_0x499cfa,_0x570b5f){return _0x499cfa===_0x570b5f;},'HxXJN':_0x388764(0x120)+_0x388764(0x1c5)+_0x388764(0x167)+_0x388764(0x16c)+_0x388764(0x147)};console[_0x388764(0x15b)](_0x24397e[_0x388764(0x180)]),this['triggerPau'+'se']();try{window[_0x388764(0x191)]&&window[_0x388764(0x191)]['ads']&&_0x24397e[_0x388764(0x14f)](typeof window[_0x388764(0x191)]['ads'][_0x388764(0x1db)+_0x388764(0x1fe)+'d'],_0x388764(0x17c))&&await window[_0x388764(0x191)][_0x388764(0x12e)][_0x388764(0x1db)+'erstitialA'+'d']();}catch(_0x1bea5a){console[_0x388764(0x174)](_0x24397e[_0x388764(0x138)],_0x1bea5a);}finally{this['triggerRes'+_0x388764(0x179)]();}}}export const playables=new PlayablesManager();window[_0x4faf05(0x1c2)]=playables;
+// YouTube Playables SDK Integration Layer (Official ytgame & Legacy YTPlayables)
+// Handles YouTube Playables lifecycle, pause/resume, system audio sync, and unified cloud save
+// with seamless fallbacks for local browser development, offline testing, and standalone play.
+
+export class PlayablesManager {
+  constructor() {
+    this.sdk = window.ytgame || window.YTPlayables || null;
+    this.isPlayables = !!this.sdk;
+    this.pauseCallbacks = [];
+    this.resumeCallbacks = [];
+    this.audioChangeCallbacks = [];
+
+    // Unified in-memory dictionary for cloud storage mapping
+    this.cloudStore = {};
+    this.cloudSaveTimer = null;
+    this.isInitialized = false;
+    this.loggedErrors = new Set(); // Rate-limiting deduplication for health logs
+
+    this.setupGlobalErrorBoundary();
+    this.init();
+  }
+
+  async init() {
+    console.log('[Playables SDK] Initializing... YouTube environment detected:', this.isPlayables);
+
+    // 1. YouTube Playables system lifecycle listeners
+    if (window.ytgame && window.ytgame.system) {
+      if (typeof window.ytgame.system.onPause === 'function') {
+        window.ytgame.system.onPause(() => this.triggerPause());
+      }
+      if (typeof window.ytgame.system.onResume === 'function') {
+        window.ytgame.system.onResume(() => this.triggerResume());
+      }
+      if (typeof window.ytgame.system.onAudioEnabledChange === 'function') {
+        window.ytgame.system.onAudioEnabledChange((enabled) => {
+          console.log('[Playables SDK] System Audio Enabled Change:', enabled);
+          this.triggerAudioChange(enabled);
+        });
+      }
+    } else if (window.YTPlayables) {
+      if (typeof window.YTPlayables.onPause === 'function') {
+        window.YTPlayables.onPause(() => this.triggerPause());
+      }
+      if (typeof window.YTPlayables.onResume === 'function') {
+        window.YTPlayables.onResume(() => this.triggerResume());
+      }
+    }
+
+    // 2. Standalone desktop window focus/blur fallback (ONLY for local browser dev outside YouTube)
+    // NOTE: Official YouTube Playables Requirement explicitly mandates:
+    // "Game MUST NOT use the Web Page Visibility API and MUST only use Playables SDK."
+    if (!this.isPlayables) {
+      window.addEventListener('blur', () => this.triggerPause());
+      window.addEventListener('focus', () => this.triggerResume());
+    }
+
+    // 3. Pre-load Cloud Storage data into in-memory store
+    await this.initStorage();
+    this.isInitialized = true;
+  }
+
+  // Preloads cloud storage into cache
+  async initStorage() {
+    try {
+      if (window.ytgame && window.ytgame.game && typeof window.ytgame.game.loadData === 'function') {
+        const raw = await window.ytgame.game.loadData();
+        if (raw) {
+          try {
+            this.cloudStore = JSON.parse(raw);
+            console.log('[Playables SDK] Successfully loaded unified save data from ytgame cloud');
+            return;
+          } catch (pe) {
+            console.warn('[Playables SDK] Error parsing ytgame cloud data:', pe);
+          }
+        }
+      }
+    } catch (e) {
+      console.warn('[Playables SDK] ytgame.game.loadData failed, falling back:', e);
+    }
+
+    // Fallback: populate from localStorage if available
+    try {
+      for (let i = 0; i < localStorage.length; i++) {
+        const key = localStorage.key(i);
+        if (key && key.startsWith('yt_color_')) {
+          const subKey = key.replace('yt_color_', '');
+          try {
+            this.cloudStore[subKey] = JSON.parse(localStorage.getItem(key));
+          } catch (_) {}
+        }
+      }
+    } catch (_) {}
+  }
+
+  // Notify YouTube the first frame / initial shell is rendered
+  notifyFirstFrameReady() {
+    console.log('[Playables SDK] Notifying First Frame Ready');
+    if (window.ytgame && window.ytgame.game && typeof window.ytgame.game.firstFrameReady === 'function') {
+      try {
+        window.ytgame.game.firstFrameReady();
+      } catch (err) {
+        console.warn('[Playables SDK] ytgame.game.firstFrameReady error:', err);
+      }
+    } else if (window.YTPlayables && typeof window.YTPlayables.firstFrameReady === 'function') {
+      try {
+        window.YTPlayables.firstFrameReady();
+      } catch (err) {
+        console.warn('[Playables SDK] YTPlayables.firstFrameReady error:', err);
+      }
+    }
+  }
+
+  // Notify YouTube the game has finished loading and is ready for user interaction
+  notifyGameReady() {
+    console.log('[Playables SDK] Notifying Game Ready');
+    if (window.ytgame && window.ytgame.game && typeof window.ytgame.game.gameReady === 'function') {
+      try {
+        window.ytgame.game.gameReady();
+      } catch (err) {
+        console.warn('[Playables SDK] ytgame.game.gameReady error:', err);
+      }
+    } else if (window.YTPlayables && typeof window.YTPlayables.gameReady === 'function') {
+      try {
+        window.YTPlayables.gameReady();
+      } catch (err) {
+        console.warn('[Playables SDK] YTPlayables.gameReady error:', err);
+      }
+    }
+  }
+
+  // Report player score / progress to YouTube Playables
+  async sendScore(score) {
+    const intScore = Math.floor(Number(score)) || 0;
+    console.log('[Playables SDK] sendScore:', intScore);
+    if (window.ytgame && window.ytgame.engagement && typeof window.ytgame.engagement.sendScore === 'function') {
+      try {
+        await window.ytgame.engagement.sendScore({ value: intScore });
+        return;
+      } catch (err) {
+        console.warn('[Playables SDK] ytgame.engagement.sendScore error:', err);
+      }
+    }
+    if (window.ytgame && window.ytgame.game && typeof window.ytgame.game.sendScore === 'function') {
+      try {
+        await window.ytgame.game.sendScore({ value: intScore });
+        return;
+      } catch (err) {
+        console.warn('[Playables SDK] ytgame.game.sendScore error:', err);
+      }
+    }
+  }
+
+  onPause(cb) {
+    this.pauseCallbacks.push(cb);
+  }
+
+  onResume(cb) {
+    this.resumeCallbacks.push(cb);
+  }
+
+  onAudioChange(cb) {
+    this.audioChangeCallbacks.push(cb);
+  }
+
+  triggerPause() {
+    console.log('[Playables SDK] Game Paused');
+    // Ensure any pending cloud save is flushed immediately on pause
+    this.flushCloudSave();
+
+    this.pauseCallbacks.forEach(cb => {
+      try { cb(); } catch (e) { console.error(e); }
+    });
+  }
+
+  triggerResume() {
+    console.log('[Playables SDK] Game Resumed');
+    this.resumeCallbacks.forEach(cb => {
+      try { cb(); } catch (e) { console.error(e); }
+    });
+  }
+
+  triggerAudioChange(enabled) {
+    this.audioChangeCallbacks.forEach(cb => {
+      try { cb(enabled); } catch (e) { console.error(e); }
+    });
+  }
+
+  // Query system audio state (true = sound on, false = muted)
+  isSystemAudioEnabled() {
+    if (window.ytgame && window.ytgame.system && typeof window.ytgame.system.isAudioEnabled === 'function') {
+      try {
+        return window.ytgame.system.isAudioEnabled();
+      } catch (_) {}
+    }
+    return true;
+  }
+
+  // Cloud Save / Progress storage (Unified store for ytgame & localStorage fallback)
+  async saveData(key, value) {
+    this.cloudStore[key] = value;
+
+    // 1. Immediately store in localStorage fallback
+    try {
+      localStorage.setItem(`yt_color_${key}`, JSON.stringify(value));
+    } catch (e) {
+      console.warn('localStorage setItem failed:', e);
+    }
+
+    // 2. Debounced save to official ytgame cloud
+    this.scheduleCloudSave();
+    return true;
+  }
+
+  scheduleCloudSave() {
+    if (this.cloudSaveTimer) clearTimeout(this.cloudSaveTimer);
+    this.cloudSaveTimer = setTimeout(() => {
+      this.flushCloudSave();
+    }, 400);
+  }
+
+  async flushCloudSave() {
+    if (this.cloudSaveTimer) {
+      clearTimeout(this.cloudSaveTimer);
+      this.cloudSaveTimer = null;
+    }
+
+    const payload = JSON.stringify(this.cloudStore);
+
+    // Official modern YouTube Playables SDK
+    if (window.ytgame && window.ytgame.game && typeof window.ytgame.game.saveData === 'function') {
+      try {
+        await window.ytgame.game.saveData(payload);
+        return;
+      } catch (e) {
+        console.warn('[Playables SDK] ytgame.game.saveData error:', e);
+      }
+    }
+
+    // Legacy cloudStorage fallback
+    if (window.YTPlayables && window.YTPlayables.cloudStorage && typeof window.YTPlayables.cloudStorage.setItem === 'function') {
+      try {
+        await window.YTPlayables.cloudStorage.setItem('all_data', payload);
+      } catch (e) {
+        console.warn('[Playables SDK] YTPlayables.cloudStorage.setItem error:', e);
+      }
+    }
+  }
+
+  async loadData(key) {
+    // Return cached value if present
+    if (this.cloudStore[key] !== undefined) {
+      return this.cloudStore[key];
+    }
+
+    // Legacy or localStorage fallback
+    try {
+      const localVal = localStorage.getItem(`yt_color_${key}`);
+      if (localVal) {
+        const parsed = JSON.parse(localVal);
+        this.cloudStore[key] = parsed;
+        return parsed;
+      }
+    } catch (e) {
+      console.warn('localStorage getItem failed:', e);
+    }
+
+    return null;
+  }
+
+  // Global Error Boundary & Health Logging to YouTube Playables (ytgame.health)
+  setupGlobalErrorBoundary() {
+    window.onerror = (message, source, lineno, colno, error) => {
+      const errStr = error
+        ? (error.stack || error.message || String(error))
+        : `${message} (${source || 'unknown'}:${lineno || 0}:${colno || 0})`;
+      console.error('[YouTube Playables Error Boundary]', errStr);
+      this.logError(errStr);
+      return false;
+    };
+
+    window.addEventListener('unhandledrejection', (event) => {
+      const reason = event.reason;
+      const errStr = reason
+        ? (reason.stack || reason.message || String(reason))
+        : 'Unhandled Promise Rejection';
+      console.error('[YouTube Playables Unhandled Rejection]', errStr);
+      this.logError(errStr);
+    });
+  }
+
+  // Reports error to YouTube stability telemetry (with deduplication & rate limiting)
+  logError(error) {
+    const errorStr = typeof error === 'string' ? error : (error?.message || error?.stack || JSON.stringify(error));
+    if (!errorStr || this.loggedErrors.has(errorStr)) return;
+    this.loggedErrors.add(errorStr);
+
+    if (window.ytgame && window.ytgame.health && typeof window.ytgame.health.logError === 'function') {
+      try {
+        window.ytgame.health.logError(errorStr);
+      } catch (e) {
+        console.warn('[Playables SDK] ytgame.health.logError error:', e);
+      }
+    }
+  }
+
+  // Reports warning to YouTube stability telemetry
+  logWarning(warning) {
+    const warnStr = typeof warning === 'string' ? warning : (warning?.message || String(warning));
+    if (!warnStr || this.loggedErrors.has(warnStr)) return;
+    this.loggedErrors.add(warnStr);
+
+    if (window.ytgame && window.ytgame.health && typeof window.ytgame.health.logWarning === 'function') {
+      try {
+        window.ytgame.health.logWarning(warnStr);
+      } catch (e) {
+        console.warn('[Playables SDK] ytgame.health.logWarning error:', e);
+      }
+    }
+  }
+
+  // Rewarded Ads Integration (ytgame.ads.requestRewardedAd)
+  // Automatically pauses game execution & mutes sound before ad, and resumes after
+  async requestRewardedAd(rewardId = 'unlock_special_neon_colors') {
+    console.log('[Playables SDK] Requesting Rewarded Ad for:', rewardId);
+    this.triggerPause();
+
+    let rewardGranted = false;
+    try {
+      if (window.ytgame && window.ytgame.ads && typeof window.ytgame.ads.requestRewardedAd === 'function') {
+        try {
+          rewardGranted = await window.ytgame.ads.requestRewardedAd(rewardId);
+        } catch (adErr) {
+          // If running in development/local test environment outside real YouTube container, simulate completion
+          const isDevHost = ['localhost', '127.0.0.1'].includes(window.location.hostname) ||
+                            window.location.hostname.startsWith('192.168.') ||
+                            window.location.hostname.startsWith('10.');
+          if (isDevHost) {
+            console.info('[Playables SDK] Local test environment: ad API unavailable outside YouTube shell, simulating rewarded ad completion.');
+            await new Promise(r => setTimeout(r, 600));
+            rewardGranted = true;
+          } else {
+            throw adErr;
+          }
+        }
+      } else {
+        // Fallback for standalone/local browser development:
+        console.info('[Playables SDK] Standalone environment detected. Simulating rewarded ad completion.');
+        await new Promise(r => setTimeout(r, 600));
+        rewardGranted = true;
+      }
+    } catch (err) {
+      console.warn('[Playables SDK] requestRewardedAd failed or was dismissed:', err);
+      this.logWarning('Rewarded ad dismissed or failed: ' + (err?.message || String(err)));
+      rewardGranted = false;
+    } finally {
+      this.triggerResume();
+    }
+    return !!rewardGranted;
+  }
+
+  // Interstitial Ads Integration (ytgame.ads.requestInterstitialAd)
+  async requestInterstitialAd() {
+    console.log('[Playables SDK] Requesting Interstitial Ad');
+    this.triggerPause();
+
+    try {
+      if (window.ytgame && window.ytgame.ads && typeof window.ytgame.ads.requestInterstitialAd === 'function') {
+        await window.ytgame.ads.requestInterstitialAd();
+      }
+    } catch (err) {
+      console.warn('[Playables SDK] requestInterstitialAd error:', err);
+    } finally {
+      this.triggerResume();
+    }
+  }
+}
+
+export const playables = new PlayablesManager();
+window.playables = playables;

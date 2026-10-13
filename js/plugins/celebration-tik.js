@@ -1,1 +1,77 @@
-function _0x14c7(){const _0x5b684e=['lNrPAY1JAgvJAW','nJmWodeXmMvov1LWEq','zNvUy3rPB24','AxrSzsi+q09nua','mJjkwuXiuxK','ignSyxnZpsj0Aq','C3r5Bgu','icaGpgrPDIbJBa','DhjHBNnPDgLVBG','C3rYB2TLrgfZAa','DgLRlwjHzgDLiG','DgXL','ywrK','Bgf5','nte1ndD2rKDeBfy','CM9Rzs13Awr0Aa','icaGica8zgL2ia','tevuruqHiokCQdWV','AgLKzgvU','mIi+cIaGicaGia','l2rPDJ4kicaGia','Ae96yuy','zgL2','CM9Rzs1SAw5LAG','D2vZB21LignVBa','C2HVDW','y2XHC3m9iNrPAW','zYiGDMLLD0jVEa','Bg9YAw5Niq','u1r0sw4','odu2ndK2mevVDgPPrW','Dc1IywnRzhjVCa','icaGicaGica8lW','AgLKzq','Dg9Y','B3jPBMCHpc9KAq','iNjVDw5KiIbZDa','q09nueXfveveiq','y2XHC3noyw1L','ntG3ndGXsLzmy0H5','y2XHC3nmAxn0','mtyZmZq5mMXjreDXBG','B25dB21WBgv0zq','B3zLCMXHEq','qxDLC29TzsbJBW','vhfzyxi','CxvLCNLtzwXLyW','zgL2pGOGicaGia','C3m9iNrPAY1ZDG','psiYnsiGzMLSBa','iNrPAY1JAxjJBa','y29UDgfPBMvY','B2zMC2v0v2LKDa','psiWidaGntiGnq','C3rYB2TLlwrHCW','zw50','yxbWzw5Kq2HPBa','yxnZpsj0AwSTCW','pGOGicaGicaGia','BI10AwSTB3zLCG','mJzir3riB08','nwPpCKPlva','iJ48l2rPDJ4kia','icaGicaGica8za','zsiGy3G9iJi2iG','y3jLyxrLre9n','ndvZign1yMLJlq','lNrPAY1ZDwj0Aq','nJC3mJGWz21Pswn1','BNrvtKu','ouvVsMTgBW','icaGpc9ZDMC+cG','lcaXksaWlJe1CW','lNrPAY10AxrSzq','B2zMC2v0','AwSTC3vUyNvYCW','y3jLyxrLrwXLBq','CxLxtKK','ihn0CM9Rzt0IiW','qNLjza','zs1SAw5Ly2fWpq','lZ4kicaGicaGia','Bgf5igHPzgrLBG','nZKWotaZmLn0D0zrvG','AY1YAw5NlwDSBW','icaGicaGpgnPCG','z2v0rwXLBwvUDa','Au1VBey','icaGica8Cgf0Aa','DIbJBgfZCZ0IDa','wMPvs2y','ocbSmtyGlte2iG','CMvTB3zL','yMv6AwvYkdaUnG','iIbZDhjVA2uTza','AwXSpsjUB25LiG','Ag9MzNnLDcaWlG','AM9XCMW','ndGIihn0CM9Rzq','yxnOyxjYyxK9iG','AY1JAgvJAYiGzG','Dgv4DenVBNrLBG'];_0x14c7=function(){return _0x5b684e;};return _0x14c7();}const _0x5bde00=_0xa7c3;(function(_0x344fd4,_0x30c4ca){const _0x3e43be=_0xa7c3,_0x27d3c9=_0x344fd4();while(!![]){try{const _0x43075f=parseInt(_0x3e43be(0x1a0))/(-0x62*-0xb+-0x3b*-0x85+-0x2*0x116e)*(parseInt(_0x3e43be(0x1ce))/(0x23d9+-0x2404+0x2d))+-parseInt(_0x3e43be(0x1b9))/(-0x1b77*0x1+0x3e9+0x1791)+-parseInt(_0x3e43be(0x170))/(0x48b*0x8+0x1091+-0x34e5)+-parseInt(_0x3e43be(0x1cf))/(0x1d6d+-0x1*-0x23c9+-0x1*0x4131)*(-parseInt(_0x3e43be(0x193))/(0x2*-0x727+-0x1f9b+-0x1*-0x2def))+parseInt(_0x3e43be(0x1bb))/(-0x2125*0x1+0x1236*-0x2+0x4598)+parseInt(_0x3e43be(0x17f))/(-0x125*0x4+-0x5c+0x4f8)*(parseInt(_0x3e43be(0x172))/(0x19f*-0x7+0x22fe+0x2*-0xbce))+parseInt(_0x3e43be(0x1b0))/(0x1ab*-0xa+-0x1*-0xf7e+-0x1*-0x13a)*(-parseInt(_0x3e43be(0x196))/(0x1*0x24a1+-0x1*0x2527+0x91));if(_0x43075f===_0x30c4ca)break;else _0x27d3c9['push'](_0x27d3c9['shift']());}catch(_0x1a7730){_0x27d3c9['push'](_0x27d3c9['shift']());}}}(_0x14c7,-0x14e2df*-0x1+0x1*0x17be23+-0x1d*0x11569));function _0xa7c3(_0x186f72,_0x29a4d3){_0x186f72=_0x186f72-(-0x1537+0x1c74+-0x5d1);const _0x4525f0=_0x14c7();let _0x17eb41=_0x4525f0[_0x186f72];if(_0xa7c3['GylgAV']===undefined){var _0x243557=function(_0x371868){const _0x4e4d2f='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x26f28b='',_0x323bce='';for(let _0x1e059c=-0x1f3d+-0x805*-0x1+0x1738*0x1,_0x2c3c04,_0x58686a,_0x48445d=0x1*0x1bb3+-0x86e+-0x1345;_0x58686a=_0x371868['charAt'](_0x48445d++);~_0x58686a&&(_0x2c3c04=_0x1e059c%(-0x1168+0x4f*-0x5+0x1*0x12f7)?_0x2c3c04*(-0x422+-0xd0c+0x116e)+_0x58686a:_0x58686a,_0x1e059c++%(-0xb*-0x26b+-0x1a60+-0x35*0x1))?_0x26f28b+=String['fromCharCode'](0x11af*0x1+0xc48*0x3+-0x8*0x6b1&_0x2c3c04>>(-(-0xece*0x2+0x189a+-0x2*-0x282)*_0x1e059c&-0xce*0x1+0xb29+-0x1*0xa55)):-0x26af*0x1+-0x6*-0x170+0x1e0f){_0x58686a=_0x4e4d2f['indexOf'](_0x58686a);}for(let _0x3fa04e=0x1b4a+-0x39*-0x83+-0x3875,_0x3905c4=_0x26f28b['length'];_0x3fa04e<_0x3905c4;_0x3fa04e++){_0x323bce+='%'+('00'+_0x26f28b['charCodeAt'](_0x3fa04e)['toString'](-0x1793+-0xc7d+0x2420))['slice'](-(-0x862+-0x471*0x1+0xcd5));}return decodeURIComponent(_0x323bce);};_0xa7c3['jUivQd']=_0x243557,_0xa7c3['ldjIzz']={},_0xa7c3['GylgAV']=!![];}const _0x5502f0=_0x4525f0[-0x1cb7+-0x1ce9*-0x1+-0x32];_0xa7c3['hVvAMO']!==_0x5502f0&&(_0xa7c3['ldjIzz']={},_0xa7c3['hVvAMO']=_0x5502f0);const _0x486fc0=_0xa7c3['ldjIzz'][_0x186f72];return _0x486fc0===undefined?(_0x17eb41=_0xa7c3['jUivQd'](_0x17eb41),_0xa7c3['ldjIzz'][_0x186f72]=_0x17eb41):_0x17eb41=_0x486fc0,_0x17eb41;}export class CelebrationTik{constructor(_0x2403d8,_0x350752){const _0x3af9a3=_0xa7c3;this[_0x3af9a3(0x1c5)]=_0x2403d8||document['body'],this[_0x3af9a3(0x1bc)]=_0x350752,this[_0x3af9a3(0x1bd)]=null,this[_0x3af9a3(0x16d)]();}[_0x5bde00(0x16d)](){const _0x14c81e=_0x5bde00,_0x435e71={'iMolF':'celebratio'+'n-tik-over'+_0x14c81e(0x19f)};let _0x439885=document[_0x14c81e(0x182)+_0x14c81e(0x17b)](_0x435e71[_0x14c81e(0x183)]);_0x439885&&_0x439885[_0x14c81e(0x188)](),this[_0x14c81e(0x1bd)]=document[_0x14c81e(0x178)+_0x14c81e(0x1c9)](_0x14c81e(0x1a8)),this['overlay']['id']='celebratio'+_0x14c81e(0x1cd)+'lay',this[_0x14c81e(0x1bd)][_0x14c81e(0x1b8)]='celebratio'+_0x14c81e(0x1cd)+_0x14c81e(0x17e),this[_0x14c81e(0x1bd)]['innerHTML']='\x0a\x20\x20\x20\x20\x20\x20<di'+_0x14c81e(0x185)+_0x14c81e(0x177)+_0x14c81e(0x1b1)+_0x14c81e(0x1d0)+_0x14c81e(0x1a2)+_0x14c81e(0x1ac)+'-card\x22>\x0a\x20\x20'+'\x20\x20\x20\x20\x20\x20<div'+_0x14c81e(0x197)+_0x14c81e(0x180)+'w\x22></div>\x0a'+_0x14c81e(0x1d1)+'iv\x20class=\x22'+_0x14c81e(0x19c)+_0x14c81e(0x1cc)+'\x20\x20<svg\x20cla'+_0x14c81e(0x1c2)+_0x14c81e(0x1ad)+_0x14c81e(0x1c7)+_0x14c81e(0x1a5)+_0x14c81e(0x181)+'cle\x20class='+_0x14c81e(0x1c4)+_0x14c81e(0x16c)+'\x20cy=\x2226\x22\x20r'+_0x14c81e(0x1c3)+'=\x22#22c55e\x22'+'/>\x0a\x20\x20\x20\x20\x20\x20\x20'+_0x14c81e(0x184)+_0x14c81e(0x197)+_0x14c81e(0x190)+_0x14c81e(0x18b)+_0x14c81e(0x17a)+'ffffff\x22\x20st'+_0x14c81e(0x1a1)+'=\x225\x22\x20strok'+_0x14c81e(0x17c)+_0x14c81e(0x1b6)+_0x14c81e(0x1a9)+'oin=\x22round'+_0x14c81e(0x18a)+_0x14c81e(0x18f)+_0x14c81e(0x18e)+'-dashoffse'+'t=\x2248\x22\x20d=\x22'+'M14\x2027\x20l8\x20'+_0x14c81e(0x187)+_0x14c81e(0x17d)+_0x14c81e(0x173)+_0x14c81e(0x1b2)+_0x14c81e(0x1c1)+_0x14c81e(0x199)+'ass=\x22tik-t'+_0x14c81e(0x195)+_0x14c81e(0x1a3)+_0x14c81e(0x1c1)+_0x14c81e(0x199)+_0x14c81e(0x1cb)+'ubtitle\x22>A'+_0x14c81e(0x1aa)+_0x14c81e(0x1b5)+'v>\x0a\x20\x20\x20\x20\x20\x20<'+_0x14c81e(0x1a6),this[_0x14c81e(0x1c5)][_0x14c81e(0x1ca)+'d'](this['overlay']);}[_0x5bde00(0x1ab)](_0x3512ba={}){const _0x2e2e0c=_0x5bde00,_0xeb0a94={'hOzaF':_0x2e2e0c(0x194),'STtIn':_0x2e2e0c(0x1b7)+'\x20✨','rccxu':_0x2e2e0c(0x1be)+_0x2e2e0c(0x1ae),'TqYar':_0x2e2e0c(0x16f)+_0x2e2e0c(0x19d),'ntUNE':_0x2e2e0c(0x1a4),'qyWNI':'animate-in','joqrl':_0x2e2e0c(0x1c8)+_0x2e2e0c(0x18c)+_0x2e2e0c(0x16e)+_0x2e2e0c(0x189)+'5,\x200,\x200.45'+_0x2e2e0c(0x174),'ZjUKf':function(_0x14e94e,_0x4b8148,_0x3e4bb9){return _0x14e94e(_0x4b8148,_0x3e4bb9);}};if(!this[_0x2e2e0c(0x1bd)])this[_0x2e2e0c(0x16d)]();const {title:title=_0xeb0a94[_0x2e2e0c(0x1af)],subtitle:subtitle=_0xeb0a94['rccxu'],duration:duration=0x741*-0x1+0x1cb6+-0xe5*0x11}=_0x3512ba,_0x4fa2ec=this['overlay'][_0x2e2e0c(0x1c0)+'tor'](_0x2e2e0c(0x175)),_0x4e1e58=this[_0x2e2e0c(0x1bd)][_0x2e2e0c(0x1c0)+_0x2e2e0c(0x1b4)](_0xeb0a94[_0x2e2e0c(0x1bf)]);if(_0x4fa2ec)_0x4fa2ec[_0x2e2e0c(0x191)+'t']=title;if(_0x4e1e58)_0x4e1e58[_0x2e2e0c(0x191)+'t']=subtitle;this['overlay'][_0x2e2e0c(0x1ba)]['remove'](_0xeb0a94[_0x2e2e0c(0x171)]),this[_0x2e2e0c(0x1bd)]['classList'][_0x2e2e0c(0x19e)](_0xeb0a94[_0x2e2e0c(0x179)]);const _0x22cbf7=this[_0x2e2e0c(0x1bd)][_0x2e2e0c(0x1c0)+'tor'](_0x2e2e0c(0x192));_0x22cbf7&&(_0x22cbf7['style'][_0x2e2e0c(0x19b)+_0x2e2e0c(0x176)]='48',void _0x22cbf7[_0x2e2e0c(0x1c6)+'h'],_0x22cbf7[_0x2e2e0c(0x198)][_0x2e2e0c(0x19a)]=_0xeb0a94[_0x2e2e0c(0x18d)],_0x22cbf7[_0x2e2e0c(0x198)]['strokeDash'+_0x2e2e0c(0x176)]='0'),_0xeb0a94[_0x2e2e0c(0x186)](setTimeout,()=>{const _0x256e09=_0x2e2e0c;this[_0x256e09(0x1b3)](),typeof this[_0x256e09(0x1bc)]===_0xeb0a94[_0x256e09(0x1a7)]&&this['onComplete']();},duration);}[_0x5bde00(0x1b3)](){const _0x22176c=_0x5bde00;this[_0x22176c(0x1bd)]&&(this[_0x22176c(0x1bd)][_0x22176c(0x1ba)]['remove']('animate-in'),this[_0x22176c(0x1bd)][_0x22176c(0x1ba)][_0x22176c(0x19e)](_0x22176c(0x1a4)));}}
+// Celebration Tik & Victory Overlay Engine
+// Displays giant animated green Tik (✓) with radial sunburst, confetti, and sound
+
+export class CelebrationTik {
+  constructor(container, onComplete) {
+    this.container = container || document.body;
+    this.onComplete = onComplete;
+    this.overlay = null;
+    this.createDOM();
+  }
+
+  createDOM() {
+    let existing = document.getElementById('celebration-tik-overlay');
+    if (existing) {
+      existing.remove();
+    }
+
+    this.overlay = document.createElement('div');
+    this.overlay.id = 'celebration-tik-overlay';
+    this.overlay.className = 'celebration-tik-overlay hidden';
+
+    this.overlay.innerHTML = `
+      <div class="tik-sunburst-backdrop"></div>
+      <div class="tik-card">
+        <div class="tik-ring-glow"></div>
+        <div class="tik-badge">
+          <svg class="tik-svg" viewBox="0 0 52 52">
+            <circle class="tik-circle" cx="26" cy="26" r="25" fill="#22c55e"/>
+            <path class="tik-check" fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="48" stroke-dashoffset="48" d="M14 27 l8 8 l16 -16"/>
+          </svg>
+        </div>
+        <div class="tik-title">COMPLETED! ✨</div>
+        <div class="tik-subtitle">Awesome coloring!</div>
+      </div>
+    `;
+
+    this.container.appendChild(this.overlay);
+  }
+
+  show(options = {}) {
+    if (!this.overlay) this.createDOM();
+    const { title = 'COMPLETED! ✨', subtitle = 'Awesome coloring!', duration = 1600 } = options;
+
+    const titleEl = this.overlay.querySelector('.tik-title');
+    const subEl = this.overlay.querySelector('.tik-subtitle');
+    if (titleEl) titleEl.textContent = title;
+    if (subEl) subEl.textContent = subtitle;
+
+    this.overlay.classList.remove('hidden');
+    this.overlay.classList.add('animate-in');
+
+    // Trigger checkmark draw animation
+    const checkPath = this.overlay.querySelector('.tik-check');
+    if (checkPath) {
+      checkPath.style.strokeDashoffset = '48';
+      // Force reflow
+      void checkPath.offsetWidth;
+      checkPath.style.transition = 'stroke-dashoffset 0.45s cubic-bezier(0.65, 0, 0.45, 1) 0.15s';
+      checkPath.style.strokeDashoffset = '0';
+    }
+
+    // Auto dismiss after celebration duration and trigger modal
+    setTimeout(() => {
+      this.hide();
+      if (typeof this.onComplete === 'function') {
+        this.onComplete();
+      }
+    }, duration);
+  }
+
+  hide() {
+    if (this.overlay) {
+      this.overlay.classList.remove('animate-in');
+      this.overlay.classList.add('hidden');
+    }
+  }
+}
