@@ -21,9 +21,9 @@
   
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600;700&family=Plus+Jakarta+Sans:wght@500;600;700;800&family=Quicksand:wght@600;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600;700;800&family=Baloo+2:wght@800&family=Plus+Jakarta+Sans:wght@500;600;700;800&family=Quicksand:wght@600;700&display=swap" rel="stylesheet">
   
-  <link rel="stylesheet" href="./style.css?v=52">
+  <link rel="stylesheet" href="./style.css?v=55">
 
   <!-- Suno Games Studio - Cryptographic License Shield -->
   <script>
@@ -42,22 +42,60 @@
   <div id="app">
     
     <section id="screen-splash" class="screen active">
-      
-      <div class="video-splash-stage" id="video-splash-stage">
-        <video id="splash-video" autoplay muted playsinline webkit-playsinline loop preload="auto" aria-label="Animated Elephant Splash">
-          <source src="assets/smaller.mp4" type="video/mp4">
-        </video>
+      <div class="argon-splash-stage" id="stage" aria-label="Animal Colors Splash Screen">
         
-        <canvas id="splash-sparkles-canvas" class="splash-sparkles-canvas"></canvas>
+        <canvas id="bg-splat-canvas"></canvas>
+
         
-        <div class="splash-loading-mask" aria-hidden="true"></div>
+        <canvas id="fx-canvas"></canvas>
+
         
-        <div class="splash-video-footer visible">
-          <button id="btn-splash-play" class="splash-start-btn splash-play-glass" title="Play Game" aria-label="Play">
-            <span class="start-play-arrow">▶</span>
-            <span class="start-label">PLAY</span>
-          </button>
+        <header class="title-stage" id="titleStage" title="Tap any letter to bounce & splash paint!">
+          <h1 class="word-row line-animal" aria-label="ANIMAL">
+            <span class="wc-letter">A</span>
+            <span class="wc-letter">N</span>
+            <span class="wc-letter">I</span>
+            <span class="wc-letter">M</span>
+            <span class="wc-letter">A</span>
+            <span class="wc-letter">L</span>
+          </h1>
+          <div class="word-row line-colors" aria-label="COLORS">
+            <span class="wc-letter">C</span>
+            <span class="wc-letter">O</span>
+            <span class="wc-letter">L</span>
+            <span class="wc-letter">O</span>
+            <span class="wc-letter">R</span>
+            <span class="wc-letter">S</span>
+          </div>
+        </header>
+
+        
+        <div class="dancer-stage" id="dancerStage" title="Tap the Dancing Mascot to Jump & Splash Colors!">
+          <canvas id="dancer-canvas" width="540" height="510"></canvas>
         </div>
+
+        
+        <footer class="cta-zone">
+          <div class="play-btn-wrap">
+            <button class="play-btn" id="playBtn" aria-label="Play Game" type="button">
+              <span class="play-icon-badge">
+                <svg viewBox="0 0 24 24">
+                  <path d="M8 5.14v14l11-7-11-7z" />
+                </svg>
+              </span>
+              <span class="play-label">PLAY</span>
+            </button>
+          </div>
+
+          <div class="palette-row" aria-label="Interactive Paint Colors">
+            <span class="paint-dot" style="--dot-clr:#E83F1E; --d:0" data-color="#E83F1E" title="Splash Red"></span>
+            <span class="paint-dot" style="--dot-clr:#FA9F1B; --d:1" data-color="#FA9F1B" title="Splash Orange-Gold"></span>
+            <span class="paint-dot" style="--dot-clr:#29A643; --d:2" data-color="#29A643" title="Splash Green"></span>
+            <span class="paint-dot" style="--dot-clr:#0984E3; --d:3" data-color="#0984E3" title="Splash Blue"></span>
+            <span class="paint-dot" style="--dot-clr:#6C2B96; --d:4" data-color="#6C2B96" title="Splash Purple"></span>
+            <span class="paint-dot" style="--dot-clr:#C82E82; --d:5" data-color="#C82E82" title="Splash Pink"></span>
+          </div>
+        </footer>
       </div>
     </section>
 
