@@ -24,7 +24,21 @@
   <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@700;800&family=Baloo+2:wght@800&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600;700;800&family=Baloo+2:wght@800&family=Plus+Jakarta+Sans:wght@500;600;700;800&family=Quicksand:wght@600;700&display=swap" rel="stylesheet">
   
-  <link rel="stylesheet" href="./style.css?v=63">
+  <link rel="stylesheet" href="./style.css?v=101">
+
+  
+  <link rel="preload" as="image" href="assets/icons/marker.svg" fetchpriority="high">
+  <link rel="preload" as="image" href="assets/icons/pencil.png" fetchpriority="high">
+  <link rel="preload" as="image" href="assets/icons/brush.png" fetchpriority="high">
+  <link rel="preload" as="image" href="assets/icons/Bucket.svg" fetchpriority="high">
+  <link rel="preload" as="image" href="assets/icons/dough.svg" fetchpriority="high">
+  <link rel="preload" as="image" href="assets/icons/sponge.webp" fetchpriority="high">
+  <link rel="preload" as="image" href="assets/icons/thread.svg" fetchpriority="high">
+  <link rel="preload" as="image" href="assets/Elphant.svg" fetchpriority="high">
+  <link rel="preload" as="image" href="assets/icons/glitter.png" fetchpriority="high">
+  <link rel="preload" as="image" href="assets/icons/Eraser_01.svg" fetchpriority="high">
+  <link rel="preload" as="image" href="assets/icons/undo.svg" fetchpriority="high">
+  <link rel="preload" as="image" href="assets/icons/Selection.svg" fetchpriority="high">
 
   <!-- Suno Games Studio - Cryptographic License Shield -->
   <script>
@@ -40,6 +54,21 @@
 
 </head>
 <body>
+  
+  <div aria-hidden="true" style="position:fixed;left:0;top:0;width:1px;height:1px;opacity:0.001;pointer-events:none;overflow:hidden;z-index:-1;">
+    <img src="assets/icons/marker.svg" alt="" width="1" height="1" loading="eager" decoding="sync"/>
+    <img src="assets/icons/pencil.png" alt="" width="1" height="1" loading="eager" decoding="sync"/>
+    <img src="assets/icons/brush.png" alt="" width="1" height="1" loading="eager" decoding="sync"/>
+    <img src="assets/icons/Bucket.svg" alt="" width="1" height="1" loading="eager" decoding="sync"/>
+    <img src="assets/icons/dough.svg" alt="" width="1" height="1" loading="eager" decoding="sync"/>
+    <img src="assets/icons/sponge.webp" alt="" width="1" height="1" loading="eager" decoding="sync"/>
+    <img src="assets/icons/thread.svg" alt="" width="1" height="1" loading="eager" decoding="sync"/>
+    <img src="assets/Elphant.svg" alt="" width="1" height="1" loading="eager" decoding="sync"/>
+    <img src="assets/icons/glitter.png" alt="" width="1" height="1" loading="eager" decoding="sync"/>
+    <img src="assets/icons/Eraser_01.svg" alt="" width="1" height="1" loading="eager" decoding="sync"/>
+    <img src="assets/icons/undo.svg" alt="" width="1" height="1" loading="eager" decoding="sync"/>
+    <img src="assets/icons/Selection.svg" alt="" width="1" height="1" loading="eager" decoding="sync"/>
+  </div>
   <div id="app">
     
     <section id="screen-splash" class="screen active">
@@ -511,12 +540,20 @@
 
       <main class="studio-main-area">
         
-        <div class="studio-level-card-banner">
+        <div class="studio-level-card-banner has-speaker">
+          
+          <button id="btn-speak-animal" class="animal-speech-btn" type="button" title="Pronounce Animal Name" aria-label="Pronounce Animal Name">
+            <img src="assets/icons/waveform.svg" alt="Audio" class="speaker-svg-icon" />
+          </button>
+
+          
           <div class="studio-level-info-col">
             <div id="studio-level-headline" class="studio-level-badge-title">LEVEL 1</div>
-            <div id="studio-pill-name" class="studio-animal-badge-name">BEAR</div>
+            <div id="studio-pill-name" class="studio-animal-badge-name" title="Pronounce Animal Name">BEAR</div>
           </div>
-          <div class="studio-animal-badge-avatar-wrap">
+
+          
+          <div class="studio-animal-badge-avatar-wrap" id="studio-animal-avatar-clickable" title="Pronounce Animal Name">
             <img id="studio-pill-avatar" class="studio-animal-badge-avatar" src="" alt="avatar"/>
           </div>
         </div>
@@ -524,7 +561,16 @@
         
         <div id="canvas-container">
           
-          <div id="studio-loader" class="studio-loader">Loading Artwork... 🎨</div>
+          <div id="studio-loader" class="studio-loader" aria-hidden="true">
+            <div class="studio-spinner-wrap">
+              <div class="studio-rainbow-spinner"></div>
+              <svg class="studio-spinner-icon" viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M18.37 2.63 14 7l-1.59-1.59a2 2 0 0 0-2.82 0L8 7l9 9 1.59-1.59a2 2 0 0 0 0-2.82L17 10l4.37-4.37a2.12 2.12 0 1 0-3-3Z" fill="#FF8C24" stroke="#EA580C"/>
+                <path d="M9 8c-2 3-4 3.5-7 4l8 10c2-1 6-5 6-7" fill="#FEF3C7" stroke="#D97706"/>
+                <path d="M14.5 17.5 3 6" stroke="#EA580C"/>
+              </svg>
+            </div>
+          </div>
           <button id="btn-complete-tick" class="canvas-corner-tick-btn hidden" title="Finish &amp; Celebrate Artwork">
             <span class="corner-tick-icon">
               <svg viewBox="0 0 24 24" width="34" height="34" fill="none" stroke="#ffffff" stroke-width="3.8" stroke-linecap="round" stroke-linejoin="round">
@@ -534,11 +580,11 @@
           </button>
           
           <button id="btn-corner-eraser" class="canvas-corner-eraser-btn" title="Eraser Tool">
-            <img src="assets/icons/Eraser_01.svg" alt="Eraser" class="corner-eraser-img"/>
+            <img src="assets/icons/Eraser_01.svg" alt="Eraser" class="corner-eraser-img" loading="eager" decoding="sync" fetchpriority="high"/>
           </button>
           
           <button id="btn-undo" class="canvas-corner-undo-btn" title="Undo Last Stroke">
-            <img src="assets/icons/undo.svg" alt="Undo" class="corner-undo-img"/>
+            <img src="assets/icons/undo.svg" alt="Undo" class="corner-undo-img" loading="eager" decoding="sync" fetchpriority="high"/>
           </button>
         </div>
 
@@ -548,44 +594,72 @@
             
           </div>
           <button id="btn-toggle-more-colors" class="bubbly-btn more-colors-toggle-btn" title="More Colors">
-            <img src="assets/icons/Selection.svg" alt="More Colors" class="selection-btn-img"/>
+            <img src="assets/icons/Selection.svg" alt="More Colors" class="selection-btn-img" loading="eager" decoding="sync" fetchpriority="high"/>
           </button>
         </div>
       </main>
 
       
       <footer class="studio-controls-bar">
-        <div class="tools-tray">
-          <button class="tool-btn active" data-tool="crayon" title="Marker">
-            <span class="tool-icon">
-              <img src="assets/icons/marker.svg" alt="Marker" class="tool-btn-img"/>
-            </span>
-          </button>
-          <button class="tool-btn" data-tool="dough" title="Dough (Play-Doh ASMR)">
-            <span class="tool-icon">
-              <img src="assets/icons/dough.svg" alt="Dough" class="tool-btn-img"/>
-            </span>
-          </button>
-          <button class="tool-btn" data-tool="yarn" title="Yarn (Wool Thread ASMR)">
-            <span class="tool-icon">
-              <img src="assets/icons/thread.svg" alt="Yarn" class="tool-btn-img"/>
-            </span>
-          </button>
-          <button class="tool-btn" data-tool="sponge" title="Sponge (ASMR Texture)">
-            <span class="tool-icon">
-              <img src="assets/icons/sponge.webp" alt="Sponge" class="tool-btn-img"/>
-            </span>
-          </button>
-          <button class="tool-btn" data-tool="fill" title="Bucket Fill">
-            <span class="tool-icon">
-              <img src="assets/icons/Bucket.svg" alt="Bucket" class="tool-btn-img"/>
-            </span>
-          </button>
-          <button class="tool-btn" data-tool="splash" title="Elephant Rainbow Spray">
-            <span class="tool-icon">
-              <img src="assets/Elphant.svg" alt="Elephant Spray" class="tool-btn-img elephant-tool-btn-img"/>
-            </span>
-          </button>
+        <div class="tools-carousel-wrap">
+          <button type="button" id="btn-tools-scroll-left" class="tools-scroll-btn left hidden" aria-label="Scroll Tools Left">‹</button>
+          <div class="tools-tray" id="studio-tools-tray">
+            
+            <button class="tool-btn active" data-tool="crayon" title="Marker">
+              <span class="tool-icon">
+                <img src="assets/icons/marker.svg" alt="Marker" class="tool-btn-img" loading="eager" decoding="sync" fetchpriority="high"/>
+              </span>
+            </button>
+            
+            <button class="tool-btn" data-tool="brush" title="Color Paint Brush">
+              <span class="tool-icon">
+                <img src="assets/icons/brush.png" alt="Color Paint Brush" class="tool-btn-img" loading="eager" decoding="sync" fetchpriority="high"/>
+              </span>
+            </button>
+            
+            <button class="tool-btn" data-tool="fill" title="Bucket Fill">
+              <span class="tool-icon">
+                <img src="assets/icons/Bucket.svg" alt="Bucket" class="tool-btn-img" loading="eager" decoding="sync" fetchpriority="high"/>
+              </span>
+            </button>
+            
+            <button class="tool-btn" data-tool="dough" title="Dough (Play-Doh ASMR)">
+              <span class="tool-icon">
+                <img src="assets/icons/dough.svg" alt="Dough" class="tool-btn-img" loading="eager" decoding="sync" fetchpriority="high"/>
+              </span>
+            </button>
+            
+            <button class="tool-btn" data-tool="sponge" title="Sponge (ASMR Texture)">
+              <span class="tool-icon">
+                <img src="assets/icons/sponge.webp" alt="Sponge" class="tool-btn-img" loading="eager" decoding="sync" fetchpriority="high"/>
+              </span>
+            </button>
+            
+            <button class="tool-btn" data-tool="pencil" title="Color Pencil">
+              <span class="tool-icon">
+                <img src="assets/icons/pencil.png" alt="Color Pencil" class="tool-btn-img" loading="eager" decoding="sync" fetchpriority="high"/>
+              </span>
+            </button>
+            
+            <button class="tool-btn" data-tool="glitter" title="Magic Glitter">
+              <span class="tool-icon">
+                <img src="assets/icons/glitter.png" alt="Magic Glitter" class="tool-btn-img" loading="eager" decoding="sync" fetchpriority="high"/>
+              </span>
+            </button>
+            
+            <button class="tool-btn" data-tool="yarn" title="Yarn (Wool Thread ASMR)">
+              <span class="tool-icon">
+                <img src="assets/icons/thread.svg" alt="Yarn" class="tool-btn-img" loading="eager" decoding="sync" fetchpriority="high"/>
+              </span>
+            </button>
+            
+            <button class="tool-btn" data-tool="splash" title="Elephant Rainbow Spray">
+              <span class="tool-icon">
+                <img src="assets/Elphant.svg" alt="Elephant Spray" class="tool-btn-img elephant-tool-btn-img" loading="eager" decoding="sync" fetchpriority="high"/>
+              </span>
+            </button>
+          </div>
+          <button type="button" id="btn-tools-scroll-right" class="tools-scroll-btn right" aria-label="Scroll Tools Right">›</button>
         </div>
       </footer>
 
@@ -674,26 +748,28 @@
     </div>
 
     
-    <div id="modal-unlock-level" class="modal-overlay">
-      <div class="modal-card modal-unlock-card">
-        <div class="unlock-icon-big">🔒</div>
-        <h2 id="unlock-level-title" class="modal-headline">Unlock Animal?</h2>
-        
-        <div class="unlock-cost-badge">
-          <span>Cost:</span>
-          <span class="cost-val"><img src="assets/icons/dollar.webp" alt="Coins" class="coin-dollar-img"/> 50 Coins</span>
-        </div>
-
-        <div id="unlock-insufficient-notice" class="unlock-notice-box hidden">
-          Need 50 Coins to unlock! ⭐
-        </div>
-
-        <div class="modal-actions-stacked">
-          <button id="btn-confirm-unlock" class="play-button-big modal-btn-unlock">
-            <span>🔓</span>
-            <span>Unlock Now</span>
+    <div id="modal-unlock-level" class="modal-overlay unlock-animal-modal-overlay" role="dialog" aria-modal="true" aria-label="Unlock Animal">
+      <div class="unlock-animal-modal-sheet">
+        <div class="unlock-animal-modal-inner">
+          <button type="button" class="unlock-animal-modal-close" id="btn-cancel-unlock" title="Close" aria-label="Close">
+            <svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
+              <line x1="18" y1="6" x2="6" y2="18"></line>
+              <line x1="6" y1="6" x2="18" y2="18"></line>
+            </svg>
           </button>
-          <button id="btn-cancel-unlock" class="bubbly-btn modal-sub-btn">Back to Selection</button>
+          <div class="unlock-animal-preview-tile" id="unlock-animal-preview">
+            <div class="unlock-animal-preview-paper">
+              <img id="unlock-animal-preview-img" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="" class="unlock-animal-preview-img" />
+            </div>
+          </div>
+          <h2 id="unlock-level-title" class="unlock-animal-modal-title">Unlock Animal</h2>
+          <p class="unlock-animal-modal-subtitle">Unlock to Color</p>
+          <div class="unlock-animal-actions-wrap">
+            <button type="button" id="btn-unlock-animal-coins" class="btn-unlock-animal-opt btn-unlock-animal-coins">
+              <img src="assets/icons/dollar.webp" alt="Coins" class="unlock-animal-coin-emblem"/>
+              <span>Unlock with 50 Coins</span>
+            </button>
+          </div>
         </div>
       </div>
     </div>
@@ -709,6 +785,6 @@
 
   </div>
 
-  <script type="module" src="./js/app.js?v=64"></script>
+  <script type="module" src="./js/app.js?v=137"></script>
 </body>
 </html>
