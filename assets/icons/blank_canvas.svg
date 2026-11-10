@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="none">
+  <!-- Wooden easel legs -->
+  <path d="M18 46 L10 60" stroke="#f59e0b" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M46 46 L54 60" stroke="#f59e0b" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M32 46 L32 58" stroke="#d97706" stroke-width="3" stroke-linecap="round"/>
+  <!-- Easel shelf bar -->
+  <rect x="8" y="44" width="48" height="4.5" rx="2" fill="#f59e0b"/>
+  <!-- White Canvas Board with Soft Sky Border -->
+  <rect x="10" y="8" width="44" height="36" rx="5" fill="#ffffff" stroke="#38bdf8" stroke-width="2.5"/>
+  <!-- Colorful Paint Swatches on Canvas -->
+  <circle cx="21" cy="20" r="3.2" fill="#ef4444"/>
+  <circle cx="31" cy="18" r="3.2" fill="#3b82f6"/>
+  <circle cx="41" cy="22" r="3.2" fill="#10b981"/>
+  <circle cx="25" cy="30" r="3.2" fill="#f59e0b"/>
+  <circle cx="36" cy="31" r="3.2" fill="#8b5cf6"/>
+  <!-- Crayon / Brush tip -->
+  <path d="M42 12 L46 8 L49 11 L45 15 Z" fill="#ec4899"/>
+  <!-- Golden Sparkle -->
+  <path d="M14 6 L15 8 L17 9 L15 10 L14 12 L13 10 L11 9 L13 8 Z" fill="#fbbf24"/>
+</svg>
